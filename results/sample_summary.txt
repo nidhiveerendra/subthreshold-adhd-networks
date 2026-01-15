@@ -1,0 +1,11 @@
+NYU ADHD-200 SAMPLE SUMMARY
+Total subjects: 222
+Valid ADHD scores: 218
+
+GROUP SIZES:
+  Neurotypical:     2
+  Subthreshold:   105  ⭐
+  Diagnosed:      113
+
+Age: 11.6 ± 2.9 years
+Date: 2026-01-11
