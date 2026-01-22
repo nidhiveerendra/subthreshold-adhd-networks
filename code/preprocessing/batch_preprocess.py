@@ -5,13 +5,18 @@ Only processes subjects in the subthreshold (105) and diagnosed (113) groups
 
 import pandas as pd
 import os
-from preprocess_single import preprocess_subject
+import sys
 from datetime import datetime
 import time
 
-def batch_preprocess(phenotypic_file='data/phenotypic/NYU_phenotypic.csv',
-                     data_dir='data/raw/NYU',
-                     output_dir='data/processed/NYU'):
+# Add current directory to path
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from preprocess_single import preprocess_subject
+
+def batch_preprocess(phenotypic_file='../../data/phenotypic/NYU_phenotypic.csv',
+                     data_dir='../../data/raw/NYU',
+                     output_dir='../../data/processed/NYU'):
     """
     Batch preprocess all subjects in subthreshold and diagnosed groups
     """
@@ -84,19 +89,19 @@ def batch_preprocess(phenotypic_file='data/phenotypic/NYU_phenotypic.csv',
     print(f"Failed: {len(failed)}/{len(subjects_to_process)}")
     
     if failed:
-        print(f"\n Failed subjects:")
+        print(f"\nFailed subjects:")
         for subj in failed:
             print(f"   - {subj}")
         
         # Save failed list
-        with open('data/processed/failed_subjects.txt', 'w') as f:
+        with open('../../data/processed/failed_subjects.txt', 'w') as f:
             f.write("Failed Subjects\n")
             for subj in failed:
                 f.write(f"{subj}\n")
         print(f"\n   Saved list to: data/processed/failed_subjects.txt")
     
     # Save processing log
-    log_file = 'data/processed/preprocessing_log.txt'
+    log_file = '../../data/processed/preprocessing_log.txt'
     with open(log_file, 'w') as f:
         f.write("PREPROCESSING LOG\n")
         f.write(f"Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
