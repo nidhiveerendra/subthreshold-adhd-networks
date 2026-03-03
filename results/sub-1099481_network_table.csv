@@ -1,0 +1,991 @@
+Subject_ID,Group,ADHD_Index,Region_A,Region_B,Fisher_Z
+1099481,Diagnosed,86,Postcentral Gyrus,Cingulate Gyrus (posterior),1.5186
+1099481,Diagnosed,86,Central Opercular Cortex,Parietal Operculum Cortex,1.4133
+1099481,Diagnosed,86,Subcallosal Cortex,Paracingulate Gyrus,1.3722
+1099481,Diagnosed,86,Postcentral Gyrus,Cingulate Gyrus (anterior),1.3696
+1099481,Diagnosed,86,Precentral Gyrus,Inferior Temporal Gyrus (temporooccipital),1.3613
+1099481,Diagnosed,86,Insular Cortex,Temporal Occipital Fusiform Cortex,1.3537
+1099481,Diagnosed,86,Angular Gyrus,Cingulate Gyrus (posterior),1.3363
+1099481,Diagnosed,86,Superior Frontal Gyrus,Subcallosal Cortex,1.3223
+1099481,Diagnosed,86,Superior Frontal Gyrus,Frontal Medial Cortex,1.2952
+1099481,Diagnosed,86,Paracingulate Gyrus,Cingulate Gyrus (anterior),1.2914
+1099481,Diagnosed,86,Superior Frontal Gyrus,Precentral Gyrus,1.2711
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Parietal Operculum Cortex,1.2687
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Central Opercular Cortex,1.2665
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Postcentral Gyrus,1.2634
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Cingulate Gyrus (posterior),1.2613
+1099481,Diagnosed,86,Frontal Medial Cortex,Subcallosal Cortex,1.2533
+1099481,Diagnosed,86,Postcentral Gyrus,Angular Gyrus,1.2383
+1099481,Diagnosed,86,Precentral Gyrus,Supramarginal Gyrus (anterior),1.2222
+1099481,Diagnosed,86,Precentral Gyrus,Paracingulate Gyrus,1.2202
+1099481,Diagnosed,86,Middle Frontal Gyrus,Paracingulate Gyrus,1.216
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Angular Gyrus,1.2118
+1099481,Diagnosed,86,Precentral Gyrus,Postcentral Gyrus,1.1927
+1099481,Diagnosed,86,Superior Frontal Gyrus,Middle Frontal Gyrus,1.1888
+1099481,Diagnosed,86,Precentral Gyrus,Frontal Medial Cortex,1.175
+1099481,Diagnosed,86,Middle Frontal Gyrus,Precentral Gyrus,1.1725
+1099481,Diagnosed,86,Superior Frontal Gyrus,Paracingulate Gyrus,1.1662
+1099481,Diagnosed,86,Postcentral Gyrus,Supramarginal Gyrus (anterior),1.1486
+1099481,Diagnosed,86,Precentral Gyrus,Subcallosal Cortex,1.1472
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Cingulate Gyrus (posterior),1.1459
+1099481,Diagnosed,86,Superior Frontal Gyrus,Postcentral Gyrus,1.1426
+1099481,Diagnosed,86,Superior Frontal Gyrus,Inferior Temporal Gyrus (temporooccipital),1.1318
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Supramarginal Gyrus (posterior),1.1298
+1099481,Diagnosed,86,Frontal Pole,Subcallosal Cortex,1.1224
+1099481,Diagnosed,86,Postcentral Gyrus,Paracingulate Gyrus,1.1197
+1099481,Diagnosed,86,Superior Frontal Gyrus,Cingulate Gyrus (posterior),1.1038
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Subcallosal Cortex,1.0925
+1099481,Diagnosed,86,Frontal Medial Cortex,Paracingulate Gyrus,1.0814
+1099481,Diagnosed,86,Precentral Gyrus,Cingulate Gyrus (anterior),1.0771
+1099481,Diagnosed,86,Subcallosal Cortex,Cingulate Gyrus (anterior),1.0765
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Cingulate Gyrus (anterior),1.0744
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Occipital Fusiform Gyrus,1.0718
+1099481,Diagnosed,86,Superior Frontal Gyrus,Supramarginal Gyrus (anterior),1.0706
+1099481,Diagnosed,86,Occipital Fusiform Gyrus,Parietal Operculum Cortex,1.0669
+1099481,Diagnosed,86,Postcentral Gyrus,Supramarginal Gyrus (posterior),1.0628
+1099481,Diagnosed,86,Middle Frontal Gyrus,Cingulate Gyrus (anterior),1.0597
+1099481,Diagnosed,86,Middle Frontal Gyrus,Cingulate Gyrus (posterior),1.0521
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Paracingulate Gyrus,1.0498
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Supramarginal Gyrus (anterior),1.0479
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Frontal Medial Cortex,1.0469
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Middle Temporal Gyrus (posterior),1.0441
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Cingulate Gyrus (posterior),1.0413
+1099481,Diagnosed,86,Paracingulate Gyrus,Cingulate Gyrus (posterior),1.0403
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Angular Gyrus,1.0384
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Cingulate Gyrus (anterior),1.0339
+1099481,Diagnosed,86,Middle Frontal Gyrus,Postcentral Gyrus,1.0303
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Paracingulate Gyrus,1.0241
+1099481,Diagnosed,86,Superior Frontal Gyrus,Cingulate Gyrus (anterior),1.0223
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Cingulate Gyrus (posterior),1.0166
+1099481,Diagnosed,86,Middle Frontal Gyrus,Subcallosal Cortex,1.0131
+1099481,Diagnosed,86,Middle Frontal Gyrus,Frontal Medial Cortex,1.006
+1099481,Diagnosed,86,Insular Cortex,Temporal Fusiform Cortex (posterior),1.0014
+1099481,Diagnosed,86,Superior Frontal Gyrus,Angular Gyrus,1.0009
+1099481,Diagnosed,86,Postcentral Gyrus,Subcallosal Cortex,0.9941
+1099481,Diagnosed,86,Postcentral Gyrus,Occipital Fusiform Gyrus,0.9901
+1099481,Diagnosed,86,Precentral Gyrus,Angular Gyrus,0.9883
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Precentral Gyrus,0.9859
+1099481,Diagnosed,86,Precentral Gyrus,Cingulate Gyrus (posterior),0.9859
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Angular Gyrus,0.9846
+1099481,Diagnosed,86,Angular Gyrus,Cingulate Gyrus (anterior),0.9846
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Parietal Operculum Cortex,0.9821
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Subcallosal Cortex,0.9779
+1099481,Diagnosed,86,Angular Gyrus,Paracingulate Gyrus,0.9722
+1099481,Diagnosed,86,Middle Frontal Gyrus,Supramarginal Gyrus (anterior),0.9634
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Cingulate Gyrus (posterior),0.9618
+1099481,Diagnosed,86,Angular Gyrus,Subcallosal Cortex,0.9559
+1099481,Diagnosed,86,Superior Parietal Lobule,Supramarginal Gyrus (anterior),0.9554
+1099481,Diagnosed,86,Postcentral Gyrus,Superior Parietal Lobule,0.9397
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Parietal Operculum Cortex,0.9333
+1099481,Diagnosed,86,Precuneous Cortex,Central Opercular Cortex,0.9332
+1099481,Diagnosed,86,Subcallosal Cortex,Cingulate Gyrus (posterior),0.9316
+1099481,Diagnosed,86,Frontal Orbital Cortex,Parahippocampal Gyrus (posterior),0.9266
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Paracingulate Gyrus,0.9181
+1099481,Diagnosed,86,Paracingulate Gyrus,Occipital Fusiform Gyrus,0.9107
+1099481,Diagnosed,86,Superior Parietal Lobule,Cingulate Gyrus (posterior),0.9036
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Cingulate Gyrus (anterior),0.8905
+1099481,Diagnosed,86,Frontal Pole,Paracingulate Gyrus,0.8866
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Occipital Fusiform Gyrus,0.8827
+1099481,Diagnosed,86,Frontal Pole,Precentral Gyrus,0.8794
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Central Opercular Cortex,0.8793
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Inferior Temporal Gyrus (anterior),0.879
+1099481,Diagnosed,86,Postcentral Gyrus,Parietal Operculum Cortex,0.8788
+1099481,Diagnosed,86,Precuneous Cortex,Parahippocampal Gyrus (posterior),0.8758
+1099481,Diagnosed,86,Middle Frontal Gyrus,Angular Gyrus,0.8753
+1099481,Diagnosed,86,Postcentral Gyrus,Frontal Medial Cortex,0.8739
+1099481,Diagnosed,86,Frontal Orbital Cortex,Central Opercular Cortex,0.8727
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Frontal Medial Cortex,0.8657
+1099481,Diagnosed,86,Insular Cortex,Middle Temporal Gyrus (temporooccipital),0.8624
+1099481,Diagnosed,86,Superior Parietal Lobule,Angular Gyrus,0.8614
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Central Opercular Cortex,0.8613
+1099481,Diagnosed,86,Frontal Pole,Superior Frontal Gyrus,0.8588
+1099481,Diagnosed,86,Middle Frontal Gyrus,Superior Parietal Lobule,0.8582
+1099481,Diagnosed,86,Middle Frontal Gyrus,Supramarginal Gyrus (posterior),0.8574
+1099481,Diagnosed,86,Frontal Pole,Cingulate Gyrus (anterior),0.8572
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Central Opercular Cortex,0.8571
+1099481,Diagnosed,86,Precentral Gyrus,Superior Parietal Lobule,0.8566
+1099481,Diagnosed,86,Precentral Gyrus,Supramarginal Gyrus (posterior),0.844
+1099481,Diagnosed,86,Superior Frontal Gyrus,Superior Temporal Gyrus (posterior),0.8428
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Temporal Occipital Fusiform Cortex,0.8426
+1099481,Diagnosed,86,Frontal Pole,Insular Cortex,0.8414
+1099481,Diagnosed,86,Angular Gyrus,Occipital Fusiform Gyrus,0.8404
+1099481,Diagnosed,86,Superior Frontal Gyrus,Parietal Operculum Cortex,0.8396
+1099481,Diagnosed,86,Temporal Fusiform Cortex (posterior),Temporal Occipital Fusiform Cortex,0.8383
+1099481,Diagnosed,86,Superior Parietal Lobule,Cingulate Gyrus (anterior),0.8331
+1099481,Diagnosed,86,Superior Frontal Gyrus,Supramarginal Gyrus (posterior),0.8306
+1099481,Diagnosed,86,Precentral Gyrus,Occipital Fusiform Gyrus,0.8299
+1099481,Diagnosed,86,Middle Frontal Gyrus,Inferior Temporal Gyrus (temporooccipital),0.8236
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Inferior Temporal Gyrus (temporooccipital),0.8217
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Occipital Fusiform Gyrus,0.8214
+1099481,Diagnosed,86,Frontal Pole,Frontal Medial Cortex,0.8164
+1099481,Diagnosed,86,Frontal Orbital Cortex,Lingual Gyrus,0.816
+1099481,Diagnosed,86,Angular Gyrus,Frontal Medial Cortex,0.8106
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Supramarginal Gyrus (posterior),0.8065
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Postcentral Gyrus,0.8062
+1099481,Diagnosed,86,Frontal Medial Cortex,Cingulate Gyrus (posterior),0.8005
+1099481,Diagnosed,86,Precuneous Cortex,Lingual Gyrus,0.7957
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Lingual Gyrus,0.7938
+1099481,Diagnosed,86,Superior Parietal Lobule,Supramarginal Gyrus (posterior),0.7917
+1099481,Diagnosed,86,Occipital Fusiform Gyrus,Central Opercular Cortex,0.7844
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Precuneous Cortex,0.7839
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Occipital Fusiform Gyrus,0.7824
+1099481,Diagnosed,86,Frontal Orbital Cortex,Parietal Operculum Cortex,0.7818
+1099481,Diagnosed,86,Superior Parietal Lobule,Paracingulate Gyrus,0.7805
+1099481,Diagnosed,86,Frontal Pole,Inferior Temporal Gyrus (temporooccipital),0.7787
+1099481,Diagnosed,86,Frontal Medial Cortex,Cingulate Gyrus (anterior),0.7778
+1099481,Diagnosed,86,Insular Cortex,Subcallosal Cortex,0.7755
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Subcallosal Cortex,0.7735
+1099481,Diagnosed,86,Middle Frontal Gyrus,Occipital Fusiform Gyrus,0.7694
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Parietal Operculum Cortex,0.7689
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Paracingulate Gyrus,0.7667
+1099481,Diagnosed,86,Precuneous Cortex,Parietal Operculum Cortex,0.7651
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Precuneous Cortex,0.7624
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Parahippocampal Gyrus (posterior),0.7612
+1099481,Diagnosed,86,Superior Frontal Gyrus,Occipital Fusiform Gyrus,0.7603
+1099481,Diagnosed,86,Superior Frontal Gyrus,Superior Parietal Lobule,0.7594
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Temporal Fusiform Cortex (posterior),0.7462
+1099481,Diagnosed,86,Frontal Pole,Supramarginal Gyrus (anterior),0.7424
+1099481,Diagnosed,86,Paracingulate Gyrus,Parietal Operculum Cortex,0.7404
+1099481,Diagnosed,86,Superior Frontal Gyrus,Central Opercular Cortex,0.7384
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Subcallosal Cortex,0.7372
+1099481,Diagnosed,86,Subcallosal Cortex,Occipital Fusiform Gyrus,0.7371
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Superior Parietal Lobule,0.7327
+1099481,Diagnosed,86,Superior Parietal Lobule,Subcallosal Cortex,0.7327
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Occipital Fusiform Gyrus,0.7297
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Paracingulate Gyrus,0.7289
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Parietal Operculum Cortex,0.7286
+1099481,Diagnosed,86,Superior Parietal Lobule,Occipital Fusiform Gyrus,0.728
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Parietal Operculum Cortex,0.7279
+1099481,Diagnosed,86,Middle Frontal Gyrus,Inferior Frontal Gyrus (pars opercularis),0.7272
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Cingulate Gyrus (anterior),0.7256
+1099481,Diagnosed,86,Lingual Gyrus,Central Opercular Cortex,0.7202
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Temporal Occipital Fusiform Cortex,0.72
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Inferior Temporal Gyrus (temporooccipital),0.7191
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Parahippocampal Gyrus (posterior),0.7158
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Frontal Medial Cortex,0.7144
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Cingulate Gyrus (anterior),0.7133
+1099481,Diagnosed,86,Insular Cortex,Inferior Temporal Gyrus (temporooccipital),0.7094
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Supramarginal Gyrus (posterior),0.7088
+1099481,Diagnosed,86,Frontal Medial Cortex,Occipital Fusiform Gyrus,0.7086
+1099481,Diagnosed,86,Superior Parietal Lobule,Frontal Medial Cortex,0.7086
+1099481,Diagnosed,86,Angular Gyrus,Parietal Operculum Cortex,0.7082
+1099481,Diagnosed,86,Frontal Orbital Cortex,Parahippocampal Gyrus (anterior),0.707
+1099481,Diagnosed,86,Postcentral Gyrus,Central Opercular Cortex,0.707
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (inferior),0.7055
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Supramarginal Gyrus (anterior),0.7014
+1099481,Diagnosed,86,Insular Cortex,Superior Frontal Gyrus,0.7009
+1099481,Diagnosed,86,Insular Cortex,Paracingulate Gyrus,0.7005
+1099481,Diagnosed,86,Middle Frontal Gyrus,Superior Temporal Gyrus (posterior),0.7002
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Occipital Fusiform Gyrus,0.6984
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Occipital Fusiform Gyrus,0.6919
+1099481,Diagnosed,86,Middle Frontal Gyrus,Parietal Operculum Cortex,0.6909
+1099481,Diagnosed,86,Precuneous Cortex,Frontal Orbital Cortex,0.6865
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Inferior Frontal Gyrus (pars opercularis),0.6844
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Cingulate Gyrus (posterior),0.6815
+1099481,Diagnosed,86,Frontal Pole,Temporal Fusiform Cortex (posterior),0.6809
+1099481,Diagnosed,86,Temporal Pole,Lateral Occipital Cortex (inferior),0.6807
+1099481,Diagnosed,86,Subcallosal Cortex,Parietal Operculum Cortex,0.6797
+1099481,Diagnosed,86,Superior Parietal Lobule,Parietal Operculum Cortex,0.6759
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Parietal Operculum Cortex,0.6733
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Angular Gyrus,0.672
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Subcallosal Cortex,0.6709
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Inferior Temporal Gyrus (temporooccipital),0.6696
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Parietal Operculum Cortex,0.6674
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Central Opercular Cortex,0.6644
+1099481,Diagnosed,86,Subcallosal Cortex,Temporal Occipital Fusiform Cortex,0.6641
+1099481,Diagnosed,86,Superior Frontal Gyrus,Inferior Frontal Gyrus (pars opercularis),0.6633
+1099481,Diagnosed,86,Frontal Pole,Postcentral Gyrus,0.6586
+1099481,Diagnosed,86,Frontal Medial Cortex,Parietal Operculum Cortex,0.6585
+1099481,Diagnosed,86,Middle Frontal Gyrus,Central Opercular Cortex,0.6582
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Parahippocampal Gyrus (posterior),0.6573
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Angular Gyrus,0.6543
+1099481,Diagnosed,86,Paracingulate Gyrus,Planum Polare,0.6535
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Cingulate Gyrus (anterior),0.6535
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Frontal Orbital Cortex,0.6534
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Supramarginal Gyrus (anterior),0.6533
+1099481,Diagnosed,86,Frontal Pole,Angular Gyrus,0.6515
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Frontal Medial Cortex,0.6501
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Postcentral Gyrus,0.6498
+1099481,Diagnosed,86,Lingual Gyrus,Parietal Operculum Cortex,0.6497
+1099481,Diagnosed,86,Frontal Pole,Inferior Frontal Gyrus (pars opercularis),0.6494
+1099481,Diagnosed,86,Insular Cortex,Frontal Operculum Cortex,0.6487
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Temporal Pole,0.6471
+1099481,Diagnosed,86,Precentral Gyrus,Parietal Operculum Cortex,0.6469
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Inferior Temporal Gyrus (anterior),0.646
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Subcallosal Cortex,0.6457
+1099481,Diagnosed,86,Frontal Pole,Inferior Frontal Gyrus (pars triangularis),0.6443
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Temporal Occipital Fusiform Cortex,0.6419
+1099481,Diagnosed,86,Parietal Operculum Cortex,Planum Polare,0.6395
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Cingulate Gyrus (posterior),0.6374
+1099481,Diagnosed,86,Angular Gyrus,Temporal Occipital Fusiform Cortex,0.6345
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Planum Polare,0.6342
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Paracingulate Gyrus,0.6328
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Temporal Occipital Fusiform Cortex,0.6322
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Lingual Gyrus,0.6322
+1099481,Diagnosed,86,Occipital Fusiform Gyrus,Planum Polare,0.6299
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Planum Polare,0.6295
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Occipital Fusiform Gyrus,0.6293
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Precuneous Cortex,0.6276
+1099481,Diagnosed,86,Insular Cortex,Cingulate Gyrus (anterior),0.6271
+1099481,Diagnosed,86,Subcallosal Cortex,Temporal Fusiform Cortex (posterior),0.6261
+1099481,Diagnosed,86,Intracalcarine Cortex,Cuneal Cortex,0.622
+1099481,Diagnosed,86,Frontal Pole,Middle Frontal Gyrus,0.6217
+1099481,Diagnosed,86,Postcentral Gyrus,Planum Polare,0.62
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Planum Polare,0.6198
+1099481,Diagnosed,86,Frontal Pole,Cingulate Gyrus (posterior),0.6175
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Precuneous Cortex,0.6172
+1099481,Diagnosed,86,Central Opercular Cortex,Planum Polare,0.6144
+1099481,Diagnosed,86,Paracingulate Gyrus,Temporal Occipital Fusiform Cortex,0.6136
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Superior Parietal Lobule,0.612
+1099481,Diagnosed,86,Insular Cortex,Precentral Gyrus,0.6114
+1099481,Diagnosed,86,Insular Cortex,Lateral Occipital Cortex (inferior),0.6112
+1099481,Diagnosed,86,Insular Cortex,Inferior Frontal Gyrus (pars opercularis),0.6102
+1099481,Diagnosed,86,Superior Frontal Gyrus,Temporal Occipital Fusiform Cortex,0.6049
+1099481,Diagnosed,86,Superior Frontal Gyrus,Planum Polare,0.6048
+1099481,Diagnosed,86,Paracingulate Gyrus,Central Opercular Cortex,0.6043
+1099481,Diagnosed,86,Insular Cortex,Angular Gyrus,0.6005
+1099481,Diagnosed,86,Insular Cortex,Parahippocampal Gyrus (anterior),0.5979
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Frontal Medial Cortex,0.5968
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Central Opercular Cortex,0.5952
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Temporal Occipital Fusiform Cortex,0.5949
+1099481,Diagnosed,86,Middle Frontal Gyrus,Inferior Frontal Gyrus (pars triangularis),0.5933
+1099481,Diagnosed,86,Precentral Gyrus,Planum Polare,0.5922
+1099481,Diagnosed,86,Precentral Gyrus,Superior Temporal Gyrus (posterior),0.592
+1099481,Diagnosed,86,Precentral Gyrus,Temporal Occipital Fusiform Cortex,0.5884
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Parahippocampal Gyrus (anterior),0.588
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Temporal Occipital Fusiform Cortex,0.5869
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Superior Parietal Lobule,0.5867
+1099481,Diagnosed,86,Temporal Pole,Middle Temporal Gyrus (temporooccipital),0.5867
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Planum Polare,0.5862
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Cingulate Gyrus (posterior),0.5844
+1099481,Diagnosed,86,Frontal Pole,Temporal Occipital Fusiform Cortex,0.581
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Lingual Gyrus,0.58
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Temporal Occipital Fusiform Cortex,0.5798
+1099481,Diagnosed,86,Frontal Pole,Middle Temporal Gyrus (temporooccipital),0.5795
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Middle Temporal Gyrus (temporooccipital),0.579
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Planum Polare,0.5788
+1099481,Diagnosed,86,Subcallosal Cortex,Planum Polare,0.5783
+1099481,Diagnosed,86,Paracingulate Gyrus,Temporal Fusiform Cortex (posterior),0.574
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (posterior),0.5712
+1099481,Diagnosed,86,Precuneous Cortex,Occipital Fusiform Gyrus,0.5711
+1099481,Diagnosed,86,Insular Cortex,Supramarginal Gyrus (anterior),0.57
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Temporal Fusiform Cortex (posterior),0.5659
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Frontal Orbital Cortex,0.5634
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Inferior Temporal Gyrus (temporooccipital),0.5621
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (anterior),0.5612
+1099481,Diagnosed,86,Precentral Gyrus,Middle Temporal Gyrus (temporooccipital),0.5591
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Supramarginal Gyrus (posterior),0.5571
+1099481,Diagnosed,86,Insular Cortex,Cingulate Gyrus (posterior),0.5558
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Lingual Gyrus,0.5507
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Temporal Occipital Fusiform Cortex,0.55
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Subcallosal Cortex,0.55
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Central Opercular Cortex,0.5468
+1099481,Diagnosed,86,Superior Frontal Gyrus,Temporal Fusiform Cortex (posterior),0.5462
+1099481,Diagnosed,86,Insular Cortex,Temporal Pole,0.5406
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Superior Temporal Gyrus (posterior),0.5403
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Parietal Operculum Cortex,0.5398
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Postcentral Gyrus,0.5387
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (posterior),0.5372
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Planum Polare,0.537
+1099481,Diagnosed,86,Angular Gyrus,Central Opercular Cortex,0.5365
+1099481,Diagnosed,86,Superior Frontal Gyrus,Inferior Frontal Gyrus (pars triangularis),0.5352
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Temporal Fusiform Cortex (posterior),0.5335
+1099481,Diagnosed,86,Lingual Gyrus,Occipital Fusiform Gyrus,0.5316
+1099481,Diagnosed,86,Postcentral Gyrus,Temporal Occipital Fusiform Cortex,0.53
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Parietal Operculum Cortex,0.5289
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Central Opercular Cortex,0.5287
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Angular Gyrus,0.528
+1099481,Diagnosed,86,Frontal Pole,Supramarginal Gyrus (posterior),0.527
+1099481,Diagnosed,86,Insular Cortex,Planum Polare,0.5257
+1099481,Diagnosed,86,Superior Parietal Lobule,Central Opercular Cortex,0.5249
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Postcentral Gyrus,0.5239
+1099481,Diagnosed,86,Subcallosal Cortex,Central Opercular Cortex,0.5221
+1099481,Diagnosed,86,Frontal Pole,Temporal Pole,0.522
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Inferior Temporal Gyrus (posterior),0.5176
+1099481,Diagnosed,86,Temporal Occipital Fusiform Cortex,Planum Polare,0.5159
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Occipital Fusiform Gyrus,0.5131
+1099481,Diagnosed,86,Insular Cortex,Postcentral Gyrus,0.5129
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Lateral Occipital Cortex (superior),0.5116
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Lateral Occipital Cortex (inferior),0.5099
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Frontal Medial Cortex,0.5087
+1099481,Diagnosed,86,Temporal Occipital Fusiform Cortex,Occipital Fusiform Gyrus,0.5079
+1099481,Diagnosed,86,Frontal Medial Cortex,Planum Polare,0.5076
+1099481,Diagnosed,86,Temporal Occipital Fusiform Cortex,Parietal Operculum Cortex,0.5073
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Temporal Fusiform Cortex (posterior),0.506
+1099481,Diagnosed,86,Superior Frontal Gyrus,Middle Temporal Gyrus (temporooccipital),0.5053
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Precentral Gyrus,0.5038
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Planum Polare,0.5037
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Parietal Operculum Cortex,0.5024
+1099481,Diagnosed,86,Angular Gyrus,Temporal Fusiform Cortex (posterior),0.5017
+1099481,Diagnosed,86,Angular Gyrus,Planum Polare,0.5006
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Central Opercular Cortex,0.4981
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Supramarginal Gyrus (anterior),0.4953
+1099481,Diagnosed,86,Middle Frontal Gyrus,Planum Polare,0.49
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Planum Polare,0.4889
+1099481,Diagnosed,86,Intracalcarine Cortex,Juxtapositional Lobule Cortex,0.4885
+1099481,Diagnosed,86,Precuneous Cortex,Planum Polare,0.4883
+1099481,Diagnosed,86,Frontal Orbital Cortex,Occipital Fusiform Gyrus,0.4878
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Planum Polare,0.4799
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Superior Parietal Lobule,0.4796
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Supramarginal Gyrus (anterior),0.4782
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Frontal Orbital Cortex,0.4781
+1099481,Diagnosed,86,Precuneous Cortex,Parahippocampal Gyrus (anterior),0.4749
+1099481,Diagnosed,86,Temporal Pole,Inferior Temporal Gyrus (posterior),0.4721
+1099481,Diagnosed,86,Frontal Medial Cortex,Central Opercular Cortex,0.4711
+1099481,Diagnosed,86,Insular Cortex,Frontal Medial Cortex,0.4699
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Occipital Fusiform Gyrus,0.4698
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Central Opercular Cortex,0.4671
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Parahippocampal Gyrus (posterior),0.4658
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Juxtapositional Lobule Cortex,-0.4637
+1099481,Diagnosed,86,Insular Cortex,Inferior Frontal Gyrus (pars triangularis),0.4635
+1099481,Diagnosed,86,Superior Frontal Gyrus,Middle Temporal Gyrus (posterior),0.4634
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Supramarginal Gyrus (posterior),0.4613
+1099481,Diagnosed,86,Frontal Pole,Superior Parietal Lobule,0.461
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Planum Polare,0.458
+1099481,Diagnosed,86,Superior Parietal Lobule,Planum Polare,0.4577
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Parahippocampal Gyrus (anterior),0.4571
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Frontal Operculum Cortex,0.4559
+1099481,Diagnosed,86,Frontal Pole,Cuneal Cortex,0.4558
+1099481,Diagnosed,86,Lingual Gyrus,Planum Polare,0.4556
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Parietal Operculum Cortex,0.4519
+1099481,Diagnosed,86,Frontal Orbital Cortex,Temporal Occipital Fusiform Cortex,0.4516
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Angular Gyrus,0.4509
+1099481,Diagnosed,86,Precentral Gyrus,Temporal Fusiform Cortex (posterior),0.4501
+1099481,Diagnosed,86,Frontal Pole,Occipital Fusiform Gyrus,0.4496
+1099481,Diagnosed,86,Temporal Occipital Fusiform Cortex,Central Opercular Cortex,0.4471
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Planum Polare,0.4452
+1099481,Diagnosed,86,Postcentral Gyrus,Precuneous Cortex,0.4451
+1099481,Diagnosed,86,Temporal Pole,Temporal Occipital Fusiform Cortex,0.4449
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (anterior),0.4445
+1099481,Diagnosed,86,Frontal Orbital Cortex,Planum Polare,0.4439
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Lateral Occipital Cortex (inferior),0.4434
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Subcallosal Cortex,0.4406
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Temporal Fusiform Cortex (posterior),0.4397
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Temporal Occipital Fusiform Cortex,0.4391
+1099481,Diagnosed,86,Precentral Gyrus,Central Opercular Cortex,0.4386
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Cuneal Cortex,0.4377
+1099481,Diagnosed,86,Insular Cortex,Parietal Operculum Cortex,0.4376
+1099481,Diagnosed,86,Temporal Occipital Fusiform Cortex,Frontal Operculum Cortex,0.4376
+1099481,Diagnosed,86,Superior Frontal Gyrus,Precuneous Cortex,0.4369
+1099481,Diagnosed,86,Superior Frontal Gyrus,Frontal Operculum Cortex,0.4348
+1099481,Diagnosed,86,Temporal Pole,Paracingulate Gyrus,0.4339
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Frontal Medial Cortex,0.4322
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Parahippocampal Gyrus (posterior),0.4318
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Central Opercular Cortex,0.4317
+1099481,Diagnosed,86,Middle Frontal Gyrus,Temporal Fusiform Cortex (posterior),0.4295
+1099481,Diagnosed,86,Postcentral Gyrus,Temporal Fusiform Cortex (posterior),0.429
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Supramarginal Gyrus (posterior),0.4253
+1099481,Diagnosed,86,Precentral Gyrus,Temporal Pole,0.4214
+1099481,Diagnosed,86,Frontal Pole,Planum Polare,0.4202
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Postcentral Gyrus,0.4188
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Temporal Occipital Fusiform Cortex,0.4186
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Parahippocampal Gyrus (anterior),0.4157
+1099481,Diagnosed,86,Temporal Pole,Temporal Fusiform Cortex (posterior),0.414
+1099481,Diagnosed,86,Insular Cortex,Inferior Temporal Gyrus (posterior),0.4126
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Cuneal Cortex,0.412
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Cingulate Gyrus (posterior),0.4114
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Temporal Occipital Fusiform Cortex,0.4107
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Temporal Occipital Fusiform Cortex,0.4107
+1099481,Diagnosed,86,Insular Cortex,Middle Frontal Gyrus,0.4094
+1099481,Diagnosed,86,Angular Gyrus,Precuneous Cortex,0.4064
+1099481,Diagnosed,86,Temporal Pole,Subcallosal Cortex,0.4064
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Temporal Occipital Fusiform Cortex,0.4062
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Parahippocampal Gyrus (anterior),0.4059
+1099481,Diagnosed,86,Frontal Medial Cortex,Temporal Fusiform Cortex (posterior),0.4056
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Temporal Fusiform Cortex (posterior),0.4044
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Inferior Temporal Gyrus (temporooccipital),0.4036
+1099481,Diagnosed,86,Superior Parietal Lobule,Temporal Occipital Fusiform Cortex,0.4035
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Angular Gyrus,0.4034
+1099481,Diagnosed,86,Insular Cortex,Supramarginal Gyrus (posterior),0.4029
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Occipital Fusiform Gyrus,0.4021
+1099481,Diagnosed,86,Frontal Pole,Lateral Occipital Cortex (inferior),0.4017
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Paracingulate Gyrus,0.4015
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Lingual Gyrus,0.4009
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Frontal Orbital Cortex,0.4
+1099481,Diagnosed,86,Insular Cortex,Occipital Fusiform Gyrus,0.3972
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Middle Temporal Gyrus (posterior),0.394
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Parahippocampal Gyrus (anterior),0.3935
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Lingual Gyrus,0.3921
+1099481,Diagnosed,86,Frontal Pole,Frontal Operculum Cortex,0.3917
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Paracingulate Gyrus,0.3914
+1099481,Diagnosed,86,Frontal Medial Cortex,Temporal Occipital Fusiform Cortex,0.3903
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Cingulate Gyrus (posterior),0.39
+1099481,Diagnosed,86,Middle Frontal Gyrus,Temporal Occipital Fusiform Cortex,0.3893
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Occipital Fusiform Gyrus,0.3866
+1099481,Diagnosed,86,Middle Frontal Gyrus,Precuneous Cortex,0.3855
+1099481,Diagnosed,86,Frontal Pole,Superior Temporal Gyrus (posterior),0.3801
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Temporal Fusiform Cortex (posterior),0.3799
+1099481,Diagnosed,86,Insular Cortex,Frontal Orbital Cortex,0.3758
+1099481,Diagnosed,86,Frontal Pole,Parietal Operculum Cortex,0.3752
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Supramarginal Gyrus (posterior),0.3749
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Juxtapositional Lobule Cortex,-0.3741
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Frontal Operculum Cortex,0.3717
+1099481,Diagnosed,86,Superior Frontal Gyrus,Frontal Orbital Cortex,0.3706
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Middle Temporal Gyrus (posterior),-0.3661
+1099481,Diagnosed,86,Middle Frontal Gyrus,Middle Temporal Gyrus (posterior),0.3652
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Planum Polare,0.3635
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Parietal Operculum Cortex,0.3625
+1099481,Diagnosed,86,Temporal Fusiform Cortex (anterior),Temporal Occipital Fusiform Cortex,0.3611
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Middle Temporal Gyrus (temporooccipital),0.3609
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Frontal Medial Cortex,0.3605
+1099481,Diagnosed,86,Insular Cortex,Central Opercular Cortex,0.358
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Temporal Fusiform Cortex (posterior),0.3558
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Cingulate Gyrus (anterior),0.3512
+1099481,Diagnosed,86,Angular Gyrus,Parahippocampal Gyrus (anterior),0.3511
+1099481,Diagnosed,86,Insular Cortex,Superior Temporal Gyrus (posterior),0.3504
+1099481,Diagnosed,86,Postcentral Gyrus,Frontal Orbital Cortex,0.3488
+1099481,Diagnosed,86,Subcallosal Cortex,Frontal Operculum Cortex,0.3475
+1099481,Diagnosed,86,Temporal Fusiform Cortex (posterior),Parietal Operculum Cortex,0.3453
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Postcentral Gyrus,0.3447
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Superior Parietal Lobule,0.3445
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Supramarginal Gyrus (anterior),0.3433
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Cingulate Gyrus (anterior),0.3417
+1099481,Diagnosed,86,Intracalcarine Cortex,Cingulate Gyrus (anterior),0.3399
+1099481,Diagnosed,86,Temporal Fusiform Cortex (posterior),Planum Polare,0.3397
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Parahippocampal Gyrus (anterior),0.3396
+1099481,Diagnosed,86,Insular Cortex,Superior Parietal Lobule,0.3377
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (anterior),0.3366
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Superior Temporal Gyrus (posterior),0.335
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Frontal Operculum Cortex,0.333
+1099481,Diagnosed,86,Superior Parietal Lobule,Temporal Fusiform Cortex (posterior),0.3321
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Precuneous Cortex,0.3305
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Planum Polare,0.3276
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Precuneous Cortex,0.326
+1099481,Diagnosed,86,Temporal Pole,Frontal Medial Cortex,0.3244
+1099481,Diagnosed,86,Cuneal Cortex,Temporal Fusiform Cortex (posterior),0.3233
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Parahippocampal Gyrus (anterior),0.3233
+1099481,Diagnosed,86,Temporal Fusiform Cortex (anterior),Occipital Fusiform Gyrus,0.3221
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Parahippocampal Gyrus (anterior),0.3187
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Temporal Fusiform Cortex (anterior),0.3179
+1099481,Diagnosed,86,Paracingulate Gyrus,Parahippocampal Gyrus (anterior),0.3179
+1099481,Diagnosed,86,Lingual Gyrus,Temporal Occipital Fusiform Cortex,0.3169
+1099481,Diagnosed,86,Paracingulate Gyrus,Lingual Gyrus,0.3157
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Middle Temporal Gyrus (temporooccipital),0.3128
+1099481,Diagnosed,86,Postcentral Gyrus,Parahippocampal Gyrus (anterior),0.3125
+1099481,Diagnosed,86,Paracingulate Gyrus,Precuneous Cortex,0.3125
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Precuneous Cortex,-0.3122
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Temporal Fusiform Cortex (posterior),0.3117
+1099481,Diagnosed,86,Precentral Gyrus,Middle Temporal Gyrus (posterior),0.3114
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Lateral Occipital Cortex (superior),0.3102
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Frontal Orbital Cortex,0.3099
+1099481,Diagnosed,86,Insular Cortex,Superior Temporal Gyrus (anterior),0.3086
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Supramarginal Gyrus (posterior),0.3083
+1099481,Diagnosed,86,Paracingulate Gyrus,Frontal Orbital Cortex,0.3083
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Frontal Orbital Cortex,0.3081
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Juxtapositional Lobule Cortex,-0.3074
+1099481,Diagnosed,86,Postcentral Gyrus,Parahippocampal Gyrus (posterior),0.3058
+1099481,Diagnosed,86,Angular Gyrus,Frontal Orbital Cortex,0.3048
+1099481,Diagnosed,86,Superior Frontal Gyrus,Parahippocampal Gyrus (anterior),0.3034
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Temporal Fusiform Cortex (anterior),0.3015
+1099481,Diagnosed,86,Temporal Pole,Superior Temporal Gyrus (anterior),0.301
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (anterior),0.3009
+1099481,Diagnosed,86,Temporal Fusiform Cortex (posterior),Frontal Operculum Cortex,0.299
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Lateral Occipital Cortex (inferior),0.2976
+1099481,Diagnosed,86,Middle Frontal Gyrus,Intracalcarine Cortex,0.2972
+1099481,Diagnosed,86,Insular Cortex,Temporal Fusiform Cortex (anterior),0.2971
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Inferior Temporal Gyrus (posterior),0.296
+1099481,Diagnosed,86,Superior Parietal Lobule,Frontal Orbital Cortex,0.2956
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Cuneal Cortex,-0.2948
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Lateral Occipital Cortex (inferior),0.2945
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Precuneous Cortex,-0.2945
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Parahippocampal Gyrus (posterior),-0.2937
+1099481,Diagnosed,86,Precentral Gyrus,Temporal Fusiform Cortex (anterior),0.2934
+1099481,Diagnosed,86,Middle Frontal Gyrus,Inferior Temporal Gyrus (anterior),0.292
+1099481,Diagnosed,86,Precuneous Cortex,Temporal Occipital Fusiform Cortex,0.2919
+1099481,Diagnosed,86,Angular Gyrus,Lingual Gyrus,0.2918
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Occipital Fusiform Gyrus,0.2911
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Lingual Gyrus,-0.2893
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Frontal Operculum Cortex,0.2889
+1099481,Diagnosed,86,Frontal Medial Cortex,Frontal Operculum Cortex,0.2885
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Temporal Pole,0.2869
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Temporal Fusiform Cortex (anterior),0.2864
+1099481,Diagnosed,86,Precentral Gyrus,Frontal Operculum Cortex,0.2858
+1099481,Diagnosed,86,Superior Frontal Gyrus,Inferior Temporal Gyrus (anterior),0.2856
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Frontal Operculum Cortex,0.2824
+1099481,Diagnosed,86,Temporal Fusiform Cortex (posterior),Central Opercular Cortex,0.2803
+1099481,Diagnosed,86,Superior Frontal Gyrus,Parahippocampal Gyrus (posterior),0.2803
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Frontal Operculum Cortex,0.2792
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Cuneal Cortex,0.279
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Frontal Orbital Cortex,0.2782
+1099481,Diagnosed,86,Temporal Pole,Supramarginal Gyrus (anterior),0.2776
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Cuneal Cortex,-0.2769
+1099481,Diagnosed,86,Postcentral Gyrus,Lingual Gyrus,0.2768
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Temporal Occipital Fusiform Cortex,0.2765
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (inferior),0.2755
+1099481,Diagnosed,86,Temporal Pole,Frontal Operculum Cortex,0.2755
+1099481,Diagnosed,86,Frontal Pole,Intracalcarine Cortex,0.2754
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Temporal Fusiform Cortex (posterior),0.2747
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Planum Polare,0.2746
+1099481,Diagnosed,86,Angular Gyrus,Planum Temporale,-0.2724
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Frontal Operculum Cortex,0.2724
+1099481,Diagnosed,86,Temporal Pole,Parahippocampal Gyrus (anterior),0.2707
+1099481,Diagnosed,86,Paracingulate Gyrus,Frontal Operculum Cortex,0.2707
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Parahippocampal Gyrus (posterior),0.2694
+1099481,Diagnosed,86,Temporal Fusiform Cortex (posterior),Occipital Fusiform Gyrus,0.2684
+1099481,Diagnosed,86,Frontal Medial Cortex,Precuneous Cortex,0.2683
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Precuneous Cortex,0.2672
+1099481,Diagnosed,86,Temporal Pole,Inferior Temporal Gyrus (temporooccipital),0.2661
+1099481,Diagnosed,86,Superior Parietal Lobule,Precuneous Cortex,0.266
+1099481,Diagnosed,86,Insular Cortex,Lateral Occipital Cortex (superior),0.2647
+1099481,Diagnosed,86,Middle Frontal Gyrus,Frontal Orbital Cortex,0.264
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Parietal Operculum Cortex,-0.2615
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Middle Temporal Gyrus (temporooccipital),0.2613
+1099481,Diagnosed,86,Subcallosal Cortex,Frontal Orbital Cortex,0.2608
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Temporal Occipital Fusiform Cortex,0.2604
+1099481,Diagnosed,86,Frontal Medial Cortex,Planum Temporale,-0.2592
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Central Opercular Cortex,0.2586
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Subcallosal Cortex,0.256
+1099481,Diagnosed,86,Subcallosal Cortex,Parahippocampal Gyrus (anterior),0.2558
+1099481,Diagnosed,86,Angular Gyrus,Parahippocampal Gyrus (posterior),0.2556
+1099481,Diagnosed,86,Precentral Gyrus,Parahippocampal Gyrus (anterior),0.2555
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Juxtapositional Lobule Cortex,-0.2548
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Temporal Fusiform Cortex (anterior),0.2535
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Lingual Gyrus,0.2533
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Superior Parietal Lobule,0.253
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Inferior Temporal Gyrus (anterior),-0.2524
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Frontal Medial Cortex,0.2488
+1099481,Diagnosed,86,Angular Gyrus,Lateral Occipital Cortex (inferior),0.2477
+1099481,Diagnosed,86,Subcallosal Cortex,Cuneal Cortex,0.2476
+1099481,Diagnosed,86,Frontal Pole,Central Opercular Cortex,0.2474
+1099481,Diagnosed,86,Frontal Pole,Inferior Temporal Gyrus (posterior),0.247
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Superior Temporal Gyrus (posterior),-0.2449
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Precuneous Cortex,0.2448
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Intracalcarine Cortex,-0.2435
+1099481,Diagnosed,86,Temporal Pole,Cingulate Gyrus (anterior),0.2433
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (superior),0.2433
+1099481,Diagnosed,86,Subcallosal Cortex,Precuneous Cortex,0.2406
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Parahippocampal Gyrus (posterior),-0.2393
+1099481,Diagnosed,86,Precentral Gyrus,Precuneous Cortex,0.2375
+1099481,Diagnosed,86,Precentral Gyrus,Lateral Occipital Cortex (inferior),0.2356
+1099481,Diagnosed,86,Paracingulate Gyrus,Planum Temporale,-0.2356
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Angular Gyrus,0.2355
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Middle Temporal Gyrus (posterior),0.2345
+1099481,Diagnosed,86,Precentral Gyrus,Frontal Orbital Cortex,0.2332
+1099481,Diagnosed,86,Temporal Pole,Planum Temporale,-0.233
+1099481,Diagnosed,86,Postcentral Gyrus,Temporal Fusiform Cortex (anterior),0.2329
+1099481,Diagnosed,86,Superior Frontal Gyrus,Lingual Gyrus,0.2313
+1099481,Diagnosed,86,Insular Cortex,Middle Temporal Gyrus (posterior),0.2286
+1099481,Diagnosed,86,Middle Frontal Gyrus,Lingual Gyrus,0.2281
+1099481,Diagnosed,86,Superior Frontal Gyrus,Temporal Pole,0.2277
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Frontal Operculum Cortex,0.2277
+1099481,Diagnosed,86,Temporal Pole,Parahippocampal Gyrus (posterior),-0.2261
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Superior Parietal Lobule,0.2257
+1099481,Diagnosed,86,Precentral Gyrus,Planum Temporale,-0.2256
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Paracingulate Gyrus,0.2255
+1099481,Diagnosed,86,Frontal Orbital Cortex,Frontal Operculum Cortex,0.2252
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Intracalcarine Cortex,0.2247
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Frontal Orbital Cortex,0.2243
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Temporal Fusiform Cortex (posterior),0.2239
+1099481,Diagnosed,86,Temporal Pole,Inferior Temporal Gyrus (anterior),-0.2213
+1099481,Diagnosed,86,Paracingulate Gyrus,Cuneal Cortex,0.2195
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (posterior),0.2191
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Subcallosal Cortex,0.2183
+1099481,Diagnosed,86,Middle Frontal Gyrus,Middle Temporal Gyrus (temporooccipital),0.2182
+1099481,Diagnosed,86,Occipital Fusiform Gyrus,Planum Temporale,-0.218
+1099481,Diagnosed,86,Superior Parietal Lobule,Parahippocampal Gyrus (anterior),0.2172
+1099481,Diagnosed,86,Precentral Gyrus,Superior Temporal Gyrus (anterior),0.2171
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Frontal Orbital Cortex,-0.216
+1099481,Diagnosed,86,Temporal Pole,Cuneal Cortex,0.2148
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Intracalcarine Cortex,-0.213
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Cuneal Cortex,-0.2116
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Frontal Operculum Cortex,0.2095
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Paracingulate Gyrus,0.2093
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Frontal Orbital Cortex,0.209
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Cuneal Cortex,-0.2089
+1099481,Diagnosed,86,Temporal Fusiform Cortex (anterior),Parietal Operculum Cortex,0.2082
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Middle Temporal Gyrus (temporooccipital),0.2079
+1099481,Diagnosed,86,Postcentral Gyrus,Planum Temporale,-0.2076
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Cuneal Cortex,0.2075
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Temporal Fusiform Cortex (anterior),0.2071
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Superior Parietal Lobule,0.2071
+1099481,Diagnosed,86,Middle Frontal Gyrus,Frontal Operculum Cortex,0.2068
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Superior Temporal Gyrus (anterior),0.2054
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Superior Temporal Gyrus (anterior),-0.2046
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Subcallosal Cortex,0.2043
+1099481,Diagnosed,86,Middle Frontal Gyrus,Cuneal Cortex,0.2036
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Frontal Operculum Cortex,0.2023
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Frontal Medial Cortex,0.2022
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Temporal Fusiform Cortex (anterior),0.2019
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Frontal Operculum Cortex,-0.2018
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Planum Polare,0.2018
+1099481,Diagnosed,86,Angular Gyrus,Frontal Operculum Cortex,0.2017
+1099481,Diagnosed,86,Frontal Pole,Parahippocampal Gyrus (anterior),0.2016
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Intracalcarine Cortex,-0.2015
+1099481,Diagnosed,86,Intracalcarine Cortex,Paracingulate Gyrus,0.2004
+1099481,Diagnosed,86,Precentral Gyrus,Inferior Temporal Gyrus (anterior),0.2003
+1099481,Diagnosed,86,Temporal Pole,Precuneous Cortex,-0.2001
+1099481,Diagnosed,86,Superior Parietal Lobule,Lingual Gyrus,0.1991
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Parahippocampal Gyrus (posterior),-0.1987
+1099481,Diagnosed,86,Insular Cortex,Cuneal Cortex,0.198
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Inferior Temporal Gyrus (temporooccipital),0.1977
+1099481,Diagnosed,86,Temporal Pole,Central Opercular Cortex,-0.1968
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Lingual Gyrus,0.1961
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Central Opercular Cortex,-0.1961
+1099481,Diagnosed,86,Postcentral Gyrus,Intracalcarine Cortex,0.1959
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Inferior Temporal Gyrus (posterior),0.1956
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Lingual Gyrus,0.1947
+1099481,Diagnosed,86,Temporal Pole,Angular Gyrus,0.1945
+1099481,Diagnosed,86,Insular Cortex,Middle Temporal Gyrus (anterior),-0.1921
+1099481,Diagnosed,86,Temporal Fusiform Cortex (anterior),Planum Polare,0.1921
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Middle Temporal Gyrus (anterior),0.1912
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Lingual Gyrus,0.1909
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Intracalcarine Cortex,-0.1905
+1099481,Diagnosed,86,Intracalcarine Cortex,Subcallosal Cortex,0.1896
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Temporal Occipital Fusiform Cortex,0.1888
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Supramarginal Gyrus (anterior),0.1886
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Juxtapositional Lobule Cortex,-0.1879
+1099481,Diagnosed,86,Precentral Gyrus,Lingual Gyrus,0.1875
+1099481,Diagnosed,86,Frontal Pole,Middle Temporal Gyrus (anterior),-0.1871
+1099481,Diagnosed,86,Frontal Medial Cortex,Juxtapositional Lobule Cortex,-0.1867
+1099481,Diagnosed,86,Paracingulate Gyrus,Parahippocampal Gyrus (posterior),0.1866
+1099481,Diagnosed,86,Temporal Pole,Planum Polare,0.1849
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Frontal Operculum Cortex,0.1837
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Intracalcarine Cortex,0.1836
+1099481,Diagnosed,86,Frontal Medial Cortex,Lingual Gyrus,0.1827
+1099481,Diagnosed,86,Precuneous Cortex,Temporal Fusiform Cortex (anterior),0.182
+1099481,Diagnosed,86,Superior Parietal Lobule,Temporal Fusiform Cortex (anterior),0.1818
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Frontal Orbital Cortex,0.1804
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Inferior Temporal Gyrus (temporooccipital),0.1801
+1099481,Diagnosed,86,Frontal Pole,Lateral Occipital Cortex (superior),0.1801
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Cingulate Gyrus (anterior),0.1798
+1099481,Diagnosed,86,Angular Gyrus,Intracalcarine Cortex,0.1797
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Parahippocampal Gyrus (posterior),0.1796
+1099481,Diagnosed,86,Superior Parietal Lobule,Parahippocampal Gyrus (posterior),0.1796
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Lingual Gyrus,0.179
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Cingulate Gyrus (posterior),-0.1789
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Precuneous Cortex,-0.1786
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Occipital Fusiform Gyrus,-0.1782
+1099481,Diagnosed,86,Postcentral Gyrus,Juxtapositional Lobule Cortex,-0.1772
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Planum Temporale,-0.1772
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Lingual Gyrus,0.1762
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Inferior Temporal Gyrus (anterior),0.1754
+1099481,Diagnosed,86,Intracalcarine Cortex,Cingulate Gyrus (posterior),0.1754
+1099481,Diagnosed,86,Frontal Operculum Cortex,Planum Polare,0.1747
+1099481,Diagnosed,86,Insular Cortex,Precuneous Cortex,0.1745
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Central Opercular Cortex,-0.1743
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Juxtapositional Lobule Cortex,-0.1741
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Precuneous Cortex,0.174
+1099481,Diagnosed,86,Temporal Fusiform Cortex (anterior),Frontal Operculum Cortex,0.1735
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Temporal Fusiform Cortex (posterior),0.1722
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Parahippocampal Gyrus (anterior),0.1719
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Central Opercular Cortex,0.1705
+1099481,Diagnosed,86,Superior Frontal Gyrus,Temporal Fusiform Cortex (anterior),0.1703
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Temporal Fusiform Cortex (anterior),0.1701
+1099481,Diagnosed,86,Intracalcarine Cortex,Occipital Fusiform Gyrus,0.1699
+1099481,Diagnosed,86,Frontal Operculum Cortex,Planum Temporale,0.1693
+1099481,Diagnosed,86,Frontal Orbital Cortex,Temporal Fusiform Cortex (posterior),0.1684
+1099481,Diagnosed,86,Precentral Gyrus,Intracalcarine Cortex,0.1675
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Planum Temporale,-0.1673
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Planum Temporale,-0.1662
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Frontal Medial Cortex,0.1656
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Precuneous Cortex,0.1639
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Lateral Occipital Cortex (superior),0.1636
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Lateral Occipital Cortex (superior),-0.1635
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Planum Temporale,-0.1633
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Supramarginal Gyrus (anterior),0.1626
+1099481,Diagnosed,86,Superior Parietal Lobule,Planum Temporale,-0.1625
+1099481,Diagnosed,86,Frontal Pole,Superior Temporal Gyrus (anterior),0.1621
+1099481,Diagnosed,86,Superior Frontal Gyrus,Juxtapositional Lobule Cortex,-0.1617
+1099481,Diagnosed,86,Superior Parietal Lobule,Juxtapositional Lobule Cortex,-0.1611
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Frontal Medial Cortex,0.161
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Juxtapositional Lobule Cortex,-0.1609
+1099481,Diagnosed,86,Superior Frontal Gyrus,Lateral Occipital Cortex (superior),0.1608
+1099481,Diagnosed,86,Angular Gyrus,Juxtapositional Lobule Cortex,-0.1608
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Occipital Fusiform Gyrus,0.1595
+1099481,Diagnosed,86,Middle Frontal Gyrus,Parahippocampal Gyrus (posterior),0.1586
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Subcallosal Cortex,0.1585
+1099481,Diagnosed,86,Subcallosal Cortex,Lingual Gyrus,0.1585
+1099481,Diagnosed,86,Insular Cortex,Parahippocampal Gyrus (posterior),0.1582
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Temporal Fusiform Cortex (posterior),-0.1582
+1099481,Diagnosed,86,Lingual Gyrus,Temporal Fusiform Cortex (anterior),0.158
+1099481,Diagnosed,86,Intracalcarine Cortex,Temporal Fusiform Cortex (anterior),-0.1578
+1099481,Diagnosed,86,Intracalcarine Cortex,Parahippocampal Gyrus (anterior),-0.157
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Lateral Occipital Cortex (inferior),0.1568
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Intracalcarine Cortex,-0.1568
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Intracalcarine Cortex,0.1566
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Lingual Gyrus,-0.1563
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Parahippocampal Gyrus (anterior),0.1557
+1099481,Diagnosed,86,Frontal Orbital Cortex,Temporal Fusiform Cortex (anterior),0.1541
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Temporal Occipital Fusiform Cortex,-0.1513
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Temporal Fusiform Cortex (anterior),0.1511
+1099481,Diagnosed,86,Angular Gyrus,Temporal Fusiform Cortex (anterior),0.1509
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Planum Polare,0.1509
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Paracingulate Gyrus,0.1507
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Frontal Orbital Cortex,0.1503
+1099481,Diagnosed,86,Frontal Medial Cortex,Parahippocampal Gyrus (anterior),0.1499
+1099481,Diagnosed,86,Middle Frontal Gyrus,Planum Temporale,-0.1496
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Frontal Orbital Cortex,-0.149
+1099481,Diagnosed,86,Frontal Operculum Cortex,Central Opercular Cortex,0.1486
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Paracingulate Gyrus,-0.147
+1099481,Diagnosed,86,Superior Frontal Gyrus,Planum Temporale,-0.1458
+1099481,Diagnosed,86,Frontal Operculum Cortex,Parietal Operculum Cortex,0.1437
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Central Opercular Cortex,-0.1436
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Lateral Occipital Cortex (superior),0.1431
+1099481,Diagnosed,86,Superior Frontal Gyrus,Lateral Occipital Cortex (inferior),0.1423
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Central Opercular Cortex,-0.1423
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Juxtapositional Lobule Cortex,-0.142
+1099481,Diagnosed,86,Precentral Gyrus,Inferior Temporal Gyrus (posterior),0.1413
+1099481,Diagnosed,86,Insular Cortex,Lingual Gyrus,0.1384
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Cingulate Gyrus (posterior),0.138
+1099481,Diagnosed,86,Temporal Pole,Frontal Orbital Cortex,-0.1379
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Frontal Operculum Cortex,0.1368
+1099481,Diagnosed,86,Planum Polare,Planum Temporale,-0.1366
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Lateral Occipital Cortex (inferior),0.1365
+1099481,Diagnosed,86,Superior Frontal Gyrus,Superior Temporal Gyrus (anterior),0.1361
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Inferior Temporal Gyrus (posterior),-0.135
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Cingulate Gyrus (anterior),0.1345
+1099481,Diagnosed,86,Middle Frontal Gyrus,Temporal Pole,0.1338
+1099481,Diagnosed,86,Intracalcarine Cortex,Parahippocampal Gyrus (posterior),-0.1337
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Intracalcarine Cortex,-0.1324
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Precuneous Cortex,0.1323
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Cuneal Cortex,0.1322
+1099481,Diagnosed,86,Temporal Pole,Occipital Fusiform Gyrus,0.1319
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Frontal Operculum Cortex,-0.131
+1099481,Diagnosed,86,Occipital Fusiform Gyrus,Frontal Operculum Cortex,0.1305
+1099481,Diagnosed,86,Temporal Pole,Superior Temporal Gyrus (posterior),-0.1299
+1099481,Diagnosed,86,Superior Frontal Gyrus,Intracalcarine Cortex,0.1294
+1099481,Diagnosed,86,Cingulate Gyrus (anterior),Temporal Fusiform Cortex (anterior),0.1284
+1099481,Diagnosed,86,Subcallosal Cortex,Planum Temporale,-0.1284
+1099481,Diagnosed,86,Temporal Pole,Lateral Occipital Cortex (superior),0.1282
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Lateral Occipital Cortex (superior),-0.1282
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Cingulate Gyrus (posterior),-0.1281
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Parahippocampal Gyrus (anterior),-0.1278
+1099481,Diagnosed,86,Cuneal Cortex,Temporal Fusiform Cortex (anterior),-0.1275
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Planum Temporale,0.127
+1099481,Diagnosed,86,Cuneal Cortex,Occipital Fusiform Gyrus,0.1258
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Subcallosal Cortex,-0.1257
+1099481,Diagnosed,86,Frontal Medial Cortex,Frontal Orbital Cortex,0.1255
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Lateral Occipital Cortex (inferior),-0.1251
+1099481,Diagnosed,86,Frontal Pole,Temporal Fusiform Cortex (anterior),0.1247
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Cuneal Cortex,0.1243
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Frontal Medial Cortex,0.1238
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Superior Parietal Lobule,0.1238
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Inferior Temporal Gyrus (posterior),-0.1237
+1099481,Diagnosed,86,Frontal Pole,Middle Temporal Gyrus (posterior),0.1231
+1099481,Diagnosed,86,Precentral Gyrus,Juxtapositional Lobule Cortex,-0.123
+1099481,Diagnosed,86,Temporal Pole,Middle Temporal Gyrus (anterior),0.1228
+1099481,Diagnosed,86,Precuneous Cortex,Temporal Fusiform Cortex (posterior),0.1214
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Lingual Gyrus,-0.1207
+1099481,Diagnosed,86,Cingulate Gyrus (posterior),Cuneal Cortex,0.1203
+1099481,Diagnosed,86,Superior Parietal Lobule,Intracalcarine Cortex,0.12
+1099481,Diagnosed,86,Postcentral Gyrus,Frontal Operculum Cortex,0.1196
+1099481,Diagnosed,86,Temporal Pole,Temporal Fusiform Cortex (anterior),0.1196
+1099481,Diagnosed,86,Subcallosal Cortex,Parahippocampal Gyrus (posterior),0.1194
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Subcallosal Cortex,0.1191
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Planum Temporale,-0.119
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Parahippocampal Gyrus (posterior),0.1177
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Temporal Occipital Fusiform Cortex,0.1165
+1099481,Diagnosed,86,Temporal Pole,Superior Parietal Lobule,0.1165
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Intracalcarine Cortex,-0.1162
+1099481,Diagnosed,86,Temporal Pole,Intracalcarine Cortex,-0.1152
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Lateral Occipital Cortex (superior),-0.1143
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Planum Temporale,-0.1138
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Parietal Operculum Cortex,-0.1122
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Central Opercular Cortex,-0.1119
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Parahippocampal Gyrus (posterior),0.1118
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Temporal Fusiform Cortex (posterior),0.1104
+1099481,Diagnosed,86,Middle Frontal Gyrus,Temporal Fusiform Cortex (anterior),0.1098
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Temporal Fusiform Cortex (anterior),0.1081
+1099481,Diagnosed,86,Frontal Pole,Juxtapositional Lobule Cortex,0.108
+1099481,Diagnosed,86,Temporal Pole,Supramarginal Gyrus (posterior),0.1065
+1099481,Diagnosed,86,Frontal Pole,Planum Temporale,-0.106
+1099481,Diagnosed,86,Paracingulate Gyrus,Temporal Fusiform Cortex (anterior),0.1058
+1099481,Diagnosed,86,Temporal Pole,Postcentral Gyrus,0.1052
+1099481,Diagnosed,86,Precentral Gyrus,Cuneal Cortex,0.1039
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Paracingulate Gyrus,0.1034
+1099481,Diagnosed,86,Frontal Medial Cortex,Parahippocampal Gyrus (posterior),0.1029
+1099481,Diagnosed,86,Cuneal Cortex,Central Opercular Cortex,0.1001
+1099481,Diagnosed,86,Temporal Fusiform Cortex (anterior),Central Opercular Cortex,0.1
+1099481,Diagnosed,86,Superior Frontal Gyrus,Inferior Temporal Gyrus (posterior),0.0996
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Planum Temporale,-0.0996
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Lateral Occipital Cortex (superior),0.0995
+1099481,Diagnosed,86,Middle Frontal Gyrus,Superior Temporal Gyrus (anterior),0.0995
+1099481,Diagnosed,86,Intracalcarine Cortex,Lingual Gyrus,-0.0993
+1099481,Diagnosed,86,Frontal Medial Cortex,Temporal Fusiform Cortex (anterior),0.0985
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Inferior Temporal Gyrus (posterior),0.0968
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Parietal Operculum Cortex,-0.096
+1099481,Diagnosed,86,Angular Gyrus,Cuneal Cortex,0.0958
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Middle Temporal Gyrus (anterior),-0.0957
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Cingulate Gyrus (posterior),-0.0946
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Parahippocampal Gyrus (anterior),-0.0942
+1099481,Diagnosed,86,Cuneal Cortex,Temporal Occipital Fusiform Cortex,0.0939
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Juxtapositional Lobule Cortex,-0.0929
+1099481,Diagnosed,86,Middle Frontal Gyrus,Parahippocampal Gyrus (anterior),0.0926
+1099481,Diagnosed,86,Subcallosal Cortex,Temporal Fusiform Cortex (anterior),0.0926
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Supramarginal Gyrus (posterior),0.0923
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Cuneal Cortex,0.0918
+1099481,Diagnosed,86,Temporal Fusiform Cortex (posterior),Planum Temporale,-0.09
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Lingual Gyrus,0.0887
+1099481,Diagnosed,86,Frontal Orbital Cortex,Planum Temporale,0.0886
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Frontal Orbital Cortex,-0.0884
+1099481,Diagnosed,86,Middle Frontal Gyrus,Inferior Temporal Gyrus (posterior),-0.0873
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Inferior Temporal Gyrus (posterior),-0.0855
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Supramarginal Gyrus (anterior),0.0852
+1099481,Diagnosed,86,Supramarginal Gyrus (anterior),Juxtapositional Lobule Cortex,-0.0851
+1099481,Diagnosed,86,Precentral Gyrus,Parahippocampal Gyrus (posterior),0.085
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Middle Temporal Gyrus (posterior),0.0847
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Temporal Fusiform Cortex (anterior),0.0843
+1099481,Diagnosed,86,Intracalcarine Cortex,Planum Polare,0.0843
+1099481,Diagnosed,86,Postcentral Gyrus,Cuneal Cortex,0.0842
+1099481,Diagnosed,86,Temporal Pole,Cingulate Gyrus (posterior),0.0836
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Intracalcarine Cortex,-0.0833
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Juxtapositional Lobule Cortex,-0.0826
+1099481,Diagnosed,86,Postcentral Gyrus,Lateral Occipital Cortex (superior),-0.0825
+1099481,Diagnosed,86,Frontal Pole,Lingual Gyrus,-0.082
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Lingual Gyrus,0.0819
+1099481,Diagnosed,86,Intracalcarine Cortex,Frontal Medial Cortex,0.0818
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Central Opercular Cortex,-0.0811
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Lateral Occipital Cortex (superior),-0.08
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Temporal Fusiform Cortex (anterior),0.0799
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Cuneal Cortex,0.0795
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Cingulate Gyrus (anterior),-0.079
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Precuneous Cortex,-0.0786
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Planum Temporale,-0.0781
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Lingual Gyrus,0.0781
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Inferior Temporal Gyrus (temporooccipital),-0.0776
+1099481,Diagnosed,86,Intracalcarine Cortex,Central Opercular Cortex,0.0775
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Temporal Fusiform Cortex (anterior),0.0772
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Parahippocampal Gyrus (posterior),-0.0758
+1099481,Diagnosed,86,Postcentral Gyrus,Lateral Occipital Cortex (inferior),0.0744
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Paracingulate Gyrus,0.074
+1099481,Diagnosed,86,Superior Parietal Lobule,Frontal Operculum Cortex,0.074
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Intracalcarine Cortex,0.0738
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Supramarginal Gyrus (posterior),-0.0737
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Planum Temporale,-0.0736
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Planum Temporale,0.0728
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Planum Temporale,-0.0704
+1099481,Diagnosed,86,Intracalcarine Cortex,Temporal Fusiform Cortex (posterior),0.0701
+1099481,Diagnosed,86,Parahippocampal Gyrus (anterior),Frontal Operculum Cortex,0.0699
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Parahippocampal Gyrus (posterior),-0.069
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Temporal Occipital Fusiform Cortex,-0.0689
+1099481,Diagnosed,86,Supramarginal Gyrus (posterior),Lateral Occipital Cortex (inferior),0.0666
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Inferior Temporal Gyrus (anterior),0.0666
+1099481,Diagnosed,86,Parietal Operculum Cortex,Planum Temporale,-0.0657
+1099481,Diagnosed,86,Middle Frontal Gyrus,Juxtapositional Lobule Cortex,-0.0648
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Cuneal Cortex,0.063
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Planum Polare,-0.0629
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Inferior Temporal Gyrus (anterior),0.0624
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Lateral Occipital Cortex (inferior),0.0619
+1099481,Diagnosed,86,Insular Cortex,Intracalcarine Cortex,0.0612
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Middle Temporal Gyrus (anterior),0.06
+1099481,Diagnosed,86,Angular Gyrus,Lateral Occipital Cortex (superior),0.0597
+1099481,Diagnosed,86,Cuneal Cortex,Planum Polare,0.0596
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Temporal Fusiform Cortex (posterior),0.0595
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Lateral Occipital Cortex (inferior),0.0582
+1099481,Diagnosed,86,Lingual Gyrus,Planum Temporale,-0.0581
+1099481,Diagnosed,86,Cuneal Cortex,Parietal Operculum Cortex,0.0569
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Frontal Operculum Cortex,0.0568
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Parahippocampal Gyrus (anterior),0.0559
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Occipital Fusiform Gyrus,0.0559
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Occipital Fusiform Gyrus,-0.0555
+1099481,Diagnosed,86,Temporal Pole,Middle Temporal Gyrus (posterior),-0.0553
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (superior),0.0552
+1099481,Diagnosed,86,Frontal Pole,Frontal Orbital Cortex,0.0546
+1099481,Diagnosed,86,Lingual Gyrus,Temporal Fusiform Cortex (posterior),0.0538
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Inferior Temporal Gyrus (temporooccipital),0.0516
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Planum Temporale,0.0511
+1099481,Diagnosed,86,Central Opercular Cortex,Planum Temporale,0.051
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Temporal Fusiform Cortex (anterior),0.0505
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Inferior Temporal Gyrus (posterior),0.0503
+1099481,Diagnosed,86,Superior Frontal Gyrus,Middle Temporal Gyrus (anterior),-0.0499
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Planum Temporale,-0.0499
+1099481,Diagnosed,86,Superior Frontal Gyrus,Cuneal Cortex,0.0498
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Parahippocampal Gyrus (posterior),-0.0497
+1099481,Diagnosed,86,Temporal Occipital Fusiform Cortex,Planum Temporale,0.0483
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Occipital Fusiform Gyrus,0.0483
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Temporal Fusiform Cortex (anterior),0.0464
+1099481,Diagnosed,86,Temporal Fusiform Cortex (anterior),Planum Temporale,0.0461
+1099481,Diagnosed,86,Intracalcarine Cortex,Precuneous Cortex,-0.0458
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Juxtapositional Lobule Cortex,0.0456
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Superior Parietal Lobule,-0.0452
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Occipital Fusiform Gyrus,-0.0448
+1099481,Diagnosed,86,Insular Cortex,Juxtapositional Lobule Cortex,0.0445
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Frontal Medial Cortex,0.0442
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Paracingulate Gyrus,-0.0435
+1099481,Diagnosed,86,Temporal Fusiform Cortex (anterior),Temporal Fusiform Cortex (posterior),0.0434
+1099481,Diagnosed,86,Precuneous Cortex,Cuneal Cortex,-0.0429
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Frontal Operculum Cortex,0.0422
+1099481,Diagnosed,86,Frontal Medial Cortex,Cuneal Cortex,0.0418
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Cingulate Gyrus (anterior),-0.0415
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Supramarginal Gyrus (anterior),0.0414
+1099481,Diagnosed,86,Cuneal Cortex,Frontal Orbital Cortex,0.0405
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Inferior Temporal Gyrus (anterior),-0.0405
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Parahippocampal Gyrus (anterior),0.0403
+1099481,Diagnosed,86,Superior Parietal Lobule,Lateral Occipital Cortex (inferior),0.04
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Frontal Operculum Cortex,0.0399
+1099481,Diagnosed,86,Frontal Pole,Parahippocampal Gyrus (posterior),-0.0398
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Planum Temporale,0.039
+1099481,Diagnosed,86,Precentral Gyrus,Middle Temporal Gyrus (anterior),0.0383
+1099481,Diagnosed,86,Cuneal Cortex,Parahippocampal Gyrus (posterior),-0.0368
+1099481,Diagnosed,86,Insular Cortex,Inferior Temporal Gyrus (anterior),-0.036
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Cingulate Gyrus (anterior),0.0353
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Planum Temporale,0.0351
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Middle Temporal Gyrus (anterior),-0.0349
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Lateral Occipital Cortex (inferior),-0.0332
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Lingual Gyrus,-0.0331
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Lateral Occipital Cortex (superior),-0.0328
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Middle Temporal Gyrus (temporooccipital),-0.0326
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Subcallosal Cortex,-0.0317
+1099481,Diagnosed,86,Cuneal Cortex,Parahippocampal Gyrus (anterior),0.0316
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Frontal Operculum Cortex,-0.0311
+1099481,Diagnosed,86,Intracalcarine Cortex,Parietal Operculum Cortex,0.031
+1099481,Diagnosed,86,Precentral Gyrus,Lateral Occipital Cortex (superior),0.0309
+1099481,Diagnosed,86,Lateral Occipital Cortex (superior),Parahippocampal Gyrus (anterior),0.0307
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Angular Gyrus,0.0304
+1099481,Diagnosed,86,Temporal Pole,Parietal Operculum Cortex,-0.0303
+1099481,Diagnosed,86,Insular Cortex,Planum Temporale,0.0289
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Planum Polare,-0.0288
+1099481,Diagnosed,86,Temporal Pole,Juxtapositional Lobule Cortex,-0.0287
+1099481,Diagnosed,86,Cuneal Cortex,Planum Temporale,0.0286
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Frontal Orbital Cortex,-0.0285
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Intracalcarine Cortex,0.0283
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars triangularis),Temporal Fusiform Cortex (anterior),-0.0275
+1099481,Diagnosed,86,Precuneous Cortex,Planum Temporale,0.0269
+1099481,Diagnosed,86,Middle Frontal Gyrus,Lateral Occipital Cortex (inferior),-0.0263
+1099481,Diagnosed,86,Superior Parietal Lobule,Lateral Occipital Cortex (superior),-0.0261
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Cuneal Cortex,0.0256
+1099481,Diagnosed,86,Lingual Gyrus,Frontal Operculum Cortex,-0.024
+1099481,Diagnosed,86,Inferior Temporal Gyrus (temporooccipital),Cuneal Cortex,0.0239
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Frontal Orbital Cortex,-0.0232
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Precuneous Cortex,-0.0224
+1099481,Diagnosed,86,Inferior Frontal Gyrus (pars opercularis),Parahippocampal Gyrus (posterior),-0.0223
+1099481,Diagnosed,86,Intracalcarine Cortex,Temporal Occipital Fusiform Cortex,-0.022
+1099481,Diagnosed,86,Frontal Pole,Precuneous Cortex,-0.0216
+1099481,Diagnosed,86,Intracalcarine Cortex,Frontal Operculum Cortex,0.0212
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Precuneous Cortex,0.0211
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Parietal Operculum Cortex,0.0209
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Planum Temporale,-0.0191
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Planum Temporale,0.0189
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Planum Temporale,0.0178
+1099481,Diagnosed,86,Lateral Occipital Cortex (inferior),Juxtapositional Lobule Cortex,0.0176
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Cingulate Gyrus (posterior),-0.0174
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Angular Gyrus,-0.0166
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Parietal Operculum Cortex,-0.0162
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Planum Polare,0.0162
+1099481,Diagnosed,86,Precuneous Cortex,Frontal Operculum Cortex,-0.016
+1099481,Diagnosed,86,Cuneal Cortex,Lingual Gyrus,-0.0144
+1099481,Diagnosed,86,Cuneal Cortex,Frontal Operculum Cortex,0.0144
+1099481,Diagnosed,86,Middle Frontal Gyrus,Lateral Occipital Cortex (superior),-0.0143
+1099481,Diagnosed,86,Middle Temporal Gyrus (posterior),Temporal Fusiform Cortex (anterior),0.0118
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Angular Gyrus,0.0118
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Postcentral Gyrus,0.0101
+1099481,Diagnosed,86,Intracalcarine Cortex,Frontal Orbital Cortex,0.0089
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Postcentral Gyrus,0.0088
+1099481,Diagnosed,86,Intracalcarine Cortex,Planum Temporale,0.0088
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (posterior),0.0068
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Juxtapositional Lobule Cortex,0.0064
+1099481,Diagnosed,86,Middle Temporal Gyrus (temporooccipital),Cuneal Cortex,-0.0062
+1099481,Diagnosed,86,Temporal Pole,Lingual Gyrus,-0.0058
+1099481,Diagnosed,86,Parahippocampal Gyrus (posterior),Temporal Fusiform Cortex (posterior),-0.0054
+1099481,Diagnosed,86,Inferior Temporal Gyrus (anterior),Temporal Fusiform Cortex (posterior),0.0052
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Supramarginal Gyrus (posterior),0.0041
+1099481,Diagnosed,86,Superior Parietal Lobule,Cuneal Cortex,-0.004
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Postcentral Gyrus,-0.0037
+1099481,Diagnosed,86,Middle Frontal Gyrus,Middle Temporal Gyrus (anterior),0.0036
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Cingulate Gyrus (anterior),0.0034
+1099481,Diagnosed,86,Superior Temporal Gyrus (posterior),Intracalcarine Cortex,0.0027
+1099481,Diagnosed,86,Superior Temporal Gyrus (anterior),Cingulate Gyrus (anterior),-0.0026
+1099481,Diagnosed,86,Frontal Pole,Inferior Temporal Gyrus (anterior),-0.0024
+1099481,Diagnosed,86,Middle Temporal Gyrus (anterior),Parietal Operculum Cortex,0.002
+1099481,Diagnosed,86,Inferior Temporal Gyrus (posterior),Cingulate Gyrus (posterior),0.0013
+1099481,Diagnosed,86,Juxtapositional Lobule Cortex,Frontal Orbital Cortex,0.0006

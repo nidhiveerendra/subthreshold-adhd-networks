@@ -1,0 +1,14 @@
+FINAL SAMPLE DEMOGRAPHICS
+Total N: 201
+Subthreshold: 96
+Diagnosed: 105
+
+AGE:
+  Overall: 11.74 ± 2.97 (range: 7.2-18.0)
+  Subthreshold: 12.34 ± 3.16
+  Diagnosed: 11.18 ± 2.69
+  Group difference: t=2.815, p=0.000
+
+SEX:
+  Male: 127 (63.2%)
+  Female: 74 (36.8%)
