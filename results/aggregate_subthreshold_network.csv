@@ -1,0 +1,991 @@
+Source,Target,Group,Avg_Fisher_Z,Avg_r
+Precentral Gyrus,Inferior Temporal Gyrus (temporooccipital),Subthreshold,1.5073,0.9065
+Subcallosal Cortex,Paracingulate Gyrus,Subthreshold,1.3785,0.8806
+Cingulate Gyrus (anterior),Cingulate Gyrus (posterior),Subthreshold,1.2794,0.8563
+Insular Cortex,Temporal Occipital Fusiform Cortex,Subthreshold,1.2449,0.8468
+Postcentral Gyrus,Cingulate Gyrus (posterior),Subthreshold,1.2441,0.8466
+Angular Gyrus,Cingulate Gyrus (posterior),Subthreshold,1.2039,0.8348
+Inferior Temporal Gyrus (temporooccipital),Postcentral Gyrus,Subthreshold,1.1812,0.8278
+Precentral Gyrus,Frontal Medial Cortex,Subthreshold,1.1568,0.82
+Postcentral Gyrus,Cingulate Gyrus (anterior),Subthreshold,1.1482,0.8172
+Superior Frontal Gyrus,Frontal Medial Cortex,Subthreshold,1.1472,0.8168
+Inferior Temporal Gyrus (temporooccipital),Cingulate Gyrus (anterior),Subthreshold,1.132,0.8117
+Inferior Temporal Gyrus (temporooccipital),Superior Parietal Lobule,Subthreshold,1.1209,0.8079
+Superior Parietal Lobule,Supramarginal Gyrus (anterior),Subthreshold,1.1014,0.801
+Superior Frontal Gyrus,Precentral Gyrus,Subthreshold,1.0997,0.8004
+Precentral Gyrus,Cingulate Gyrus (anterior),Subthreshold,1.0936,0.7982
+Inferior Temporal Gyrus (temporooccipital),Cingulate Gyrus (posterior),Subthreshold,1.0829,0.7943
+Frontal Pole,Subcallosal Cortex,Subthreshold,1.0803,0.7933
+Inferior Frontal Gyrus (pars triangularis),Inferior Frontal Gyrus (pars opercularis),Subthreshold,1.0686,0.7889
+Supramarginal Gyrus (anterior),Supramarginal Gyrus (posterior),Subthreshold,1.0631,0.7868
+Postcentral Gyrus,Supramarginal Gyrus (anterior),Subthreshold,1.0338,0.7754
+Inferior Frontal Gyrus (pars opercularis),Temporal Fusiform Cortex (posterior),Subthreshold,1.0301,0.774
+Superior Frontal Gyrus,Middle Frontal Gyrus,Subthreshold,1.0024,0.7626
+Inferior Temporal Gyrus (temporooccipital),Supramarginal Gyrus (anterior),Subthreshold,0.9855,0.7554
+Postcentral Gyrus,Angular Gyrus,Subthreshold,0.9679,0.7478
+Inferior Frontal Gyrus (pars triangularis),Temporal Fusiform Cortex (posterior),Subthreshold,0.9668,0.7473
+Supramarginal Gyrus (anterior),Cingulate Gyrus (posterior),Subthreshold,0.9602,0.7444
+Superior Frontal Gyrus,Cingulate Gyrus (anterior),Subthreshold,0.9554,0.7422
+Paracingulate Gyrus,Cingulate Gyrus (anterior),Subthreshold,0.9443,0.7372
+Precentral Gyrus,Cingulate Gyrus (posterior),Subthreshold,0.9398,0.7351
+Precentral Gyrus,Paracingulate Gyrus,Subthreshold,0.9303,0.7307
+Supramarginal Gyrus (posterior),Angular Gyrus,Subthreshold,0.9258,0.7286
+Occipital Fusiform Gyrus,Parietal Operculum Cortex,Subthreshold,0.9228,0.7272
+Supramarginal Gyrus (anterior),Cingulate Gyrus (anterior),Subthreshold,0.9215,0.7266
+Inferior Temporal Gyrus (temporooccipital),Frontal Medial Cortex,Subthreshold,0.9153,0.7237
+Precentral Gyrus,Postcentral Gyrus,Subthreshold,0.9144,0.7232
+Superior Frontal Gyrus,Subcallosal Cortex,Subthreshold,0.9125,0.7223
+Supramarginal Gyrus (anterior),Angular Gyrus,Subthreshold,0.9091,0.7207
+Superior Frontal Gyrus,Paracingulate Gyrus,Subthreshold,0.9065,0.7195
+Precentral Gyrus,Superior Parietal Lobule,Subthreshold,0.8985,0.7156
+Frontal Pole,Paracingulate Gyrus,Subthreshold,0.8981,0.7153
+Middle Frontal Gyrus,Precentral Gyrus,Subthreshold,0.8873,0.7101
+Superior Frontal Gyrus,Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.8782,0.7055
+Middle Frontal Gyrus,Cingulate Gyrus (anterior),Subthreshold,0.8729,0.7029
+Frontal Medial Cortex,Cingulate Gyrus (anterior),Subthreshold,0.859,0.6958
+Precentral Gyrus,Supramarginal Gyrus (anterior),Subthreshold,0.8567,0.6946
+Frontal Pole,Precentral Gyrus,Subthreshold,0.8517,0.692
+Insular Cortex,Cuneal Cortex,Subthreshold,0.8351,0.6832
+Superior Parietal Lobule,Cingulate Gyrus (posterior),Subthreshold,0.835,0.6832
+Inferior Frontal Gyrus (pars opercularis),Precentral Gyrus,Subthreshold,0.8333,0.6822
+Superior Parietal Lobule,Cingulate Gyrus (anterior),Subthreshold,0.8308,0.6809
+Inferior Temporal Gyrus (temporooccipital),Paracingulate Gyrus,Subthreshold,0.8291,0.68
+Postcentral Gyrus,Superior Parietal Lobule,Subthreshold,0.8233,0.6768
+Frontal Pole,Superior Frontal Gyrus,Subthreshold,0.8226,0.6765
+Superior Parietal Lobule,Occipital Fusiform Gyrus,Subthreshold,0.8225,0.6765
+Superior Frontal Gyrus,Cingulate Gyrus (posterior),Subthreshold,0.8151,0.6724
+Precentral Gyrus,Subcallosal Cortex,Subthreshold,0.8063,0.6675
+Inferior Temporal Gyrus (temporooccipital),Angular Gyrus,Subthreshold,0.8013,0.6648
+Frontal Pole,Inferior Frontal Gyrus (pars opercularis),Subthreshold,0.7986,0.6632
+Middle Frontal Gyrus,Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.7981,0.663
+Supramarginal Gyrus (posterior),Cingulate Gyrus (posterior),Subthreshold,0.7978,0.6628
+Superior Frontal Gyrus,Postcentral Gyrus,Subthreshold,0.7977,0.6628
+Middle Frontal Gyrus,Postcentral Gyrus,Subthreshold,0.7927,0.6599
+Subcallosal Cortex,Cingulate Gyrus (anterior),Subthreshold,0.7847,0.6554
+Frontal Pole,Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.784,0.655
+Paracingulate Gyrus,Cingulate Gyrus (posterior),Subthreshold,0.783,0.6544
+Insular Cortex,Temporal Fusiform Cortex (posterior),Subthreshold,0.7762,0.6505
+Angular Gyrus,Cingulate Gyrus (anterior),Subthreshold,0.7732,0.6488
+Frontal Pole,Temporal Fusiform Cortex (posterior),Subthreshold,0.7713,0.6477
+Supramarginal Gyrus (anterior),Occipital Fusiform Gyrus,Subthreshold,0.771,0.6475
+Frontal Medial Cortex,Paracingulate Gyrus,Subthreshold,0.7699,0.6469
+Middle Frontal Gyrus,Cingulate Gyrus (posterior),Subthreshold,0.7677,0.6456
+Cuneal Cortex,Temporal Occipital Fusiform Cortex,Subthreshold,0.7579,0.6399
+Frontal Medial Cortex,Cingulate Gyrus (posterior),Subthreshold,0.752,0.6364
+Lateral Occipital Cortex (inferior),Planum Polare,Subthreshold,0.7395,0.6289
+Frontal Pole,Cingulate Gyrus (posterior),Subthreshold,0.737,0.6273
+Middle Frontal Gyrus,Paracingulate Gyrus,Subthreshold,0.7331,0.625
+Frontal Medial Cortex,Subcallosal Cortex,Subthreshold,0.733,0.6249
+Superior Parietal Lobule,Angular Gyrus,Subthreshold,0.7307,0.6235
+Postcentral Gyrus,Supramarginal Gyrus (posterior),Subthreshold,0.7277,0.6217
+Insular Cortex,Paracingulate Gyrus,Subthreshold,0.7241,0.6194
+Frontal Pole,Middle Frontal Gyrus,Subthreshold,0.724,0.6194
+Subcallosal Cortex,Cingulate Gyrus (posterior),Subthreshold,0.721,0.6175
+Precentral Gyrus,Angular Gyrus,Subthreshold,0.7177,0.6155
+Temporal Occipital Fusiform Cortex,Central Opercular Cortex,Subthreshold,0.717,0.615
+Frontal Pole,Insular Cortex,Subthreshold,0.7143,0.6133
+Inferior Temporal Gyrus (temporooccipital),Subcallosal Cortex,Subthreshold,0.714,0.6132
+Frontal Pole,Cingulate Gyrus (anterior),Subthreshold,0.7083,0.6096
+Superior Parietal Lobule,Supramarginal Gyrus (posterior),Subthreshold,0.7082,0.6095
+Insular Cortex,Subcallosal Cortex,Subthreshold,0.7028,0.6061
+Inferior Frontal Gyrus (pars opercularis),Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.7017,0.6055
+Superior Frontal Gyrus,Supramarginal Gyrus (anterior),Subthreshold,0.6975,0.6028
+Frontal Pole,Inferior Frontal Gyrus (pars triangularis),Subthreshold,0.6953,0.6014
+Supramarginal Gyrus (anterior),Frontal Medial Cortex,Subthreshold,0.6884,0.597
+Superior Parietal Lobule,Frontal Medial Cortex,Subthreshold,0.6847,0.5946
+Middle Frontal Gyrus,Frontal Medial Cortex,Subthreshold,0.6844,0.5944
+Paracingulate Gyrus,Temporal Fusiform Cortex (posterior),Subthreshold,0.6823,0.593
+Postcentral Gyrus,Frontal Medial Cortex,Subthreshold,0.6821,0.5929
+Inferior Temporal Gyrus (temporooccipital),Supramarginal Gyrus (posterior),Subthreshold,0.6818,0.5927
+Frontal Pole,Frontal Medial Cortex,Subthreshold,0.6818,0.5927
+Inferior Temporal Gyrus (temporooccipital),Occipital Fusiform Gyrus,Subthreshold,0.6772,0.5897
+Precentral Gyrus,Temporal Fusiform Cortex (posterior),Subthreshold,0.6667,0.5828
+Inferior Frontal Gyrus (pars opercularis),Paracingulate Gyrus,Subthreshold,0.6592,0.5778
+Subcallosal Cortex,Temporal Fusiform Cortex (posterior),Subthreshold,0.6556,0.5754
+Supramarginal Gyrus (posterior),Cingulate Gyrus (anterior),Subthreshold,0.6553,0.5752
+Angular Gyrus,Occipital Fusiform Gyrus,Subthreshold,0.6508,0.5722
+Middle Frontal Gyrus,Supramarginal Gyrus (anterior),Subthreshold,0.6493,0.5712
+Frontal Pole,Supramarginal Gyrus (anterior),Subthreshold,0.6476,0.57
+Cingulate Gyrus (posterior),Occipital Fusiform Gyrus,Subthreshold,0.6462,0.5691
+Insular Cortex,Inferior Frontal Gyrus (pars opercularis),Subthreshold,0.6457,0.5687
+Inferior Frontal Gyrus (pars opercularis),Subcallosal Cortex,Subthreshold,0.6432,0.5671
+Postcentral Gyrus,Paracingulate Gyrus,Subthreshold,0.6417,0.566
+Frontal Pole,Superior Parietal Lobule,Subthreshold,0.6416,0.566
+Frontal Pole,Temporal Occipital Fusiform Cortex,Subthreshold,0.6408,0.5655
+Middle Frontal Gyrus,Superior Parietal Lobule,Subthreshold,0.6398,0.5648
+Subcallosal Cortex,Temporal Occipital Fusiform Cortex,Subthreshold,0.6371,0.563
+Superior Frontal Gyrus,Angular Gyrus,Subthreshold,0.6358,0.562
+Supramarginal Gyrus (posterior),Occipital Fusiform Gyrus,Subthreshold,0.6355,0.5618
+Precentral Gyrus,Supramarginal Gyrus (posterior),Subthreshold,0.6295,0.5577
+Temporal Fusiform Cortex (posterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.6284,0.5569
+Superior Frontal Gyrus,Superior Parietal Lobule,Subthreshold,0.6265,0.5556
+Inferior Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (posterior),Subthreshold,0.624,0.5539
+Temporal Pole,Frontal Operculum Cortex,Subthreshold,0.6209,0.5517
+Paracingulate Gyrus,Temporal Occipital Fusiform Cortex,Subthreshold,0.6202,0.5513
+Superior Parietal Lobule,Paracingulate Gyrus,Subthreshold,0.6191,0.5505
+Occipital Fusiform Gyrus,Central Opercular Cortex,Subthreshold,0.6171,0.5491
+Cuneal Cortex,Temporal Fusiform Cortex (posterior),Subthreshold,0.6152,0.5478
+Middle Frontal Gyrus,Subcallosal Cortex,Subthreshold,0.6151,0.5477
+Frontal Pole,Cuneal Cortex,Subthreshold,0.6142,0.547
+Angular Gyrus,Frontal Medial Cortex,Subthreshold,0.605,0.5406
+Central Opercular Cortex,Parietal Operculum Cortex,Subthreshold,0.6018,0.5383
+Inferior Frontal Gyrus (pars triangularis),Precentral Gyrus,Subthreshold,0.5974,0.5352
+Supramarginal Gyrus (anterior),Paracingulate Gyrus,Subthreshold,0.5938,0.5326
+Frontal Pole,Supramarginal Gyrus (posterior),Subthreshold,0.5912,0.5307
+Lateral Occipital Cortex (inferior),Parahippocampal Gyrus (anterior),Subthreshold,0.5894,0.5295
+Postcentral Gyrus,Occipital Fusiform Gyrus,Subthreshold,0.5889,0.5291
+Insular Cortex,Planum Polare,Subthreshold,0.5886,0.5289
+Frontal Pole,Angular Gyrus,Subthreshold,0.5863,0.5273
+Parahippocampal Gyrus (anterior),Occipital Fusiform Gyrus,Subthreshold,0.5863,0.5272
+Angular Gyrus,Paracingulate Gyrus,Subthreshold,0.5842,0.5257
+Inferior Frontal Gyrus (pars opercularis),Temporal Occipital Fusiform Cortex,Subthreshold,0.5811,0.5235
+Insular Cortex,Central Opercular Cortex,Subthreshold,0.581,0.5234
+Frontal Pole,Postcentral Gyrus,Subthreshold,0.5776,0.5209
+Temporal Occipital Fusiform Cortex,Planum Polare,Subthreshold,0.5763,0.52
+Supramarginal Gyrus (posterior),Frontal Medial Cortex,Subthreshold,0.5763,0.5199
+Parahippocampal Gyrus (anterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.573,0.5176
+Angular Gyrus,Precuneous Cortex,Subthreshold,0.5703,0.5155
+Cingulate Gyrus (anterior),Occipital Fusiform Gyrus,Subthreshold,0.5691,0.5147
+Lateral Occipital Cortex (inferior),Temporal Occipital Fusiform Cortex,Subthreshold,0.5666,0.5128
+Middle Frontal Gyrus,Angular Gyrus,Subthreshold,0.5639,0.5108
+Insular Cortex,Precentral Gyrus,Subthreshold,0.5584,0.5068
+Inferior Frontal Gyrus (pars opercularis),Superior Parietal Lobule,Subthreshold,0.5572,0.5059
+Cingulate Gyrus (posterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.5562,0.5052
+Inferior Frontal Gyrus (pars triangularis),Paracingulate Gyrus,Subthreshold,0.5558,0.5048
+Supramarginal Gyrus (anterior),Subcallosal Cortex,Subthreshold,0.5553,0.5045
+Angular Gyrus,Subcallosal Cortex,Subthreshold,0.554,0.5035
+Insular Cortex,Inferior Frontal Gyrus (pars triangularis),Subthreshold,0.5535,0.5031
+Postcentral Gyrus,Subcallosal Cortex,Subthreshold,0.5494,0.5001
+Temporal Occipital Fusiform Cortex,Frontal Operculum Cortex,Subthreshold,0.5486,0.4995
+Inferior Frontal Gyrus (pars triangularis),Cuneal Cortex,Subthreshold,0.5483,0.4993
+Inferior Frontal Gyrus (pars triangularis),Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.5461,0.4976
+Superior Temporal Gyrus (anterior),Frontal Operculum Cortex,Subthreshold,0.5446,0.4965
+Temporal Pole,Cuneal Cortex,Subthreshold,0.543,0.4952
+Superior Parietal Lobule,Parietal Operculum Cortex,Subthreshold,0.5424,0.4948
+Superior Parietal Lobule,Subcallosal Cortex,Subthreshold,0.54,0.493
+Insular Cortex,Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.5398,0.4928
+Superior Frontal Gyrus,Supramarginal Gyrus (posterior),Subthreshold,0.5389,0.4922
+Cingulate Gyrus (posterior),Precuneous Cortex,Subthreshold,0.5382,0.4916
+Superior Frontal Gyrus,Inferior Frontal Gyrus (pars opercularis),Subthreshold,0.537,0.4907
+Precentral Gyrus,Occipital Fusiform Gyrus,Subthreshold,0.5367,0.4905
+Insular Cortex,Frontal Operculum Cortex,Subthreshold,0.5364,0.4903
+Inferior Frontal Gyrus (pars triangularis),Subcallosal Cortex,Subthreshold,0.5341,0.4885
+Temporal Pole,Superior Temporal Gyrus (anterior),Subthreshold,0.5339,0.4883
+Inferior Temporal Gyrus (temporooccipital),Temporal Occipital Fusiform Cortex,Subthreshold,0.5337,0.4882
+Superior Parietal Lobule,Temporal Occipital Fusiform Cortex,Subthreshold,0.5325,0.4873
+Insular Cortex,Lateral Occipital Cortex (inferior),Subthreshold,0.5261,0.4824
+Insular Cortex,Cingulate Gyrus (anterior),Subthreshold,0.522,0.4793
+Inferior Frontal Gyrus (pars opercularis),Cuneal Cortex,Subthreshold,0.5199,0.4776
+Insular Cortex,Cingulate Gyrus (posterior),Subthreshold,0.5184,0.4765
+Inferior Frontal Gyrus (pars opercularis),Cingulate Gyrus (anterior),Subthreshold,0.5171,0.4755
+Insular Cortex,Superior Parietal Lobule,Subthreshold,0.5168,0.4752
+Inferior Frontal Gyrus (pars opercularis),Frontal Medial Cortex,Subthreshold,0.5162,0.4748
+Subcallosal Cortex,Planum Polare,Subthreshold,0.5117,0.4713
+Temporal Occipital Fusiform Cortex,Occipital Fusiform Gyrus,Subthreshold,0.5063,0.467
+Temporal Pole,Temporal Occipital Fusiform Cortex,Subthreshold,0.5058,0.4667
+Supramarginal Gyrus (posterior),Subcallosal Cortex,Subthreshold,0.504,0.4653
+Insular Cortex,Occipital Fusiform Gyrus,Subthreshold,0.5037,0.465
+Cingulate Gyrus (anterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.5032,0.4647
+Subcallosal Cortex,Cuneal Cortex,Subthreshold,0.5016,0.4634
+Precentral Gyrus,Temporal Occipital Fusiform Cortex,Subthreshold,0.501,0.4629
+Supramarginal Gyrus (posterior),Precuneous Cortex,Subthreshold,0.5009,0.4628
+Insular Cortex,Angular Gyrus,Subthreshold,0.4973,0.46
+Inferior Frontal Gyrus (pars opercularis),Cingulate Gyrus (posterior),Subthreshold,0.4912,0.4552
+Superior Frontal Gyrus,Temporal Fusiform Cortex (posterior),Subthreshold,0.4894,0.4537
+Insular Cortex,Parahippocampal Gyrus (anterior),Subthreshold,0.488,0.4526
+Frontal Pole,Planum Polare,Subthreshold,0.4855,0.4506
+Cingulate Gyrus (anterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.4811,0.4471
+Precuneous Cortex,Planum Polare,Subthreshold,0.479,0.4455
+Angular Gyrus,Temporal Occipital Fusiform Cortex,Subthreshold,0.4782,0.4448
+Supramarginal Gyrus (posterior),Paracingulate Gyrus,Subthreshold,0.4769,0.4437
+Subcallosal Cortex,Precuneous Cortex,Subthreshold,0.4756,0.4427
+Frontal Medial Cortex,Temporal Fusiform Cortex (posterior),Subthreshold,0.4748,0.442
+Inferior Frontal Gyrus (pars triangularis),Temporal Occipital Fusiform Cortex,Subthreshold,0.4743,0.4417
+Angular Gyrus,Central Opercular Cortex,Subthreshold,0.4735,0.441
+Supramarginal Gyrus (anterior),Parietal Operculum Cortex,Subthreshold,0.4709,0.4389
+Inferior Frontal Gyrus (pars opercularis),Supramarginal Gyrus (anterior),Subthreshold,0.4706,0.4387
+Lateral Occipital Cortex (inferior),Subcallosal Cortex,Subthreshold,0.4698,0.438
+Inferior Frontal Gyrus (pars opercularis),Occipital Fusiform Gyrus,Subthreshold,0.468,0.4365
+Supramarginal Gyrus (anterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.4669,0.4357
+Superior Parietal Lobule,Parahippocampal Gyrus (anterior),Subthreshold,0.4662,0.4352
+Insular Cortex,Supramarginal Gyrus (anterior),Subthreshold,0.4653,0.4344
+Insular Cortex,Temporal Pole,Subthreshold,0.4616,0.4313
+Superior Parietal Lobule,Temporal Fusiform Cortex (posterior),Subthreshold,0.4614,0.4312
+Inferior Frontal Gyrus (pars opercularis),Postcentral Gyrus,Subthreshold,0.4555,0.4264
+Frontal Orbital Cortex,Parahippocampal Gyrus (posterior),Subthreshold,0.4548,0.4259
+Inferior Temporal Gyrus (temporooccipital),Parietal Operculum Cortex,Subthreshold,0.4485,0.4207
+Cingulate Gyrus (posterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.4461,0.4187
+Lateral Occipital Cortex (inferior),Paracingulate Gyrus,Subthreshold,0.4442,0.4171
+Inferior Frontal Gyrus (pars triangularis),Superior Parietal Lobule,Subthreshold,0.4434,0.4165
+Insular Cortex,Precuneous Cortex,Subthreshold,0.4429,0.4161
+Paracingulate Gyrus,Cuneal Cortex,Subthreshold,0.4423,0.4156
+Paracingulate Gyrus,Occipital Fusiform Gyrus,Subthreshold,0.4422,0.4155
+Middle Frontal Gyrus,Inferior Frontal Gyrus (pars opercularis),Subthreshold,0.4422,0.4155
+Angular Gyrus,Parietal Operculum Cortex,Subthreshold,0.441,0.4145
+Middle Frontal Gyrus,Supramarginal Gyrus (posterior),Subthreshold,0.4406,0.4141
+Insular Cortex,Superior Frontal Gyrus,Subthreshold,0.4393,0.413
+Cuneal Cortex,Planum Polare,Subthreshold,0.4367,0.4109
+Precuneous Cortex,Temporal Occipital Fusiform Cortex,Subthreshold,0.4344,0.409
+Superior Frontal Gyrus,Occipital Fusiform Gyrus,Subthreshold,0.4306,0.4058
+Paracingulate Gyrus,Parahippocampal Gyrus (anterior),Subthreshold,0.4303,0.4056
+Cingulate Gyrus (posterior),Planum Polare,Subthreshold,0.4285,0.4041
+Angular Gyrus,Parahippocampal Gyrus (anterior),Subthreshold,0.4281,0.4037
+Postcentral Gyrus,Temporal Fusiform Cortex (posterior),Subthreshold,0.4274,0.4032
+Insular Cortex,Supramarginal Gyrus (posterior),Subthreshold,0.4264,0.4023
+Angular Gyrus,Planum Polare,Subthreshold,0.4248,0.401
+Supramarginal Gyrus (posterior),Parietal Operculum Cortex,Subthreshold,0.4238,0.4002
+Cingulate Gyrus (posterior),Parahippocampal Gyrus (anterior),Subthreshold,0.421,0.3977
+Superior Parietal Lobule,Central Opercular Cortex,Subthreshold,0.4202,0.3971
+Parahippocampal Gyrus (anterior),Parietal Operculum Cortex,Subthreshold,0.4201,0.397
+Supramarginal Gyrus (posterior),Lateral Occipital Cortex (inferior),Subthreshold,0.4161,0.3936
+Frontal Pole,Precuneous Cortex,Subthreshold,0.4157,0.3933
+Paracingulate Gyrus,Precuneous Cortex,Subthreshold,0.4147,0.3925
+Supramarginal Gyrus (anterior),Parahippocampal Gyrus (anterior),Subthreshold,0.4122,0.3904
+Inferior Frontal Gyrus (pars opercularis),Angular Gyrus,Subthreshold,0.4118,0.39
+Frontal Pole,Lateral Occipital Cortex (inferior),Subthreshold,0.4113,0.3896
+Supramarginal Gyrus (anterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.409,0.3876
+Frontal Medial Cortex,Occipital Fusiform Gyrus,Subthreshold,0.4059,0.385
+Inferior Temporal Gyrus (temporooccipital),Cuneal Cortex,Subthreshold,0.4053,0.3845
+Lateral Occipital Cortex (inferior),Cuneal Cortex,Subthreshold,0.4047,0.384
+Inferior Frontal Gyrus (pars triangularis),Supramarginal Gyrus (anterior),Subthreshold,0.4036,0.383
+Precentral Gyrus,Cuneal Cortex,Subthreshold,0.4035,0.3829
+Inferior Frontal Gyrus (pars opercularis),Supramarginal Gyrus (posterior),Subthreshold,0.4027,0.3823
+Cingulate Gyrus (posterior),Central Opercular Cortex,Subthreshold,0.4008,0.3806
+Cingulate Gyrus (anterior),Parahippocampal Gyrus (anterior),Subthreshold,0.3983,0.3785
+Middle Frontal Gyrus,Temporal Fusiform Cortex (posterior),Subthreshold,0.3961,0.3766
+Precentral Gyrus,Parietal Operculum Cortex,Subthreshold,0.3957,0.3763
+Supramarginal Gyrus (posterior),Parahippocampal Gyrus (anterior),Subthreshold,0.3947,0.3754
+Superior Temporal Gyrus (posterior),Parietal Operculum Cortex,Subthreshold,0.3946,0.3753
+Inferior Frontal Gyrus (pars triangularis),Occipital Fusiform Gyrus,Subthreshold,0.3928,0.3737
+Supramarginal Gyrus (posterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.3918,0.3729
+Lateral Occipital Cortex (inferior),Cingulate Gyrus (posterior),Subthreshold,0.3914,0.3726
+Cingulate Gyrus (posterior),Parietal Operculum Cortex,Subthreshold,0.3894,0.3709
+Lateral Occipital Cortex (inferior),Precuneous Cortex,Subthreshold,0.3886,0.3702
+Precentral Gyrus,Parahippocampal Gyrus (anterior),Subthreshold,0.3882,0.3698
+Superior Parietal Lobule,Lateral Occipital Cortex (inferior),Subthreshold,0.3865,0.3684
+Superior Frontal Gyrus,Inferior Frontal Gyrus (pars triangularis),Subthreshold,0.3861,0.368
+Inferior Frontal Gyrus (pars triangularis),Frontal Medial Cortex,Subthreshold,0.3858,0.3677
+Supramarginal Gyrus (posterior),Planum Polare,Subthreshold,0.3845,0.3667
+Inferior Frontal Gyrus (pars triangularis),Cingulate Gyrus (anterior),Subthreshold,0.3838,0.366
+Inferior Temporal Gyrus (temporooccipital),Precuneous Cortex,Subthreshold,0.3831,0.3654
+Cingulate Gyrus (anterior),Precuneous Cortex,Subthreshold,0.3825,0.3648
+Postcentral Gyrus,Temporal Occipital Fusiform Cortex,Subthreshold,0.3808,0.3634
+Parahippocampal Gyrus (anterior),Planum Polare,Subthreshold,0.3795,0.3623
+Frontal Pole,Occipital Fusiform Gyrus,Subthreshold,0.3784,0.3613
+Parahippocampal Gyrus (anterior),Central Opercular Cortex,Subthreshold,0.3772,0.3602
+Superior Parietal Lobule,Cuneal Cortex,Subthreshold,0.3769,0.36
+Inferior Frontal Gyrus (pars opercularis),Parahippocampal Gyrus (anterior),Subthreshold,0.3754,0.3587
+Insular Cortex,Postcentral Gyrus,Subthreshold,0.3739,0.3574
+Supramarginal Gyrus (anterior),Lateral Occipital Cortex (inferior),Subthreshold,0.3728,0.3565
+Cingulate Gyrus (anterior),Parietal Operculum Cortex,Subthreshold,0.3718,0.3555
+Paracingulate Gyrus,Planum Polare,Subthreshold,0.3714,0.3553
+Precentral Gyrus,Precuneous Cortex,Subthreshold,0.3703,0.3542
+Temporal Occipital Fusiform Cortex,Parietal Operculum Cortex,Subthreshold,0.3701,0.354
+Frontal Medial Cortex,Precuneous Cortex,Subthreshold,0.3698,0.3538
+Subcallosal Cortex,Parahippocampal Gyrus (anterior),Subthreshold,0.369,0.3531
+Inferior Temporal Gyrus (temporooccipital),Central Opercular Cortex,Subthreshold,0.3673,0.3516
+Inferior Frontal Gyrus (pars triangularis),Cingulate Gyrus (posterior),Subthreshold,0.3668,0.3512
+Frontal Operculum Cortex,Central Opercular Cortex,Subthreshold,0.3655,0.35
+Lateral Occipital Cortex (inferior),Occipital Fusiform Gyrus,Subthreshold,0.3645,0.3492
+Juxtapositional Lobule Cortex,Temporal Occipital Fusiform Cortex,Subthreshold,0.3637,0.3485
+Cingulate Gyrus (anterior),Central Opercular Cortex,Subthreshold,0.3621,0.347
+Insular Cortex,Frontal Medial Cortex,Subthreshold,0.3589,0.3442
+Supramarginal Gyrus (anterior),Planum Polare,Subthreshold,0.3588,0.3442
+Supramarginal Gyrus (anterior),Central Opercular Cortex,Subthreshold,0.3581,0.3436
+Angular Gyrus,Temporal Fusiform Cortex (posterior),Subthreshold,0.3569,0.3425
+Inferior Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (anterior),Subthreshold,0.355,0.3408
+Parahippocampal Gyrus (posterior),Lingual Gyrus,Subthreshold,0.3549,0.3407
+Middle Temporal Gyrus (temporooccipital),Occipital Fusiform Gyrus,Subthreshold,0.3543,0.3402
+Cuneal Cortex,Frontal Operculum Cortex,Subthreshold,0.3541,0.34
+Cuneal Cortex,Central Opercular Cortex,Subthreshold,0.3539,0.3398
+Superior Frontal Gyrus,Temporal Occipital Fusiform Cortex,Subthreshold,0.3523,0.3384
+Superior Temporal Gyrus (anterior),Middle Temporal Gyrus (anterior),Subthreshold,0.352,0.3381
+Subcallosal Cortex,Occipital Fusiform Gyrus,Subthreshold,0.3491,0.3356
+Insular Cortex,Superior Temporal Gyrus (anterior),Subthreshold,0.3489,0.3354
+Superior Temporal Gyrus (anterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.3487,0.3352
+Insular Cortex,Parietal Operculum Cortex,Subthreshold,0.3472,0.3339
+Superior Parietal Lobule,Precuneous Cortex,Subthreshold,0.3471,0.3338
+Angular Gyrus,Lateral Occipital Cortex (inferior),Subthreshold,0.3462,0.333
+Inferior Frontal Gyrus (pars triangularis),Supramarginal Gyrus (posterior),Subthreshold,0.3452,0.3321
+Superior Parietal Lobule,Planum Polare,Subthreshold,0.3442,0.3313
+Insular Cortex,Middle Frontal Gyrus,Subthreshold,0.3442,0.3312
+Postcentral Gyrus,Parietal Operculum Cortex,Subthreshold,0.3437,0.3307
+Temporal Fusiform Cortex (posterior),Planum Polare,Subthreshold,0.3407,0.3281
+Precuneous Cortex,Central Opercular Cortex,Subthreshold,0.3405,0.3279
+Inferior Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (inferior),Subthreshold,0.3395,0.327
+Supramarginal Gyrus (anterior),Precuneous Cortex,Subthreshold,0.3383,0.3259
+Lateral Occipital Cortex (inferior),Cingulate Gyrus (anterior),Subthreshold,0.3381,0.3258
+Temporal Fusiform Cortex (posterior),Occipital Fusiform Gyrus,Subthreshold,0.338,0.3257
+Inferior Temporal Gyrus (temporooccipital),Planum Polare,Subthreshold,0.3376,0.3253
+Cingulate Gyrus (anterior),Planum Polare,Subthreshold,0.3348,0.3228
+Middle Frontal Gyrus,Inferior Frontal Gyrus (pars triangularis),Subthreshold,0.3345,0.3226
+Inferior Frontal Gyrus (pars triangularis),Postcentral Gyrus,Subthreshold,0.3345,0.3225
+Supramarginal Gyrus (posterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.3321,0.3204
+Supramarginal Gyrus (posterior),Cuneal Cortex,Subthreshold,0.3305,0.3189
+Middle Temporal Gyrus (temporooccipital),Parietal Operculum Cortex,Subthreshold,0.3287,0.3174
+Frontal Medial Cortex,Temporal Occipital Fusiform Cortex,Subthreshold,0.3265,0.3154
+Cuneal Cortex,Occipital Fusiform Gyrus,Subthreshold,0.3263,0.3151
+Frontal Medial Cortex,Parietal Operculum Cortex,Subthreshold,0.3251,0.3141
+Insular Cortex,Intracalcarine Cortex,Subthreshold,0.3236,0.3128
+Paracingulate Gyrus,Central Opercular Cortex,Subthreshold,0.3234,0.3126
+Postcentral Gyrus,Precuneous Cortex,Subthreshold,0.3225,0.3118
+Inferior Frontal Gyrus (pars opercularis),Planum Polare,Subthreshold,0.3223,0.3116
+Intracalcarine Cortex,Temporal Occipital Fusiform Cortex,Subthreshold,0.3215,0.3109
+Postcentral Gyrus,Central Opercular Cortex,Subthreshold,0.3213,0.3106
+Cuneal Cortex,Parietal Operculum Cortex,Subthreshold,0.3168,0.3066
+Inferior Frontal Gyrus (pars triangularis),Angular Gyrus,Subthreshold,0.3164,0.3062
+Supramarginal Gyrus (anterior),Cuneal Cortex,Subthreshold,0.3163,0.3061
+Cuneal Cortex,Parahippocampal Gyrus (anterior),Subthreshold,0.3159,0.3058
+Frontal Pole,Parahippocampal Gyrus (anterior),Subthreshold,0.3154,0.3054
+Paracingulate Gyrus,Parietal Operculum Cortex,Subthreshold,0.3153,0.3053
+Parahippocampal Gyrus (anterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.3153,0.3053
+Cingulate Gyrus (posterior),Cuneal Cortex,Subthreshold,0.3134,0.3035
+Frontal Orbital Cortex,Lingual Gyrus,Subthreshold,0.3129,0.3031
+Precentral Gyrus,Lateral Occipital Cortex (inferior),Subthreshold,0.311,0.3014
+Frontal Pole,Central Opercular Cortex,Subthreshold,0.3106,0.301
+Frontal Orbital Cortex,Parahippocampal Gyrus (anterior),Subthreshold,0.3102,0.3006
+Superior Temporal Gyrus (posterior),Central Opercular Cortex,Subthreshold,0.3094,0.2999
+Cingulate Gyrus (anterior),Cuneal Cortex,Subthreshold,0.3079,0.2985
+Precuneous Cortex,Cuneal Cortex,Subthreshold,0.3076,0.2982
+Inferior Frontal Gyrus (pars triangularis),Planum Polare,Subthreshold,0.3071,0.2978
+Temporal Fusiform Cortex (posterior),Central Opercular Cortex,Subthreshold,0.306,0.2968
+Middle Temporal Gyrus (temporooccipital),Superior Parietal Lobule,Subthreshold,0.3043,0.2952
+Inferior Frontal Gyrus (pars opercularis),Central Opercular Cortex,Subthreshold,0.3029,0.294
+Precentral Gyrus,Planum Polare,Subthreshold,0.3025,0.2936
+Inferior Frontal Gyrus (pars opercularis),Parietal Operculum Cortex,Subthreshold,0.3017,0.2928
+Middle Temporal Gyrus (temporooccipital),Supramarginal Gyrus (posterior),Subthreshold,0.3016,0.2927
+Middle Frontal Gyrus,Occipital Fusiform Gyrus,Subthreshold,0.3013,0.2925
+Middle Frontal Gyrus,Temporal Occipital Fusiform Cortex,Subthreshold,0.301,0.2923
+Supramarginal Gyrus (posterior),Frontal Orbital Cortex,Subthreshold,0.2996,0.2909
+Inferior Frontal Gyrus (pars triangularis),Central Opercular Cortex,Subthreshold,0.2992,0.2906
+Angular Gyrus,Frontal Orbital Cortex,Subthreshold,0.2992,0.2905
+Juxtapositional Lobule Cortex,Cuneal Cortex,Subthreshold,0.299,0.2904
+Superior Temporal Gyrus (anterior),Cuneal Cortex,Subthreshold,0.2985,0.2899
+Superior Temporal Gyrus (posterior),Occipital Fusiform Gyrus,Subthreshold,0.2981,0.2895
+Precuneous Cortex,Temporal Fusiform Cortex (posterior),Subthreshold,0.2975,0.2891
+Superior Frontal Gyrus,Parietal Operculum Cortex,Subthreshold,0.2974,0.2889
+Superior Frontal Gyrus,Precuneous Cortex,Subthreshold,0.2971,0.2886
+Middle Temporal Gyrus (temporooccipital),Supramarginal Gyrus (anterior),Subthreshold,0.297,0.2885
+Inferior Frontal Gyrus (pars opercularis),Precuneous Cortex,Subthreshold,0.296,0.2876
+Superior Temporal Gyrus (posterior),Middle Temporal Gyrus (posterior),Subthreshold,0.2947,0.2865
+Frontal Pole,Parietal Operculum Cortex,Subthreshold,0.294,0.2858
+Middle Temporal Gyrus (temporooccipital),Cuneal Cortex,Subthreshold,0.2932,0.2851
+Juxtapositional Lobule Cortex,Central Opercular Cortex,Subthreshold,0.2916,0.2836
+Juxtapositional Lobule Cortex,Frontal Operculum Cortex,Subthreshold,0.2911,0.2831
+Angular Gyrus,Cuneal Cortex,Subthreshold,0.2906,0.2827
+Superior Frontal Gyrus,Parahippocampal Gyrus (anterior),Subthreshold,0.2873,0.2796
+Superior Temporal Gyrus (anterior),Superior Temporal Gyrus (posterior),Subthreshold,0.2872,0.2795
+Frontal Medial Cortex,Cuneal Cortex,Subthreshold,0.2846,0.2772
+Subcallosal Cortex,Central Opercular Cortex,Subthreshold,0.2832,0.2759
+Precuneous Cortex,Parahippocampal Gyrus (anterior),Subthreshold,0.2831,0.2758
+Intracalcarine Cortex,Central Opercular Cortex,Subthreshold,0.2826,0.2753
+Insular Cortex,Middle Temporal Gyrus (temporooccipital),Subthreshold,0.2785,0.2715
+Insular Cortex,Juxtapositional Lobule Cortex,Subthreshold,0.2776,0.2707
+Lateral Occipital Cortex (inferior),Temporal Fusiform Cortex (posterior),Subthreshold,0.2743,0.2676
+Inferior Frontal Gyrus (pars triangularis),Parahippocampal Gyrus (anterior),Subthreshold,0.2737,0.2671
+Middle Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (anterior),Subthreshold,0.2712,0.2647
+Middle Temporal Gyrus (temporooccipital),Subcallosal Cortex,Subthreshold,0.2707,0.2643
+Middle Frontal Gyrus,Precuneous Cortex,Subthreshold,0.2704,0.264
+Superior Temporal Gyrus (posterior),Middle Temporal Gyrus (temporooccipital),Subthreshold,0.27,0.2636
+Lateral Occipital Cortex (superior),Parahippocampal Gyrus (anterior),Subthreshold,0.2698,0.2634
+Superior Frontal Gyrus,Cuneal Cortex,Subthreshold,0.2695,0.2631
+Lateral Occipital Cortex (inferior),Frontal Operculum Cortex,Subthreshold,0.2679,0.2617
+Frontal Pole,Middle Temporal Gyrus (temporooccipital),Subthreshold,0.2673,0.2611
+Precentral Gyrus,Central Opercular Cortex,Subthreshold,0.2669,0.2608
+Lateral Occipital Cortex (superior),Temporal Fusiform Cortex (anterior),Subthreshold,0.2659,0.2598
+Postcentral Gyrus,Parahippocampal Gyrus (anterior),Subthreshold,0.2655,0.2595
+Frontal Medial Cortex,Parahippocampal Gyrus (anterior),Subthreshold,0.2642,0.2582
+Frontal Pole,Temporal Pole,Subthreshold,0.2639,0.2579
+Temporal Pole,Lateral Occipital Cortex (inferior),Subthreshold,0.2627,0.2569
+Temporal Pole,Planum Polare,Subthreshold,0.2628,0.2569
+Lateral Occipital Cortex (superior),Temporal Occipital Fusiform Cortex,Subthreshold,0.2619,0.2561
+Middle Temporal Gyrus (temporooccipital),Temporal Occipital Fusiform Cortex,Subthreshold,0.2617,0.2559
+Inferior Frontal Gyrus (pars triangularis),Lateral Occipital Cortex (inferior),Subthreshold,0.2609,0.2551
+Precentral Gyrus,Middle Temporal Gyrus (temporooccipital),Subthreshold,0.2596,0.2539
+Postcentral Gyrus,Planum Polare,Subthreshold,0.2592,0.2535
+Supramarginal Gyrus (posterior),Central Opercular Cortex,Subthreshold,0.2581,0.2525
+Subcallosal Cortex,Parietal Operculum Cortex,Subthreshold,0.2577,0.2522
+Lateral Occipital Cortex (inferior),Central Opercular Cortex,Subthreshold,0.2577,0.2521
+Frontal Orbital Cortex,Parietal Operculum Cortex,Subthreshold,0.2573,0.2518
+Lateral Occipital Cortex (inferior),Frontal Medial Cortex,Subthreshold,0.2568,0.2513
+Inferior Frontal Gyrus (pars triangularis),Parietal Operculum Cortex,Subthreshold,0.256,0.2505
+Intracalcarine Cortex,Cuneal Cortex,Subthreshold,0.2548,0.2494
+Cingulate Gyrus (posterior),Frontal Orbital Cortex,Subthreshold,0.254,0.2487
+Intracalcarine Cortex,Juxtapositional Lobule Cortex,Subthreshold,0.2534,0.2482
+Inferior Frontal Gyrus (pars triangularis),Precuneous Cortex,Subthreshold,0.2527,0.2475
+Middle Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (superior),Subthreshold,0.2522,0.2469
+Superior Frontal Gyrus,Central Opercular Cortex,Subthreshold,0.2514,0.2462
+Postcentral Gyrus,Cuneal Cortex,Subthreshold,0.2501,0.245
+Intracalcarine Cortex,Frontal Operculum Cortex,Subthreshold,0.2496,0.2445
+Superior Temporal Gyrus (posterior),Supramarginal Gyrus (posterior),Subthreshold,0.2479,0.2429
+Middle Temporal Gyrus (temporooccipital),Planum Polare,Subthreshold,0.2461,0.2413
+Inferior Frontal Gyrus (pars opercularis),Lateral Occipital Cortex (inferior),Subthreshold,0.2445,0.2397
+Lateral Occipital Cortex (superior),Central Opercular Cortex,Subthreshold,0.2442,0.2395
+Temporal Fusiform Cortex (posterior),Parietal Operculum Cortex,Subthreshold,0.2417,0.2371
+Frontal Pole,Intracalcarine Cortex,Subthreshold,0.2414,0.2368
+Superior Frontal Gyrus,Planum Polare,Subthreshold,0.2402,0.2356
+Superior Temporal Gyrus (posterior),Cuneal Cortex,Subthreshold,0.24,0.2355
+Insular Cortex,Lateral Occipital Cortex (superior),Subthreshold,0.2397,0.2352
+Middle Temporal Gyrus (temporooccipital),Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.2386,0.2342
+Frontal Medial Cortex,Central Opercular Cortex,Subthreshold,0.2378,0.2334
+Superior Frontal Gyrus,Lateral Occipital Cortex (inferior),Subthreshold,0.2377,0.2333
+Superior Temporal Gyrus (posterior),Angular Gyrus,Subthreshold,0.2358,0.2316
+Middle Frontal Gyrus,Lateral Occipital Cortex (inferior),Subthreshold,0.2344,0.2302
+Superior Temporal Gyrus (posterior),Precuneous Cortex,Subthreshold,0.234,0.2298
+Frontal Medial Cortex,Planum Polare,Subthreshold,0.2338,0.2296
+Middle Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (inferior),Subthreshold,0.2333,0.2292
+Middle Temporal Gyrus (temporooccipital),Paracingulate Gyrus,Subthreshold,0.2332,0.2291
+Occipital Fusiform Gyrus,Planum Polare,Subthreshold,0.2315,0.2275
+Insular Cortex,Superior Temporal Gyrus (posterior),Subthreshold,0.2311,0.2271
+Central Opercular Cortex,Planum Polare,Subthreshold,0.2312,0.2271
+Superior Temporal Gyrus (anterior),Central Opercular Cortex,Subthreshold,0.2301,0.2262
+Superior Temporal Gyrus (posterior),Supramarginal Gyrus (anterior),Subthreshold,0.2302,0.2262
+Precuneous Cortex,Occipital Fusiform Gyrus,Subthreshold,0.2298,0.2258
+Temporal Pole,Superior Temporal Gyrus (posterior),Subthreshold,0.228,0.2242
+Intracalcarine Cortex,Planum Polare,Subthreshold,0.2279,0.2241
+Frontal Orbital Cortex,Central Opercular Cortex,Subthreshold,0.2272,0.2234
+Precuneous Cortex,Frontal Orbital Cortex,Subthreshold,0.2264,0.2226
+Frontal Orbital Cortex,Occipital Fusiform Gyrus,Subthreshold,0.2234,0.2198
+Superior Temporal Gyrus (posterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.2234,0.2197
+Middle Frontal Gyrus,Parahippocampal Gyrus (anterior),Subthreshold,0.223,0.2194
+Postcentral Gyrus,Lateral Occipital Cortex (inferior),Subthreshold,0.2227,0.2191
+Temporal Pole,Middle Temporal Gyrus (anterior),Subthreshold,0.2206,0.2171
+Inferior Frontal Gyrus (pars triangularis),Middle Temporal Gyrus (temporooccipital),Subthreshold,0.2195,0.2161
+Temporal Pole,Juxtapositional Lobule Cortex,Subthreshold,0.2186,0.2152
+Frontal Operculum Cortex,Planum Polare,Subthreshold,0.2184,0.215
+Middle Frontal Gyrus,Cuneal Cortex,Subthreshold,0.2177,0.2144
+Temporal Pole,Intracalcarine Cortex,Subthreshold,0.2168,0.2134
+Lateral Occipital Cortex (superior),Lateral Occipital Cortex (inferior),Subthreshold,0.2163,0.213
+Middle Frontal Gyrus,Parietal Operculum Cortex,Subthreshold,0.2154,0.2121
+Middle Frontal Gyrus,Central Opercular Cortex,Subthreshold,0.2131,0.21
+Superior Temporal Gyrus (posterior),Cingulate Gyrus (anterior),Subthreshold,0.2105,0.2075
+Inferior Frontal Gyrus (pars opercularis),Middle Temporal Gyrus (temporooccipital),Subthreshold,0.2104,0.2074
+Lateral Occipital Cortex (superior),Subcallosal Cortex,Subthreshold,0.2096,0.2066
+Temporal Pole,Subcallosal Cortex,Subthreshold,0.2082,0.2053
+Lateral Occipital Cortex (inferior),Parietal Operculum Cortex,Subthreshold,0.2073,0.2044
+Middle Frontal Gyrus,Planum Polare,Subthreshold,0.2072,0.2043
+Lateral Occipital Cortex (superior),Precuneous Cortex,Subthreshold,0.207,0.204
+Frontal Pole,Frontal Operculum Cortex,Subthreshold,0.2057,0.2028
+Supramarginal Gyrus (posterior),Lingual Gyrus,Subthreshold,0.2055,0.2026
+Superior Temporal Gyrus (posterior),Cingulate Gyrus (posterior),Subthreshold,0.2036,0.2009
+Superior Temporal Gyrus (posterior),Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.2035,0.2008
+Temporal Pole,Central Opercular Cortex,Subthreshold,0.2033,0.2006
+Superior Temporal Gyrus (posterior),Frontal Operculum Cortex,Subthreshold,0.203,0.2003
+Superior Temporal Gyrus (anterior),Lateral Occipital Cortex (superior),Subthreshold,0.2004,0.1977
+Precuneous Cortex,Parahippocampal Gyrus (posterior),Subthreshold,0.1991,0.1965
+Parahippocampal Gyrus (anterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.1985,0.1959
+Insular Cortex,Middle Temporal Gyrus (anterior),Subthreshold,0.1978,0.1953
+Superior Frontal Gyrus,Superior Temporal Gyrus (posterior),Subthreshold,0.1954,0.193
+Juxtapositional Lobule Cortex,Temporal Fusiform Cortex (anterior),Subthreshold,0.1947,0.1923
+Superior Temporal Gyrus (posterior),Superior Parietal Lobule,Subthreshold,0.1945,0.1921
+Parahippocampal Gyrus (anterior),Lingual Gyrus,Subthreshold,0.1944,0.192
+Middle Temporal Gyrus (anterior),Frontal Operculum Cortex,Subthreshold,0.1936,0.1912
+Superior Temporal Gyrus (posterior),Frontal Orbital Cortex,Subthreshold,0.1931,0.1907
+Subcallosal Cortex,Frontal Operculum Cortex,Subthreshold,0.1929,0.1905
+Precuneous Cortex,Frontal Operculum Cortex,Subthreshold,0.1919,0.1895
+Middle Temporal Gyrus (temporooccipital),Cingulate Gyrus (anterior),Subthreshold,0.1915,0.1892
+Superior Temporal Gyrus (anterior),Subcallosal Cortex,Subthreshold,0.1913,0.189
+Intracalcarine Cortex,Precuneous Cortex,Subthreshold,0.1887,0.1865
+Temporal Pole,Lateral Occipital Cortex (superior),Subthreshold,0.1871,0.1849
+Lateral Occipital Cortex (superior),Cuneal Cortex,Subthreshold,0.1869,0.1847
+Superior Temporal Gyrus (anterior),Intracalcarine Cortex,Subthreshold,0.1858,0.1837
+Precuneous Cortex,Parietal Operculum Cortex,Subthreshold,0.185,0.1829
+Lingual Gyrus,Temporal Fusiform Cortex (anterior),Subthreshold,0.1849,0.1828
+Intracalcarine Cortex,Subcallosal Cortex,Subthreshold,0.1836,0.1816
+Temporal Fusiform Cortex (posterior),Frontal Operculum Cortex,Subthreshold,0.1834,0.1814
+Cingulate Gyrus (anterior),Frontal Orbital Cortex,Subthreshold,0.1827,0.1807
+Middle Temporal Gyrus (temporooccipital),Frontal Medial Cortex,Subthreshold,0.1818,0.1798
+Middle Temporal Gyrus (anterior),Cuneal Cortex,Subthreshold,0.1813,0.1793
+Lingual Gyrus,Parietal Operculum Cortex,Subthreshold,0.1799,0.178
+Superior Temporal Gyrus (anterior),Lateral Occipital Cortex (inferior),Subthreshold,0.1791,0.1772
+Temporal Fusiform Cortex (anterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.1782,0.1763
+Superior Temporal Gyrus (posterior),Lateral Occipital Cortex (inferior),Subthreshold,0.178,0.1761
+Temporal Pole,Precuneous Cortex,Subthreshold,0.1779,0.176
+Lateral Occipital Cortex (superior),Juxtapositional Lobule Cortex,Subthreshold,0.1775,0.1756
+Middle Temporal Gyrus (temporooccipital),Central Opercular Cortex,Subthreshold,0.1767,0.1749
+Supramarginal Gyrus (anterior),Frontal Orbital Cortex,Subthreshold,0.1743,0.1725
+Lateral Occipital Cortex (superior),Paracingulate Gyrus,Subthreshold,0.1741,0.1723
+Superior Temporal Gyrus (posterior),Frontal Medial Cortex,Subthreshold,0.1727,0.171
+Temporal Fusiform Cortex (anterior),Planum Polare,Subthreshold,0.1726,0.1709
+Juxtapositional Lobule Cortex,Precuneous Cortex,Subthreshold,0.1725,0.1708
+Inferior Frontal Gyrus (pars triangularis),Lateral Occipital Cortex (superior),Subthreshold,0.1722,0.1706
+Middle Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (posterior),Subthreshold,0.1717,0.1701
+Superior Temporal Gyrus (posterior),Lateral Occipital Cortex (superior),Subthreshold,0.1714,0.1698
+Middle Temporal Gyrus (posterior),Middle Temporal Gyrus (temporooccipital),Subthreshold,0.1709,0.1693
+Superior Temporal Gyrus (posterior),Juxtapositional Lobule Cortex,Subthreshold,0.1695,0.1678
+Middle Temporal Gyrus (posterior),Central Opercular Cortex,Subthreshold,0.1687,0.1672
+Middle Temporal Gyrus (temporooccipital),Inferior Temporal Gyrus (posterior),Subthreshold,0.1682,0.1666
+Parahippocampal Gyrus (posterior),Central Opercular Cortex,Subthreshold,0.1681,0.1665
+Insular Cortex,Temporal Fusiform Cortex (anterior),Subthreshold,0.1673,0.1657
+Inferior Temporal Gyrus (posterior),Lateral Occipital Cortex (superior),Subthreshold,0.1672,0.1657
+Superior Temporal Gyrus (posterior),Postcentral Gyrus,Subthreshold,0.167,0.1654
+Supramarginal Gyrus (anterior),Lingual Gyrus,Subthreshold,0.1656,0.1641
+Lateral Occipital Cortex (superior),Frontal Operculum Cortex,Subthreshold,0.1656,0.1641
+Middle Temporal Gyrus (anterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.1647,0.1632
+Postcentral Gyrus,Frontal Orbital Cortex,Subthreshold,0.1645,0.1631
+Superior Frontal Gyrus,Middle Temporal Gyrus (temporooccipital),Subthreshold,0.1643,0.1628
+Superior Temporal Gyrus (posterior),Middle Temporal Gyrus (anterior),Subthreshold,0.1637,0.1622
+Subcallosal Cortex,Temporal Fusiform Cortex (anterior),Subthreshold,0.1619,0.1605
+Superior Temporal Gyrus (posterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.16,0.1587
+Middle Temporal Gyrus (anterior),Middle Temporal Gyrus (posterior),Subthreshold,0.1595,0.1581
+Frontal Pole,Lateral Occipital Cortex (superior),Subthreshold,0.1592,0.1578
+Middle Temporal Gyrus (temporooccipital),Precuneous Cortex,Subthreshold,0.1581,0.1568
+Inferior Frontal Gyrus (pars opercularis),Lateral Occipital Cortex (superior),Subthreshold,0.1579,0.1566
+Middle Temporal Gyrus (anterior),Central Opercular Cortex,Subthreshold,0.1536,0.1524
+Lateral Occipital Cortex (superior),Planum Polare,Subthreshold,0.1531,0.1519
+Lateral Occipital Cortex (superior),Occipital Fusiform Gyrus,Subthreshold,0.153,0.1518
+Lateral Occipital Cortex (superior),Planum Temporale,Subthreshold,0.1529,0.1517
+Middle Temporal Gyrus (temporooccipital),Cingulate Gyrus (posterior),Subthreshold,0.1523,0.1512
+Lateral Occipital Cortex (superior),Parietal Operculum Cortex,Subthreshold,0.1516,0.1504
+Middle Temporal Gyrus (anterior),Subcallosal Cortex,Subthreshold,0.1514,0.1502
+Inferior Frontal Gyrus (pars opercularis),Temporal Pole,Subthreshold,0.1511,0.1499
+Precuneous Cortex,Lingual Gyrus,Subthreshold,0.1508,0.1497
+Temporal Fusiform Cortex (anterior),Frontal Operculum Cortex,Subthreshold,0.1506,0.1494
+Inferior Temporal Gyrus (anterior),Inferior Temporal Gyrus (posterior),Subthreshold,0.1503,0.1491
+Superior Temporal Gyrus (posterior),Planum Polare,Subthreshold,0.1501,0.149
+Frontal Pole,Juxtapositional Lobule Cortex,Subthreshold,0.149,0.1479
+Central Opercular Cortex,Planum Temporale,Subthreshold,0.148,0.147
+Angular Gyrus,Intracalcarine Cortex,Subthreshold,0.1476,0.1466
+Superior Temporal Gyrus (posterior),Parahippocampal Gyrus (anterior),Subthreshold,0.1472,0.1462
+Lateral Occipital Cortex (superior),Temporal Fusiform Cortex (posterior),Subthreshold,0.1467,0.1457
+Superior Frontal Gyrus,Lateral Occipital Cortex (superior),Subthreshold,0.1458,0.1448
+Middle Temporal Gyrus (posterior),Juxtapositional Lobule Cortex,Subthreshold,0.1438,0.1428
+Frontal Pole,Superior Temporal Gyrus (anterior),Subthreshold,0.1438,0.1428
+Temporal Pole,Temporal Fusiform Cortex (anterior),Subthreshold,0.1428,0.1419
+Lateral Occipital Cortex (inferior),Temporal Fusiform Cortex (anterior),Subthreshold,0.1424,0.1414
+Supramarginal Gyrus (posterior),Intracalcarine Cortex,Subthreshold,0.1422,0.1413
+Middle Temporal Gyrus (anterior),Intracalcarine Cortex,Subthreshold,0.1407,0.1398
+Superior Temporal Gyrus (anterior),Paracingulate Gyrus,Subthreshold,0.1406,0.1396
+Temporal Pole,Middle Temporal Gyrus (temporooccipital),Subthreshold,0.1396,0.1387
+Middle Temporal Gyrus (temporooccipital),Angular Gyrus,Subthreshold,0.1395,0.1386
+Frontal Pole,Temporal Fusiform Cortex (anterior),Subthreshold,0.1395,0.1386
+Inferior Temporal Gyrus (temporooccipital),Juxtapositional Lobule Cortex,Subthreshold,0.1395,0.1386
+Juxtapositional Lobule Cortex,Temporal Fusiform Cortex (posterior),Subthreshold,0.1393,0.1384
+Parahippocampal Gyrus (posterior),Parietal Operculum Cortex,Subthreshold,0.1392,0.1383
+Superior Temporal Gyrus (anterior),Parahippocampal Gyrus (posterior),Subthreshold,0.1384,0.1375
+Precentral Gyrus,Superior Temporal Gyrus (posterior),Subthreshold,0.1381,0.1372
+Middle Temporal Gyrus (posterior),Precuneous Cortex,Subthreshold,0.138,0.1371
+Middle Temporal Gyrus (anterior),Cingulate Gyrus (anterior),Subthreshold,0.1378,0.1369
+Inferior Frontal Gyrus (pars opercularis),Juxtapositional Lobule Cortex,Subthreshold,0.1367,0.1359
+Juxtapositional Lobule Cortex,Parahippocampal Gyrus (anterior),Subthreshold,0.1363,0.1355
+Lingual Gyrus,Occipital Fusiform Gyrus,Subthreshold,0.1358,0.135
+Intracalcarine Cortex,Cingulate Gyrus (posterior),Subthreshold,0.1344,0.1336
+Parahippocampal Gyrus (anterior),Frontal Operculum Cortex,Subthreshold,0.1342,0.1334
+Inferior Frontal Gyrus (pars opercularis),Intracalcarine Cortex,Subthreshold,0.1342,0.1334
+Precentral Gyrus,Lateral Occipital Cortex (superior),Subthreshold,0.1338,0.133
+Paracingulate Gyrus,Frontal Operculum Cortex,Subthreshold,0.1337,0.1329
+Middle Temporal Gyrus (posterior),Frontal Orbital Cortex,Subthreshold,0.1327,0.1319
+Insular Cortex,Middle Temporal Gyrus (posterior),Subthreshold,0.1327,0.1319
+Temporal Pole,Temporal Fusiform Cortex (posterior),Subthreshold,0.1324,0.1316
+Inferior Frontal Gyrus (pars triangularis),Frontal Operculum Cortex,Subthreshold,0.1322,0.1315
+Superior Temporal Gyrus (anterior),Planum Polare,Subthreshold,0.1322,0.1314
+Middle Temporal Gyrus (anterior),Paracingulate Gyrus,Subthreshold,0.1305,0.1298
+Superior Parietal Lobule,Frontal Orbital Cortex,Subthreshold,0.1302,0.1295
+Precentral Gyrus,Frontal Orbital Cortex,Subthreshold,0.1297,0.1289
+Parietal Operculum Cortex,Planum Polare,Subthreshold,0.1293,0.1286
+Frontal Orbital Cortex,Temporal Occipital Fusiform Cortex,Subthreshold,0.1275,0.1268
+Superior Temporal Gyrus (posterior),Subcallosal Cortex,Subthreshold,0.1264,0.1257
+Superior Temporal Gyrus (posterior),Planum Temporale,Subthreshold,0.126,0.1254
+Temporal Pole,Parahippocampal Gyrus (anterior),Subthreshold,0.1252,0.1246
+Superior Temporal Gyrus (anterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.1236,0.123
+Juxtapositional Lobule Cortex,Planum Polare,Subthreshold,0.1227,0.1221
+Superior Frontal Gyrus,Frontal Orbital Cortex,Subthreshold,0.1227,0.1221
+Supramarginal Gyrus (posterior),Frontal Operculum Cortex,Subthreshold,0.1223,0.1217
+Precentral Gyrus,Juxtapositional Lobule Cortex,Subthreshold,0.1211,0.1206
+Middle Temporal Gyrus (posterior),Lingual Gyrus,Subthreshold,0.1209,0.1203
+Frontal Pole,Middle Temporal Gyrus (anterior),Subthreshold,0.1204,0.1198
+Supramarginal Gyrus (anterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.1203,0.1197
+Temporal Fusiform Cortex (anterior),Planum Temporale,Subthreshold,0.1202,0.1196
+Lateral Occipital Cortex (inferior),Intracalcarine Cortex,Subthreshold,0.1201,0.1196
+Inferior Temporal Gyrus (temporooccipital),Frontal Orbital Cortex,Subthreshold,0.1197,0.1191
+Frontal Pole,Superior Temporal Gyrus (posterior),Subthreshold,0.1193,0.1187
+Temporal Fusiform Cortex (anterior),Parietal Operculum Cortex,Subthreshold,0.1191,0.1186
+Superior Temporal Gyrus (anterior),Parahippocampal Gyrus (anterior),Subthreshold,0.1189,0.1184
+Inferior Frontal Gyrus (pars opercularis),Frontal Operculum Cortex,Subthreshold,0.119,0.1184
+Superior Temporal Gyrus (anterior),Inferior Temporal Gyrus (anterior),Subthreshold,0.1184,0.1179
+Lingual Gyrus,Central Opercular Cortex,Subthreshold,0.1183,0.1177
+Parahippocampal Gyrus (anterior),Planum Temporale,Subthreshold,0.1179,0.1173
+Supramarginal Gyrus (posterior),Lateral Occipital Cortex (superior),Subthreshold,0.1178,0.1172
+Cuneal Cortex,Temporal Fusiform Cortex (anterior),Subthreshold,0.1174,0.1169
+Lateral Occipital Cortex (inferior),Juxtapositional Lobule Cortex,Subthreshold,0.1166,0.1161
+Inferior Temporal Gyrus (posterior),Lingual Gyrus,Subthreshold,0.1165,0.116
+Middle Temporal Gyrus (temporooccipital),Frontal Operculum Cortex,Subthreshold,0.1166,0.116
+Juxtapositional Lobule Cortex,Subcallosal Cortex,Subthreshold,0.1164,0.1159
+Inferior Frontal Gyrus (pars triangularis),Intracalcarine Cortex,Subthreshold,0.1164,0.1159
+Middle Temporal Gyrus (anterior),Lateral Occipital Cortex (superior),Subthreshold,0.1157,0.1152
+Middle Temporal Gyrus (posterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.1154,0.1149
+Angular Gyrus,Juxtapositional Lobule Cortex,Subthreshold,0.1152,0.1147
+Precuneous Cortex,Temporal Fusiform Cortex (anterior),Subthreshold,0.1151,0.1146
+Inferior Temporal Gyrus (posterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.114,0.1135
+Superior Temporal Gyrus (anterior),Juxtapositional Lobule Cortex,Subthreshold,0.1134,0.1129
+Middle Temporal Gyrus (posterior),Cuneal Cortex,Subthreshold,0.1125,0.1121
+Intracalcarine Cortex,Paracingulate Gyrus,Subthreshold,0.1125,0.112
+Middle Temporal Gyrus (posterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.1118,0.1114
+Juxtapositional Lobule Cortex,Parietal Operculum Cortex,Subthreshold,0.1113,0.1109
+Angular Gyrus,Lingual Gyrus,Subthreshold,0.1112,0.1107
+Precuneous Cortex,Planum Temporale,Subthreshold,0.1102,0.1097
+Insular Cortex,Planum Temporale,Subthreshold,0.1096,0.1092
+Middle Temporal Gyrus (temporooccipital),Postcentral Gyrus,Subthreshold,0.1094,0.109
+Frontal Operculum Cortex,Planum Temporale,Subthreshold,0.1093,0.1088
+Middle Temporal Gyrus (posterior),Lateral Occipital Cortex (superior),Subthreshold,0.1093,0.1088
+Middle Temporal Gyrus (anterior),Precuneous Cortex,Subthreshold,0.1083,0.1079
+Superior Temporal Gyrus (anterior),Precuneous Cortex,Subthreshold,0.1077,0.1073
+Insular Cortex,Frontal Orbital Cortex,Subthreshold,0.1076,0.1072
+Parietal Operculum Cortex,Planum Temporale,Subthreshold,0.1073,0.1069
+Temporal Pole,Paracingulate Gyrus,Subthreshold,0.1069,0.1065
+Frontal Operculum Cortex,Parietal Operculum Cortex,Subthreshold,0.1064,0.106
+Middle Temporal Gyrus (posterior),Parietal Operculum Cortex,Subthreshold,0.106,0.1056
+Superior Frontal Gyrus,Temporal Fusiform Cortex (anterior),Subthreshold,0.106,0.1056
+Supramarginal Gyrus (posterior),Juxtapositional Lobule Cortex,Subthreshold,0.1051,0.1047
+Superior Temporal Gyrus (posterior),Paracingulate Gyrus,Subthreshold,0.1045,0.1042
+Middle Temporal Gyrus (anterior),Parahippocampal Gyrus (posterior),Subthreshold,0.1045,0.1041
+Supramarginal Gyrus (posterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.1044,0.1041
+Cingulate Gyrus (posterior),Frontal Operculum Cortex,Subthreshold,0.1042,0.1039
+Cingulate Gyrus (anterior),Frontal Operculum Cortex,Subthreshold,0.104,0.1036
+Superior Parietal Lobule,Temporal Fusiform Cortex (anterior),Subthreshold,0.1039,0.1035
+Lingual Gyrus,Planum Temporale,Subthreshold,0.1033,0.103
+Middle Temporal Gyrus (posterior),Inferior Temporal Gyrus (anterior),Subthreshold,0.1022,0.1018
+Temporal Fusiform Cortex (anterior),Central Opercular Cortex,Subthreshold,0.1017,0.1013
+Supramarginal Gyrus (anterior),Frontal Operculum Cortex,Subthreshold,0.1016,0.1013
+Middle Frontal Gyrus,Superior Temporal Gyrus (posterior),Subthreshold,0.1015,0.1012
+Middle Temporal Gyrus (temporooccipital),Planum Temporale,Subthreshold,0.1005,0.1002
+Superior Temporal Gyrus (anterior),Middle Temporal Gyrus (temporooccipital),Subthreshold,0.1002,0.0999
+Superior Parietal Lobule,Lateral Occipital Cortex (superior),Subthreshold,0.099,0.0987
+Middle Temporal Gyrus (anterior),Middle Temporal Gyrus (temporooccipital),Subthreshold,0.0983,0.0979
+Angular Gyrus,Parahippocampal Gyrus (posterior),Subthreshold,0.0982,0.0979
+Middle Temporal Gyrus (posterior),Parahippocampal Gyrus (anterior),Subthreshold,0.0975,0.0972
+Inferior Temporal Gyrus (temporooccipital),Intracalcarine Cortex,Subthreshold,0.0972,0.0969
+Superior Temporal Gyrus (posterior),Parahippocampal Gyrus (posterior),Subthreshold,0.0972,0.0969
+Inferior Frontal Gyrus (pars opercularis),Lingual Gyrus,Subthreshold,0.097,0.0967
+Inferior Temporal Gyrus (anterior),Precuneous Cortex,Subthreshold,0.0965,0.0962
+Intracalcarine Cortex,Cingulate Gyrus (anterior),Subthreshold,0.0961,0.0958
+Superior Parietal Lobule,Lingual Gyrus,Subthreshold,0.0958,0.0955
+Juxtapositional Lobule Cortex,Paracingulate Gyrus,Subthreshold,0.0955,0.0952
+Intracalcarine Cortex,Temporal Fusiform Cortex (posterior),Subthreshold,0.0955,0.0952
+Precentral Gyrus,Temporal Pole,Subthreshold,0.0952,0.095
+Superior Temporal Gyrus (anterior),Parietal Operculum Cortex,Subthreshold,0.0949,0.0947
+Middle Temporal Gyrus (anterior),Juxtapositional Lobule Cortex,Subthreshold,0.0936,0.0933
+Middle Temporal Gyrus (posterior),Lateral Occipital Cortex (inferior),Subthreshold,0.0936,0.0933
+Middle Temporal Gyrus (anterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.0932,0.0929
+Inferior Frontal Gyrus (pars triangularis),Juxtapositional Lobule Cortex,Subthreshold,0.093,0.0927
+Middle Temporal Gyrus (posterior),Supramarginal Gyrus (posterior),Subthreshold,0.0926,0.0923
+Precentral Gyrus,Frontal Operculum Cortex,Subthreshold,0.0926,0.0923
+Angular Gyrus,Planum Temporale,Subthreshold,0.092,0.0917
+Cuneal Cortex,Lingual Gyrus,Subthreshold,0.0915,0.0912
+Precentral Gyrus,Intracalcarine Cortex,Subthreshold,0.0914,0.0912
+Superior Parietal Lobule,Juxtapositional Lobule Cortex,Subthreshold,0.0911,0.0908
+Paracingulate Gyrus,Frontal Orbital Cortex,Subthreshold,0.091,0.0907
+Middle Frontal Gyrus,Middle Temporal Gyrus (temporooccipital),Subthreshold,0.0908,0.0906
+Inferior Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (superior),Subthreshold,0.0903,0.0901
+Superior Frontal Gyrus,Temporal Pole,Subthreshold,0.0903,0.0901
+Temporal Occipital Fusiform Cortex,Planum Temporale,Subthreshold,0.0894,0.0892
+Temporal Pole,Lingual Gyrus,Subthreshold,0.0894,0.0892
+Lateral Occipital Cortex (superior),Parahippocampal Gyrus (posterior),Subthreshold,0.0894,0.0892
+Inferior Temporal Gyrus (posterior),Intracalcarine Cortex,Subthreshold,-0.0883,-0.0881
+Middle Temporal Gyrus (temporooccipital),Inferior Temporal Gyrus (anterior),Subthreshold,0.0882,0.088
+Paracingulate Gyrus,Temporal Fusiform Cortex (anterior),Subthreshold,0.0881,0.0878
+Inferior Temporal Gyrus (anterior),Lateral Occipital Cortex (inferior),Subthreshold,0.088,0.0878
+Superior Temporal Gyrus (anterior),Middle Temporal Gyrus (posterior),Subthreshold,0.0879,0.0877
+Superior Temporal Gyrus (anterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.0878,0.0876
+Inferior Temporal Gyrus (anterior),Central Opercular Cortex,Subthreshold,0.0875,0.0873
+Frontal Pole,Lingual Gyrus,Subthreshold,0.0871,0.0869
+Cuneal Cortex,Planum Temporale,Subthreshold,0.0863,0.0861
+Frontal Orbital Cortex,Frontal Operculum Cortex,Subthreshold,0.085,0.0848
+Inferior Temporal Gyrus (posterior),Angular Gyrus,Subthreshold,-0.085,-0.0848
+Supramarginal Gyrus (posterior),Parahippocampal Gyrus (posterior),Subthreshold,0.0848,0.0846
+Frontal Medial Cortex,Juxtapositional Lobule Cortex,Subthreshold,0.0842,0.084
+Superior Frontal Gyrus,Intracalcarine Cortex,Subthreshold,0.0838,0.0836
+Superior Frontal Gyrus,Juxtapositional Lobule Cortex,Subthreshold,0.0833,0.0831
+Middle Temporal Gyrus (anterior),Parahippocampal Gyrus (anterior),Subthreshold,0.0833,0.0831
+Juxtapositional Lobule Cortex,Planum Temporale,Subthreshold,0.0831,0.0829
+Superior Temporal Gyrus (posterior),Lingual Gyrus,Subthreshold,0.0827,0.0825
+Lateral Occipital Cortex (superior),Frontal Medial Cortex,Subthreshold,0.0824,0.0823
+Middle Frontal Gyrus,Temporal Pole,Subthreshold,0.0823,0.0822
+Superior Frontal Gyrus,Superior Temporal Gyrus (anterior),Subthreshold,0.0824,0.0822
+Inferior Temporal Gyrus (anterior),Parahippocampal Gyrus (posterior),Subthreshold,0.0822,0.082
+Superior Temporal Gyrus (posterior),Inferior Temporal Gyrus (anterior),Subthreshold,0.0815,0.0813
+Superior Frontal Gyrus,Frontal Operculum Cortex,Subthreshold,0.0814,0.0812
+Middle Frontal Gyrus,Frontal Orbital Cortex,Subthreshold,0.081,0.0808
+Parahippocampal Gyrus (anterior),Parahippocampal Gyrus (posterior),Subthreshold,0.0807,0.0805
+Middle Temporal Gyrus (anterior),Planum Polare,Subthreshold,0.0796,0.0794
+Juxtapositional Lobule Cortex,Occipital Fusiform Gyrus,Subthreshold,0.0796,0.0794
+Temporal Fusiform Cortex (anterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.0793,0.0792
+Frontal Medial Cortex,Frontal Orbital Cortex,Subthreshold,0.0792,0.079
+Temporal Pole,Middle Temporal Gyrus (posterior),Subthreshold,0.0789,0.0787
+Occipital Fusiform Gyrus,Planum Temporale,Subthreshold,0.0784,0.0782
+Postcentral Gyrus,Intracalcarine Cortex,Subthreshold,0.0782,0.0781
+Occipital Fusiform Gyrus,Frontal Operculum Cortex,Subthreshold,0.0783,0.0781
+Lateral Occipital Cortex (inferior),Planum Temporale,Subthreshold,0.0782,0.078
+Angular Gyrus,Frontal Operculum Cortex,Subthreshold,0.078,0.0778
+Lateral Occipital Cortex (superior),Frontal Orbital Cortex,Subthreshold,0.0775,0.0773
+Lingual Gyrus,Planum Polare,Subthreshold,0.0773,0.0772
+Middle Temporal Gyrus (anterior),Supramarginal Gyrus (posterior),Subthreshold,0.0774,0.0772
+Temporal Pole,Parahippocampal Gyrus (posterior),Subthreshold,0.0772,0.0771
+Middle Temporal Gyrus (posterior),Intracalcarine Cortex,Subthreshold,0.077,0.0769
+Frontal Orbital Cortex,Temporal Fusiform Cortex (anterior),Subthreshold,0.0766,0.0765
+Middle Temporal Gyrus (posterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.0764,0.0762
+Inferior Temporal Gyrus (anterior),Occipital Fusiform Gyrus,Subthreshold,0.0759,0.0758
+Frontal Pole,Frontal Orbital Cortex,Subthreshold,0.076,0.0758
+Middle Temporal Gyrus (posterior),Planum Polare,Subthreshold,0.0757,0.0756
+Subcallosal Cortex,Lingual Gyrus,Subthreshold,0.0754,0.0753
+Lateral Occipital Cortex (inferior),Frontal Orbital Cortex,Subthreshold,0.0754,0.0753
+Middle Temporal Gyrus (posterior),Cingulate Gyrus (posterior),Subthreshold,0.0748,0.0746
+Middle Temporal Gyrus (posterior),Angular Gyrus,Subthreshold,0.0731,0.073
+Lingual Gyrus,Temporal Fusiform Cortex (posterior),Subthreshold,0.0731,0.073
+Superior Frontal Gyrus,Middle Temporal Gyrus (anterior),Subthreshold,0.0731,0.073
+Intracalcarine Cortex,Frontal Medial Cortex,Subthreshold,0.0725,0.0724
+Middle Temporal Gyrus (anterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.0718,0.0717
+Temporal Pole,Cingulate Gyrus (posterior),Subthreshold,0.0713,0.0712
+Superior Parietal Lobule,Frontal Operculum Cortex,Subthreshold,0.0708,0.0707
+Precentral Gyrus,Middle Temporal Gyrus (anterior),Subthreshold,0.0707,0.0706
+Insular Cortex,Lingual Gyrus,Subthreshold,0.0706,0.0705
+Inferior Temporal Gyrus (anterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.0704,0.0703
+Superior Temporal Gyrus (anterior),Occipital Fusiform Gyrus,Subthreshold,0.0704,0.0702
+Inferior Frontal Gyrus (pars triangularis),Parahippocampal Gyrus (posterior),Subthreshold,-0.0699,-0.0698
+Lateral Occipital Cortex (superior),Intracalcarine Cortex,Subthreshold,0.0696,0.0695
+Temporal Pole,Inferior Temporal Gyrus (posterior),Subthreshold,0.0693,0.0692
+Inferior Frontal Gyrus (pars opercularis),Superior Temporal Gyrus (anterior),Subthreshold,0.0694,0.0692
+Subcallosal Cortex,Planum Temporale,Subthreshold,0.0692,0.0691
+Middle Frontal Gyrus,Lateral Occipital Cortex (superior),Subthreshold,0.0686,0.0685
+Superior Frontal Gyrus,Lingual Gyrus,Subthreshold,0.0683,0.0682
+Middle Temporal Gyrus (posterior),Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.0683,0.0681
+Inferior Temporal Gyrus (posterior),Subcallosal Cortex,Subthreshold,0.0682,0.0681
+Angular Gyrus,Temporal Fusiform Cortex (anterior),Subthreshold,0.0677,0.0676
+Middle Temporal Gyrus (posterior),Frontal Medial Cortex,Subthreshold,0.0675,0.0674
+Inferior Frontal Gyrus (pars triangularis),Superior Temporal Gyrus (posterior),Subthreshold,0.0674,0.0673
+Temporal Pole,Parietal Operculum Cortex,Subthreshold,0.0672,0.0671
+Juxtapositional Lobule Cortex,Cingulate Gyrus (posterior),Subthreshold,0.0666,0.0665
+Superior Temporal Gyrus (posterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.0663,0.0662
+Middle Temporal Gyrus (anterior),Cingulate Gyrus (posterior),Subthreshold,0.066,0.0659
+Frontal Medial Cortex,Temporal Fusiform Cortex (anterior),Subthreshold,0.0659,0.0658
+Middle Temporal Gyrus (posterior),Planum Temporale,Subthreshold,0.0653,0.0652
+Temporal Pole,Cingulate Gyrus (anterior),Subthreshold,0.0653,0.0652
+Lateral Occipital Cortex (superior),Cingulate Gyrus (anterior),Subthreshold,0.0653,0.0652
+Middle Temporal Gyrus (posterior),Frontal Operculum Cortex,Subthreshold,0.065,0.0649
+Temporal Pole,Supramarginal Gyrus (posterior),Subthreshold,0.0649,0.0648
+Superior Temporal Gyrus (anterior),Angular Gyrus,Subthreshold,0.0646,0.0645
+Inferior Temporal Gyrus (anterior),Paracingulate Gyrus,Subthreshold,0.0645,0.0644
+Superior Frontal Gyrus,Middle Temporal Gyrus (posterior),Subthreshold,0.0641,0.064
+Superior Temporal Gyrus (anterior),Planum Temporale,Subthreshold,0.0637,0.0636
+Superior Temporal Gyrus (anterior),Frontal Orbital Cortex,Subthreshold,0.0636,0.0635
+Supramarginal Gyrus (posterior),Planum Temporale,Subthreshold,0.0634,0.0633
+Inferior Frontal Gyrus (pars opercularis),Temporal Fusiform Cortex (anterior),Subthreshold,0.0634,0.0633
+Postcentral Gyrus,Lingual Gyrus,Subthreshold,0.0629,0.0628
+Angular Gyrus,Lateral Occipital Cortex (superior),Subthreshold,0.0627,0.0626
+Middle Temporal Gyrus (temporooccipital),Lingual Gyrus,Subthreshold,0.0626,0.0625
+Temporal Fusiform Cortex (anterior),Occipital Fusiform Gyrus,Subthreshold,0.0623,0.0623
+Paracingulate Gyrus,Planum Temporale,Subthreshold,0.0623,0.0622
+Middle Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (anterior),Subthreshold,0.0623,0.0622
+Superior Temporal Gyrus (anterior),Supramarginal Gyrus (posterior),Subthreshold,0.0604,0.0603
+Inferior Temporal Gyrus (posterior),Frontal Orbital Cortex,Subthreshold,-0.0603,-0.0602
+Inferior Frontal Gyrus (pars opercularis),Middle Temporal Gyrus (posterior),Subthreshold,0.0598,0.0598
+Inferior Frontal Gyrus (pars triangularis),Temporal Pole,Subthreshold,0.0593,0.0593
+Inferior Temporal Gyrus (anterior),Parietal Operculum Cortex,Subthreshold,0.0593,0.0592
+Middle Frontal Gyrus,Juxtapositional Lobule Cortex,Subthreshold,0.0591,0.059
+Superior Temporal Gyrus (posterior),Intracalcarine Cortex,Subthreshold,0.059,0.0589
+Temporal Fusiform Cortex (posterior),Planum Temporale,Subthreshold,0.059,0.0589
+Inferior Temporal Gyrus (posterior),Cingulate Gyrus (posterior),Subthreshold,-0.0588,-0.0588
+Middle Temporal Gyrus (posterior),Occipital Fusiform Gyrus,Subthreshold,0.0589,0.0588
+Middle Temporal Gyrus (posterior),Postcentral Gyrus,Subthreshold,0.0586,0.0586
+Inferior Temporal Gyrus (posterior),Parahippocampal Gyrus (anterior),Subthreshold,0.0584,0.0583
+Middle Temporal Gyrus (posterior),Subcallosal Cortex,Subthreshold,0.0582,0.0582
+Cingulate Gyrus (anterior),Lingual Gyrus,Subthreshold,0.0583,0.0582
+Precentral Gyrus,Middle Temporal Gyrus (posterior),Subthreshold,0.0579,0.0579
+Supramarginal Gyrus (anterior),Juxtapositional Lobule Cortex,Subthreshold,0.0579,0.0579
+Superior Temporal Gyrus (anterior),Cingulate Gyrus (anterior),Subthreshold,0.0577,0.0577
+Paracingulate Gyrus,Lingual Gyrus,Subthreshold,0.0575,0.0575
+Inferior Temporal Gyrus (anterior),Intracalcarine Cortex,Subthreshold,-0.0573,-0.0572
+Cuneal Cortex,Frontal Orbital Cortex,Subthreshold,0.0569,0.0568
+Inferior Temporal Gyrus (posterior),Paracingulate Gyrus,Subthreshold,0.0565,0.0564
+Middle Temporal Gyrus (anterior),Planum Temporale,Subthreshold,0.0564,0.0564
+Inferior Temporal Gyrus (anterior),Supramarginal Gyrus (anterior),Subthreshold,0.0562,0.0561
+Inferior Temporal Gyrus (anterior),Frontal Medial Cortex,Subthreshold,0.056,0.0559
+Parahippocampal Gyrus (posterior),Frontal Operculum Cortex,Subthreshold,0.0557,0.0557
+Frontal Medial Cortex,Parahippocampal Gyrus (posterior),Subthreshold,0.0557,0.0556
+Precentral Gyrus,Lingual Gyrus,Subthreshold,0.0552,0.0551
+Frontal Medial Cortex,Frontal Operculum Cortex,Subthreshold,0.0548,0.0548
+Inferior Temporal Gyrus (anterior),Lingual Gyrus,Subthreshold,-0.0549,-0.0548
+Inferior Temporal Gyrus (anterior),Lateral Occipital Cortex (superior),Subthreshold,0.0544,0.0543
+Inferior Temporal Gyrus (anterior),Angular Gyrus,Subthreshold,0.0544,0.0543
+Lingual Gyrus,Temporal Occipital Fusiform Cortex,Subthreshold,0.0543,0.0542
+Middle Temporal Gyrus (anterior),Lateral Occipital Cortex (inferior),Subthreshold,0.0539,0.0539
+Parahippocampal Gyrus (posterior),Planum Polare,Subthreshold,-0.0539,-0.0538
+Supramarginal Gyrus (anterior),Intracalcarine Cortex,Subthreshold,0.0538,0.0537
+Superior Parietal Lobule,Intracalcarine Cortex,Subthreshold,0.0536,0.0536
+Inferior Temporal Gyrus (temporooccipital),Frontal Operculum Cortex,Subthreshold,0.0536,0.0535
+Inferior Frontal Gyrus (pars opercularis),Frontal Orbital Cortex,Subthreshold,0.0533,0.0533
+Middle Temporal Gyrus (anterior),Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.0532,0.0532
+Superior Temporal Gyrus (anterior),Postcentral Gyrus,Subthreshold,-0.0529,-0.0529
+Inferior Temporal Gyrus (anterior),Parahippocampal Gyrus (anterior),Subthreshold,0.0527,0.0527
+Inferior Temporal Gyrus (anterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.0523,0.0523
+Inferior Frontal Gyrus (pars triangularis),Lingual Gyrus,Subthreshold,0.0522,0.0521
+Inferior Frontal Gyrus (pars triangularis),Middle Temporal Gyrus (posterior),Subthreshold,0.0518,0.0518
+Temporal Pole,Angular Gyrus,Subthreshold,0.0519,0.0518
+Middle Temporal Gyrus (anterior),Frontal Medial Cortex,Subthreshold,0.051,0.051
+Middle Temporal Gyrus (anterior),Angular Gyrus,Subthreshold,0.0506,0.0506
+Middle Frontal Gyrus,Middle Temporal Gyrus (anterior),Subthreshold,0.0507,0.0506
+Intracalcarine Cortex,Parietal Operculum Cortex,Subthreshold,0.0505,0.0505
+Inferior Temporal Gyrus (posterior),Cuneal Cortex,Subthreshold,0.0503,0.0503
+Postcentral Gyrus,Juxtapositional Lobule Cortex,Subthreshold,0.0503,0.0502
+Intracalcarine Cortex,Occipital Fusiform Gyrus,Subthreshold,0.0503,0.0502
+Middle Temporal Gyrus (temporooccipital),Juxtapositional Lobule Cortex,Subthreshold,0.05,0.05
+Precentral Gyrus,Superior Temporal Gyrus (anterior),Subthreshold,0.05,0.05
+Inferior Temporal Gyrus (temporooccipital),Lingual Gyrus,Subthreshold,0.0496,0.0495
+Temporal Pole,Frontal Orbital Cortex,Subthreshold,0.049,0.049
+Frontal Orbital Cortex,Temporal Fusiform Cortex (posterior),Subthreshold,0.0491,0.049
+Superior Temporal Gyrus (anterior),Cingulate Gyrus (posterior),Subthreshold,0.0485,0.0484
+Inferior Frontal Gyrus (pars opercularis),Middle Temporal Gyrus (anterior),Subthreshold,0.0483,0.0483
+Inferior Temporal Gyrus (posterior),Inferior Temporal Gyrus (temporooccipital),Subthreshold,-0.0484,-0.0483
+Superior Temporal Gyrus (posterior),Inferior Temporal Gyrus (posterior),Subthreshold,-0.048,-0.048
+Middle Temporal Gyrus (posterior),Paracingulate Gyrus,Subthreshold,0.0479,0.0479
+Inferior Temporal Gyrus (anterior),Superior Parietal Lobule,Subthreshold,0.0476,0.0476
+Postcentral Gyrus,Parahippocampal Gyrus (posterior),Subthreshold,-0.0475,-0.0474
+Inferior Temporal Gyrus (posterior),Planum Polare,Subthreshold,0.0469,0.0469
+Inferior Frontal Gyrus (pars opercularis),Superior Temporal Gyrus (posterior),Subthreshold,0.0467,0.0466
+Lateral Occipital Cortex (superior),Lingual Gyrus,Subthreshold,0.0461,0.0461
+Juxtapositional Lobule Cortex,Cingulate Gyrus (anterior),Subthreshold,0.0461,0.0461
+Temporal Pole,Planum Temporale,Subthreshold,0.0459,0.0459
+Frontal Pole,Planum Temporale,Subthreshold,0.0459,0.0458
+Frontal Medial Cortex,Lingual Gyrus,Subthreshold,0.0456,0.0456
+Inferior Temporal Gyrus (posterior),Planum Temporale,Subthreshold,0.0455,0.0455
+Cingulate Gyrus (posterior),Lingual Gyrus,Subthreshold,0.0452,0.0451
+Superior Temporal Gyrus (anterior),Inferior Temporal Gyrus (posterior),Subthreshold,0.0448,0.0448
+Inferior Temporal Gyrus (anterior),Subcallosal Cortex,Subthreshold,0.0436,0.0436
+Inferior Frontal Gyrus (pars triangularis),Temporal Fusiform Cortex (anterior),Subthreshold,0.0434,0.0434
+Inferior Temporal Gyrus (anterior),Cingulate Gyrus (posterior),Subthreshold,0.0433,0.0433
+Middle Temporal Gyrus (anterior),Frontal Orbital Cortex,Subthreshold,0.043,0.043
+Inferior Temporal Gyrus (posterior),Parahippocampal Gyrus (posterior),Subthreshold,0.043,0.0429
+Inferior Temporal Gyrus (posterior),Postcentral Gyrus,Subthreshold,-0.043,-0.0429
+Inferior Temporal Gyrus (posterior),Central Opercular Cortex,Subthreshold,-0.0429,-0.0429
+Juxtapositional Lobule Cortex,Frontal Orbital Cortex,Subthreshold,0.0424,0.0424
+Intracalcarine Cortex,Temporal Fusiform Cortex (anterior),Subthreshold,0.0412,0.0412
+Inferior Temporal Gyrus (posterior),Temporal Occipital Fusiform Cortex,Subthreshold,-0.0411,-0.0411
+Middle Temporal Gyrus (anterior),Parietal Operculum Cortex,Subthreshold,0.0409,0.0409
+Inferior Frontal Gyrus (pars triangularis),Inferior Temporal Gyrus (posterior),Subthreshold,0.0398,0.0398
+Superior Parietal Lobule,Parahippocampal Gyrus (posterior),Subthreshold,0.0397,0.0397
+Superior Temporal Gyrus (anterior),Frontal Medial Cortex,Subthreshold,0.0396,0.0396
+Temporal Pole,Frontal Medial Cortex,Subthreshold,0.0395,0.0395
+Inferior Frontal Gyrus (pars triangularis),Inferior Temporal Gyrus (anterior),Subthreshold,0.0394,0.0394
+Parahippocampal Gyrus (posterior),Occipital Fusiform Gyrus,Subthreshold,0.0394,0.0394
+Superior Frontal Gyrus,Planum Temporale,Subthreshold,0.0394,0.0394
+Temporal Pole,Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.0395,0.0394
+Frontal Pole,Middle Temporal Gyrus (posterior),Subthreshold,0.0393,0.0393
+Supramarginal Gyrus (anterior),Planum Temporale,Subthreshold,0.0394,0.0393
+Lingual Gyrus,Frontal Operculum Cortex,Subthreshold,0.0383,0.0383
+Superior Frontal Gyrus,Inferior Temporal Gyrus (anterior),Subthreshold,0.0378,0.0378
+Intracalcarine Cortex,Parahippocampal Gyrus (anterior),Subthreshold,-0.0378,-0.0378
+Middle Temporal Gyrus (posterior),Cingulate Gyrus (anterior),Subthreshold,0.0376,0.0376
+Inferior Temporal Gyrus (anterior),Frontal Operculum Cortex,Subthreshold,0.0374,0.0374
+Middle Temporal Gyrus (anterior),Inferior Temporal Gyrus (anterior),Subthreshold,0.036,0.036
+Inferior Temporal Gyrus (posterior),Lateral Occipital Cortex (inferior),Subthreshold,-0.036,-0.036
+Inferior Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (anterior),Subthreshold,0.0357,0.0357
+Inferior Temporal Gyrus (posterior),Frontal Operculum Cortex,Subthreshold,0.0347,0.0347
+Cingulate Gyrus (posterior),Parahippocampal Gyrus (posterior),Subthreshold,0.0344,0.0344
+Middle Temporal Gyrus (anterior),Occipital Fusiform Gyrus,Subthreshold,0.0338,0.0338
+Inferior Temporal Gyrus (anterior),Cuneal Cortex,Subthreshold,0.0337,0.0337
+Supramarginal Gyrus (anterior),Parahippocampal Gyrus (posterior),Subthreshold,0.033,0.033
+Middle Temporal Gyrus (anterior),Postcentral Gyrus,Subthreshold,0.0328,0.0328
+Temporal Pole,Superior Parietal Lobule,Subthreshold,0.0329,0.0328
+Cingulate Gyrus (anterior),Parahippocampal Gyrus (posterior),Subthreshold,0.0323,0.0323
+Inferior Frontal Gyrus (pars triangularis),Planum Temporale,Subthreshold,0.0322,0.0322
+Cingulate Gyrus (anterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.032,0.032
+Inferior Temporal Gyrus (anterior),Cingulate Gyrus (anterior),Subthreshold,0.032,0.032
+Frontal Orbital Cortex,Planum Polare,Subthreshold,0.0314,0.0314
+Middle Frontal Gyrus,Lingual Gyrus,Subthreshold,-0.0308,-0.0308
+Middle Temporal Gyrus (anterior),Lingual Gyrus,Subthreshold,0.0307,0.0307
+Temporal Pole,Postcentral Gyrus,Subthreshold,-0.0305,-0.0305
+Cingulate Gyrus (posterior),Temporal Fusiform Cortex (anterior),Subthreshold,0.0304,0.0304
+Precentral Gyrus,Temporal Fusiform Cortex (anterior),Subthreshold,0.0299,0.0299
+Subcallosal Cortex,Frontal Orbital Cortex,Subthreshold,0.0291,0.0291
+Precentral Gyrus,Inferior Temporal Gyrus (anterior),Subthreshold,0.029,0.029
+Inferior Frontal Gyrus (pars opercularis),Inferior Temporal Gyrus (anterior),Subthreshold,0.0284,0.0283
+Inferior Frontal Gyrus (pars triangularis),Superior Temporal Gyrus (anterior),Subthreshold,0.0278,0.0278
+Subcallosal Cortex,Parahippocampal Gyrus (posterior),Subthreshold,-0.0276,-0.0276
+Parahippocampal Gyrus (posterior),Planum Temporale,Subthreshold,-0.0274,-0.0274
+Insular Cortex,Inferior Temporal Gyrus (anterior),Subthreshold,0.0267,0.0267
+Middle Frontal Gyrus,Superior Temporal Gyrus (anterior),Subthreshold,0.0266,0.0266
+Inferior Temporal Gyrus (anterior),Frontal Orbital Cortex,Subthreshold,0.0261,0.0261
+Inferior Temporal Gyrus (posterior),Supramarginal Gyrus (posterior),Subthreshold,-0.0258,-0.0258
+Parahippocampal Gyrus (posterior),Temporal Fusiform Cortex (posterior),Subthreshold,-0.0249,-0.0249
+Middle Temporal Gyrus (anterior),Supramarginal Gyrus (anterior),Subthreshold,0.0246,0.0246
+Inferior Frontal Gyrus (pars opercularis),Parahippocampal Gyrus (posterior),Subthreshold,-0.0235,-0.0235
+Middle Temporal Gyrus (posterior),Supramarginal Gyrus (anterior),Subthreshold,0.0235,0.0235
+Inferior Temporal Gyrus (posterior),Parietal Operculum Cortex,Subthreshold,0.0232,0.0232
+Inferior Frontal Gyrus (pars opercularis),Inferior Temporal Gyrus (posterior),Subthreshold,0.0228,0.0228
+Precentral Gyrus,Parahippocampal Gyrus (posterior),Subthreshold,0.0226,0.0226
+Insular Cortex,Parahippocampal Gyrus (posterior),Subthreshold,0.0221,0.0221
+Postcentral Gyrus,Lateral Occipital Cortex (superior),Subthreshold,-0.0218,-0.0218
+Parahippocampal Gyrus (posterior),Temporal Occipital Fusiform Cortex,Subthreshold,0.0216,0.0216
+Postcentral Gyrus,Temporal Fusiform Cortex (anterior),Subthreshold,-0.0211,-0.0211
+Temporal Pole,Supramarginal Gyrus (anterior),Subthreshold,0.0211,0.0211
+Juxtapositional Lobule Cortex,Parahippocampal Gyrus (posterior),Subthreshold,0.0211,0.0211
+Temporal Pole,Occipital Fusiform Gyrus,Subthreshold,0.0205,0.0205
+Frontal Pole,Inferior Temporal Gyrus (posterior),Subthreshold,0.0204,0.0204
+Superior Temporal Gyrus (anterior),Superior Parietal Lobule,Subthreshold,-0.0202,-0.0202
+Supramarginal Gyrus (anterior),Lateral Occipital Cortex (superior),Subthreshold,0.0202,0.0202
+Inferior Temporal Gyrus (anterior),Planum Temporale,Subthreshold,0.0201,0.02
+Inferior Frontal Gyrus (pars opercularis),Planum Temporale,Subthreshold,0.0196,0.0196
+Inferior Frontal Gyrus (pars triangularis),Frontal Orbital Cortex,Subthreshold,0.0195,0.0195
+Inferior Temporal Gyrus (anterior),Postcentral Gyrus,Subthreshold,0.0194,0.0194
+Lateral Occipital Cortex (inferior),Parahippocampal Gyrus (posterior),Subthreshold,-0.0192,-0.0192
+Middle Frontal Gyrus,Parahippocampal Gyrus (posterior),Subthreshold,-0.019,-0.019
+Intracalcarine Cortex,Lingual Gyrus,Subthreshold,-0.0187,-0.0187
+Middle Temporal Gyrus (posterior),Superior Parietal Lobule,Subthreshold,0.0186,0.0186
+Frontal Pole,Parahippocampal Gyrus (posterior),Subthreshold,-0.0186,-0.0186
+Middle Frontal Gyrus,Inferior Temporal Gyrus (anterior),Subthreshold,0.0182,0.0182
+Cingulate Gyrus (posterior),Planum Temporale,Subthreshold,0.0182,0.0182
+Inferior Temporal Gyrus (anterior),Planum Polare,Subthreshold,0.0178,0.0178
+Middle Temporal Gyrus (posterior),Inferior Temporal Gyrus (posterior),Subthreshold,0.0175,0.0175
+Frontal Orbital Cortex,Planum Temporale,Subthreshold,0.0173,0.0173
+Inferior Temporal Gyrus (anterior),Supramarginal Gyrus (posterior),Subthreshold,0.0168,0.0168
+Superior Frontal Gyrus,Parahippocampal Gyrus (posterior),Subthreshold,-0.0165,-0.0165
+Superior Parietal Lobule,Planum Temporale,Subthreshold,0.0165,0.0165
+Inferior Temporal Gyrus (posterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.0161,0.0161
+Temporal Pole,Inferior Temporal Gyrus (anterior),Subthreshold,0.0159,0.0159
+Inferior Temporal Gyrus (posterior),Frontal Medial Cortex,Subthreshold,0.0156,0.0156
+Middle Frontal Gyrus,Intracalcarine Cortex,Subthreshold,0.0155,0.0155
+Frontal Medial Cortex,Planum Temporale,Subthreshold,0.0154,0.0154
+Inferior Temporal Gyrus (anterior),Inferior Temporal Gyrus (temporooccipital),Subthreshold,0.0151,0.0151
+Superior Frontal Gyrus,Inferior Temporal Gyrus (posterior),Subthreshold,0.0151,0.0151
+Inferior Temporal Gyrus (posterior),Occipital Fusiform Gyrus,Subthreshold,-0.0151,-0.0151
+Inferior Temporal Gyrus (posterior),Cingulate Gyrus (anterior),Subthreshold,-0.0148,-0.0148
+Precentral Gyrus,Inferior Temporal Gyrus (posterior),Subthreshold,0.0148,0.0148
+Lateral Occipital Cortex (superior),Cingulate Gyrus (posterior),Subthreshold,0.0146,0.0146
+Middle Temporal Gyrus (anterior),Inferior Temporal Gyrus (posterior),Subthreshold,0.0142,0.0142
+Inferior Temporal Gyrus (posterior),Precuneous Cortex,Subthreshold,0.0139,0.0139
+Precentral Gyrus,Planum Temporale,Subthreshold,0.0133,0.0133
+Inferior Temporal Gyrus (anterior),Juxtapositional Lobule Cortex,Subthreshold,-0.0124,-0.0124
+Cingulate Gyrus (anterior),Planum Temporale,Subthreshold,-0.0121,-0.0121
+Superior Temporal Gyrus (anterior),Inferior Temporal Gyrus (temporooccipital),Subthreshold,-0.0118,-0.0118
+Lateral Occipital Cortex (inferior),Lingual Gyrus,Subthreshold,0.0118,0.0118
+Inferior Frontal Gyrus (pars triangularis),Middle Temporal Gyrus (anterior),Subthreshold,-0.0116,-0.0116
+Frontal Pole,Inferior Temporal Gyrus (anterior),Subthreshold,0.0112,0.0112
+Middle Frontal Gyrus,Middle Temporal Gyrus (posterior),Subthreshold,0.0111,0.0111
+Middle Temporal Gyrus (temporooccipital),Frontal Orbital Cortex,Subthreshold,0.0108,0.0108
+Inferior Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (posterior),Subthreshold,-0.0103,-0.0103
+Intracalcarine Cortex,Frontal Orbital Cortex,Subthreshold,0.0102,0.0102
+Inferior Temporal Gyrus (anterior),Temporal Fusiform Cortex (posterior),Subthreshold,0.0101,0.0101
+Middle Frontal Gyrus,Planum Temporale,Subthreshold,-0.01,-0.01
+Parahippocampal Gyrus (posterior),Temporal Fusiform Cortex (anterior),Subthreshold,-0.0099,-0.0099
+Middle Temporal Gyrus (anterior),Superior Parietal Lobule,Subthreshold,0.0093,0.0093
+Planum Polare,Planum Temporale,Subthreshold,0.009,0.009
+Inferior Temporal Gyrus (temporooccipital),Planum Temporale,Subthreshold,0.0088,0.0088
+Intracalcarine Cortex,Planum Temporale,Subthreshold,-0.0083,-0.0083
+Postcentral Gyrus,Planum Temporale,Subthreshold,-0.0072,-0.0072
+Superior Temporal Gyrus (anterior),Lingual Gyrus,Subthreshold,-0.0066,-0.0066
+Inferior Temporal Gyrus (posterior),Superior Parietal Lobule,Subthreshold,-0.0058,-0.0058
+Insular Cortex,Inferior Temporal Gyrus (posterior),Subthreshold,0.0053,0.0053
+Middle Frontal Gyrus,Frontal Operculum Cortex,Subthreshold,-0.0052,-0.0052
+Juxtapositional Lobule Cortex,Lingual Gyrus,Subthreshold,-0.0049,-0.0049
+Inferior Temporal Gyrus (posterior),Juxtapositional Lobule Cortex,Subthreshold,0.0046,0.0046
+Middle Temporal Gyrus (posterior),Parahippocampal Gyrus (posterior),Subthreshold,-0.0039,-0.0039
+Inferior Temporal Gyrus (posterior),Supramarginal Gyrus (anterior),Subthreshold,0.0039,0.0039
+Cuneal Cortex,Parahippocampal Gyrus (posterior),Subthreshold,-0.0035,-0.0035
+Paracingulate Gyrus,Parahippocampal Gyrus (posterior),Subthreshold,-0.003,-0.003
+Middle Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (posterior),Subthreshold,-0.0023,-0.0023
+Middle Frontal Gyrus,Temporal Fusiform Cortex (anterior),Subthreshold,-0.0016,-0.0016
+Middle Temporal Gyrus (temporooccipital),Intracalcarine Cortex,Subthreshold,0.0014,0.0014
+Postcentral Gyrus,Frontal Operculum Cortex,Subthreshold,-0.0008,-0.0008
+Middle Frontal Gyrus,Inferior Temporal Gyrus (posterior),Subthreshold,-0.0003,-0.0003
+Superior Temporal Gyrus (anterior),Supramarginal Gyrus (anterior),Subthreshold,0.0003,0.0003
+Intracalcarine Cortex,Parahippocampal Gyrus (posterior),Subthreshold,-0.0001,-0.0001

@@ -1,0 +1,320 @@
+source,target,Fisher_Z
+Postcentral Gyrus,Cingulate Gyrus (posterior),1.5186
+Central Opercular Cortex,Parietal Operculum Cortex,1.4133
+Subcallosal Cortex,Paracingulate Gyrus,1.3722
+Postcentral Gyrus,Cingulate Gyrus (anterior),1.3696
+Precentral Gyrus,Inferior Temporal Gyrus (temporooccipital),1.3613
+Insular Cortex,Temporal Occipital Fusiform Cortex,1.3537
+Angular Gyrus,Cingulate Gyrus (posterior),1.3363
+Superior Frontal Gyrus,Subcallosal Cortex,1.3223
+Superior Frontal Gyrus,Frontal Medial Cortex,1.2952
+Paracingulate Gyrus,Cingulate Gyrus (anterior),1.2914
+Superior Frontal Gyrus,Precentral Gyrus,1.2711
+Superior Temporal Gyrus (posterior),Parietal Operculum Cortex,1.2687
+Superior Temporal Gyrus (posterior),Central Opercular Cortex,1.2665
+Inferior Temporal Gyrus (temporooccipital),Postcentral Gyrus,1.2634
+Cingulate Gyrus (anterior),Cingulate Gyrus (posterior),1.2613
+Frontal Medial Cortex,Subcallosal Cortex,1.2533
+Postcentral Gyrus,Angular Gyrus,1.2383
+Precentral Gyrus,Supramarginal Gyrus (anterior),1.2222
+Precentral Gyrus,Paracingulate Gyrus,1.2202
+Middle Frontal Gyrus,Paracingulate Gyrus,1.216
+Supramarginal Gyrus (posterior),Angular Gyrus,1.2118
+Precentral Gyrus,Postcentral Gyrus,1.1927
+Superior Frontal Gyrus,Middle Frontal Gyrus,1.1888
+Precentral Gyrus,Frontal Medial Cortex,1.175
+Middle Frontal Gyrus,Precentral Gyrus,1.1725
+Superior Frontal Gyrus,Paracingulate Gyrus,1.1662
+Postcentral Gyrus,Supramarginal Gyrus (anterior),1.1486
+Precentral Gyrus,Subcallosal Cortex,1.1472
+Supramarginal Gyrus (posterior),Cingulate Gyrus (posterior),1.1459
+Superior Frontal Gyrus,Postcentral Gyrus,1.1426
+Superior Frontal Gyrus,Inferior Temporal Gyrus (temporooccipital),1.1318
+Supramarginal Gyrus (anterior),Supramarginal Gyrus (posterior),1.1298
+Frontal Pole,Subcallosal Cortex,1.1224
+Postcentral Gyrus,Paracingulate Gyrus,1.1197
+Superior Frontal Gyrus,Cingulate Gyrus (posterior),1.1038
+Supramarginal Gyrus (anterior),Subcallosal Cortex,1.0925
+Frontal Medial Cortex,Paracingulate Gyrus,1.0814
+Precentral Gyrus,Cingulate Gyrus (anterior),1.0771
+Subcallosal Cortex,Cingulate Gyrus (anterior),1.0765
+Supramarginal Gyrus (anterior),Cingulate Gyrus (anterior),1.0744
+Cingulate Gyrus (posterior),Occipital Fusiform Gyrus,1.0718
+Superior Frontal Gyrus,Supramarginal Gyrus (anterior),1.0706
+Occipital Fusiform Gyrus,Parietal Operculum Cortex,1.0669
+Postcentral Gyrus,Supramarginal Gyrus (posterior),1.0628
+Middle Frontal Gyrus,Cingulate Gyrus (anterior),1.0597
+Middle Frontal Gyrus,Cingulate Gyrus (posterior),1.0521
+Supramarginal Gyrus (anterior),Paracingulate Gyrus,1.0498
+Inferior Temporal Gyrus (temporooccipital),Supramarginal Gyrus (anterior),1.0479
+Supramarginal Gyrus (anterior),Frontal Medial Cortex,1.0469
+Superior Temporal Gyrus (posterior),Middle Temporal Gyrus (posterior),1.0441
+Inferior Temporal Gyrus (temporooccipital),Cingulate Gyrus (posterior),1.0413
+Paracingulate Gyrus,Cingulate Gyrus (posterior),1.0403
+Supramarginal Gyrus (anterior),Angular Gyrus,1.0384
+Inferior Temporal Gyrus (temporooccipital),Cingulate Gyrus (anterior),1.0339
+Middle Frontal Gyrus,Postcentral Gyrus,1.0303
+Inferior Temporal Gyrus (temporooccipital),Paracingulate Gyrus,1.0241
+Superior Frontal Gyrus,Cingulate Gyrus (anterior),1.0223
+Supramarginal Gyrus (anterior),Cingulate Gyrus (posterior),1.0166
+Middle Frontal Gyrus,Subcallosal Cortex,1.0131
+Middle Frontal Gyrus,Frontal Medial Cortex,1.006
+Insular Cortex,Temporal Fusiform Cortex (posterior),1.0014
+Superior Frontal Gyrus,Angular Gyrus,1.0009
+Postcentral Gyrus,Subcallosal Cortex,0.9941
+Postcentral Gyrus,Occipital Fusiform Gyrus,0.9901
+Precentral Gyrus,Angular Gyrus,0.9883
+Inferior Frontal Gyrus (pars opercularis),Precentral Gyrus,0.9859
+Precentral Gyrus,Cingulate Gyrus (posterior),0.9859
+Inferior Temporal Gyrus (temporooccipital),Angular Gyrus,0.9846
+Angular Gyrus,Cingulate Gyrus (anterior),0.9846
+Cingulate Gyrus (posterior),Parietal Operculum Cortex,0.9821
+Inferior Temporal Gyrus (temporooccipital),Subcallosal Cortex,0.9779
+Angular Gyrus,Paracingulate Gyrus,0.9722
+Middle Frontal Gyrus,Supramarginal Gyrus (anterior),0.9634
+Superior Temporal Gyrus (posterior),Cingulate Gyrus (posterior),0.9618
+Angular Gyrus,Subcallosal Cortex,0.9559
+Superior Parietal Lobule,Supramarginal Gyrus (anterior),0.9554
+Postcentral Gyrus,Superior Parietal Lobule,0.9397
+Middle Temporal Gyrus (posterior),Parietal Operculum Cortex,0.9333
+Precuneous Cortex,Central Opercular Cortex,0.9332
+Subcallosal Cortex,Cingulate Gyrus (posterior),0.9316
+Frontal Orbital Cortex,Parahippocampal Gyrus (posterior),0.9266
+Inferior Frontal Gyrus (pars opercularis),Paracingulate Gyrus,0.9181
+Paracingulate Gyrus,Occipital Fusiform Gyrus,0.9107
+Superior Parietal Lobule,Cingulate Gyrus (posterior),0.9036
+Supramarginal Gyrus (posterior),Cingulate Gyrus (anterior),0.8905
+Frontal Pole,Paracingulate Gyrus,0.8866
+Cingulate Gyrus (anterior),Occipital Fusiform Gyrus,0.8827
+Frontal Pole,Precentral Gyrus,0.8794
+Middle Temporal Gyrus (posterior),Central Opercular Cortex,0.8793
+Middle Temporal Gyrus (posterior),Inferior Temporal Gyrus (anterior),0.879
+Postcentral Gyrus,Parietal Operculum Cortex,0.8788
+Precuneous Cortex,Parahippocampal Gyrus (posterior),0.8758
+Middle Frontal Gyrus,Angular Gyrus,0.8753
+Postcentral Gyrus,Frontal Medial Cortex,0.8739
+Frontal Orbital Cortex,Central Opercular Cortex,0.8727
+Inferior Temporal Gyrus (temporooccipital),Frontal Medial Cortex,0.8657
+Insular Cortex,Middle Temporal Gyrus (temporooccipital),0.8624
+Superior Parietal Lobule,Angular Gyrus,0.8614
+Cingulate Gyrus (posterior),Central Opercular Cortex,0.8613
+Frontal Pole,Superior Frontal Gyrus,0.8588
+Middle Frontal Gyrus,Superior Parietal Lobule,0.8582
+Middle Frontal Gyrus,Supramarginal Gyrus (posterior),0.8574
+Frontal Pole,Cingulate Gyrus (anterior),0.8572
+Parahippocampal Gyrus (posterior),Central Opercular Cortex,0.8571
+Precentral Gyrus,Superior Parietal Lobule,0.8566
+Precentral Gyrus,Supramarginal Gyrus (posterior),0.844
+Superior Frontal Gyrus,Superior Temporal Gyrus (posterior),0.8428
+Middle Temporal Gyrus (temporooccipital),Temporal Occipital Fusiform Cortex,0.8426
+Frontal Pole,Insular Cortex,0.8414
+Angular Gyrus,Occipital Fusiform Gyrus,0.8404
+Superior Frontal Gyrus,Parietal Operculum Cortex,0.8396
+Temporal Fusiform Cortex (posterior),Temporal Occipital Fusiform Cortex,0.8383
+Superior Parietal Lobule,Cingulate Gyrus (anterior),0.8331
+Superior Frontal Gyrus,Supramarginal Gyrus (posterior),0.8306
+Precentral Gyrus,Occipital Fusiform Gyrus,0.8299
+Middle Frontal Gyrus,Inferior Temporal Gyrus (temporooccipital),0.8236
+Inferior Frontal Gyrus (pars opercularis),Inferior Temporal Gyrus (temporooccipital),0.8217
+Supramarginal Gyrus (anterior),Occipital Fusiform Gyrus,0.8214
+Frontal Pole,Frontal Medial Cortex,0.8164
+Frontal Orbital Cortex,Lingual Gyrus,0.816
+Angular Gyrus,Frontal Medial Cortex,0.8106
+Inferior Temporal Gyrus (temporooccipital),Supramarginal Gyrus (posterior),0.8065
+Superior Temporal Gyrus (posterior),Postcentral Gyrus,0.8062
+Frontal Medial Cortex,Cingulate Gyrus (posterior),0.8005
+Precuneous Cortex,Lingual Gyrus,0.7957
+Parahippocampal Gyrus (posterior),Lingual Gyrus,0.7938
+Superior Parietal Lobule,Supramarginal Gyrus (posterior),0.7917
+Occipital Fusiform Gyrus,Central Opercular Cortex,0.7844
+Superior Temporal Gyrus (posterior),Precuneous Cortex,0.7839
+Inferior Temporal Gyrus (temporooccipital),Occipital Fusiform Gyrus,0.7824
+Frontal Orbital Cortex,Parietal Operculum Cortex,0.7818
+Superior Parietal Lobule,Paracingulate Gyrus,0.7805
+Frontal Pole,Inferior Temporal Gyrus (temporooccipital),0.7787
+Frontal Medial Cortex,Cingulate Gyrus (anterior),0.7778
+Insular Cortex,Subcallosal Cortex,0.7755
+Supramarginal Gyrus (posterior),Subcallosal Cortex,0.7735
+Middle Frontal Gyrus,Occipital Fusiform Gyrus,0.7694
+Inferior Temporal Gyrus (temporooccipital),Parietal Operculum Cortex,0.7689
+Supramarginal Gyrus (posterior),Paracingulate Gyrus,0.7667
+Precuneous Cortex,Parietal Operculum Cortex,0.7651
+Middle Temporal Gyrus (posterior),Precuneous Cortex,0.7624
+Middle Temporal Gyrus (posterior),Parahippocampal Gyrus (posterior),0.7612
+Superior Frontal Gyrus,Occipital Fusiform Gyrus,0.7603
+Superior Frontal Gyrus,Superior Parietal Lobule,0.7594
+Inferior Frontal Gyrus (pars triangularis),Temporal Fusiform Cortex (posterior),0.7462
+Frontal Pole,Supramarginal Gyrus (anterior),0.7424
+Paracingulate Gyrus,Parietal Operculum Cortex,0.7404
+Superior Frontal Gyrus,Central Opercular Cortex,0.7384
+Inferior Frontal Gyrus (pars opercularis),Subcallosal Cortex,0.7372
+Subcallosal Cortex,Occipital Fusiform Gyrus,0.7371
+Inferior Temporal Gyrus (temporooccipital),Superior Parietal Lobule,0.7327
+Superior Parietal Lobule,Subcallosal Cortex,0.7327
+Superior Temporal Gyrus (posterior),Occipital Fusiform Gyrus,0.7297
+Inferior Frontal Gyrus (pars triangularis),Paracingulate Gyrus,0.7289
+Supramarginal Gyrus (anterior),Parietal Operculum Cortex,0.7286
+Superior Parietal Lobule,Occipital Fusiform Gyrus,0.728
+Parahippocampal Gyrus (posterior),Parietal Operculum Cortex,0.7279
+Middle Frontal Gyrus,Inferior Frontal Gyrus (pars opercularis),0.7272
+Inferior Frontal Gyrus (pars opercularis),Cingulate Gyrus (anterior),0.7256
+Lingual Gyrus,Central Opercular Cortex,0.7202
+Inferior Temporal Gyrus (temporooccipital),Temporal Occipital Fusiform Cortex,0.72
+Superior Temporal Gyrus (posterior),Inferior Temporal Gyrus (temporooccipital),0.7191
+Superior Temporal Gyrus (posterior),Parahippocampal Gyrus (posterior),0.7158
+Supramarginal Gyrus (posterior),Frontal Medial Cortex,0.7144
+Inferior Frontal Gyrus (pars triangularis),Cingulate Gyrus (anterior),0.7133
+Insular Cortex,Inferior Temporal Gyrus (temporooccipital),0.7094
+Superior Temporal Gyrus (posterior),Supramarginal Gyrus (posterior),0.7088
+Frontal Medial Cortex,Occipital Fusiform Gyrus,0.7086
+Superior Parietal Lobule,Frontal Medial Cortex,0.7086
+Angular Gyrus,Parietal Operculum Cortex,0.7082
+Frontal Orbital Cortex,Parahippocampal Gyrus (anterior),0.707
+Postcentral Gyrus,Central Opercular Cortex,0.707
+Middle Temporal Gyrus (temporooccipital),Lateral Occipital Cortex (inferior),0.7055
+Inferior Frontal Gyrus (pars opercularis),Supramarginal Gyrus (anterior),0.7014
+Insular Cortex,Superior Frontal Gyrus,0.7009
+Insular Cortex,Paracingulate Gyrus,0.7005
+Middle Frontal Gyrus,Superior Temporal Gyrus (posterior),0.7002
+Supramarginal Gyrus (posterior),Occipital Fusiform Gyrus,0.6984
+Inferior Frontal Gyrus (pars opercularis),Occipital Fusiform Gyrus,0.6919
+Middle Frontal Gyrus,Parietal Operculum Cortex,0.6909
+Precuneous Cortex,Frontal Orbital Cortex,0.6865
+Inferior Frontal Gyrus (pars triangularis),Inferior Frontal Gyrus (pars opercularis),0.6844
+Middle Temporal Gyrus (posterior),Cingulate Gyrus (posterior),0.6815
+Frontal Pole,Temporal Fusiform Cortex (posterior),0.6809
+Temporal Pole,Lateral Occipital Cortex (inferior),0.6807
+Subcallosal Cortex,Parietal Operculum Cortex,0.6797
+Superior Parietal Lobule,Parietal Operculum Cortex,0.6759
+Cingulate Gyrus (anterior),Parietal Operculum Cortex,0.6733
+Inferior Frontal Gyrus (pars opercularis),Angular Gyrus,0.672
+Superior Temporal Gyrus (posterior),Subcallosal Cortex,0.6709
+Middle Temporal Gyrus (temporooccipital),Inferior Temporal Gyrus (temporooccipital),0.6696
+Supramarginal Gyrus (posterior),Parietal Operculum Cortex,0.6674
+Inferior Temporal Gyrus (anterior),Central Opercular Cortex,0.6644
+Subcallosal Cortex,Temporal Occipital Fusiform Cortex,0.6641
+Superior Frontal Gyrus,Inferior Frontal Gyrus (pars opercularis),0.6633
+Frontal Pole,Postcentral Gyrus,0.6586
+Frontal Medial Cortex,Parietal Operculum Cortex,0.6585
+Middle Frontal Gyrus,Central Opercular Cortex,0.6582
+Inferior Temporal Gyrus (anterior),Parahippocampal Gyrus (posterior),0.6573
+Superior Temporal Gyrus (posterior),Angular Gyrus,0.6543
+Paracingulate Gyrus,Planum Polare,0.6535
+Superior Temporal Gyrus (posterior),Cingulate Gyrus (anterior),0.6535
+Superior Temporal Gyrus (posterior),Frontal Orbital Cortex,0.6534
+Superior Temporal Gyrus (posterior),Supramarginal Gyrus (anterior),0.6533
+Frontal Pole,Angular Gyrus,0.6515
+Inferior Frontal Gyrus (pars opercularis),Frontal Medial Cortex,0.6501
+Inferior Frontal Gyrus (pars opercularis),Postcentral Gyrus,0.6498
+Lingual Gyrus,Parietal Operculum Cortex,0.6497
+Frontal Pole,Inferior Frontal Gyrus (pars opercularis),0.6494
+Insular Cortex,Frontal Operculum Cortex,0.6487
+Inferior Frontal Gyrus (pars opercularis),Temporal Pole,0.6471
+Precentral Gyrus,Parietal Operculum Cortex,0.6469
+Superior Temporal Gyrus (posterior),Inferior Temporal Gyrus (anterior),0.646
+Inferior Frontal Gyrus (pars triangularis),Subcallosal Cortex,0.6457
+Frontal Pole,Inferior Frontal Gyrus (pars triangularis),0.6443
+Inferior Frontal Gyrus (pars opercularis),Temporal Occipital Fusiform Cortex,0.6419
+Parietal Operculum Cortex,Planum Polare,0.6395
+Inferior Frontal Gyrus (pars opercularis),Cingulate Gyrus (posterior),0.6374
+Angular Gyrus,Temporal Occipital Fusiform Cortex,0.6345
+Parahippocampal Gyrus (anterior),Planum Polare,0.6342
+Superior Temporal Gyrus (posterior),Paracingulate Gyrus,0.6328
+Parahippocampal Gyrus (anterior),Temporal Occipital Fusiform Cortex,0.6322
+Middle Temporal Gyrus (posterior),Lingual Gyrus,0.6322
+Occipital Fusiform Gyrus,Planum Polare,0.6299
+Cingulate Gyrus (posterior),Planum Polare,0.6295
+Middle Temporal Gyrus (posterior),Occipital Fusiform Gyrus,0.6293
+Inferior Temporal Gyrus (anterior),Precuneous Cortex,0.6276
+Insular Cortex,Cingulate Gyrus (anterior),0.6271
+Subcallosal Cortex,Temporal Fusiform Cortex (posterior),0.6261
+Intracalcarine Cortex,Cuneal Cortex,0.622
+Frontal Pole,Middle Frontal Gyrus,0.6217
+Postcentral Gyrus,Planum Polare,0.62
+Inferior Temporal Gyrus (temporooccipital),Planum Polare,0.6198
+Frontal Pole,Cingulate Gyrus (posterior),0.6175
+Cingulate Gyrus (posterior),Precuneous Cortex,0.6172
+Central Opercular Cortex,Planum Polare,0.6144
+Paracingulate Gyrus,Temporal Occipital Fusiform Cortex,0.6136
+Inferior Frontal Gyrus (pars opercularis),Superior Parietal Lobule,0.612
+Insular Cortex,Precentral Gyrus,0.6114
+Insular Cortex,Lateral Occipital Cortex (inferior),0.6112
+Insular Cortex,Inferior Frontal Gyrus (pars opercularis),0.6102
+Superior Frontal Gyrus,Temporal Occipital Fusiform Cortex,0.6049
+Superior Frontal Gyrus,Planum Polare,0.6048
+Paracingulate Gyrus,Central Opercular Cortex,0.6043
+Insular Cortex,Angular Gyrus,0.6005
+Insular Cortex,Parahippocampal Gyrus (anterior),0.5979
+Superior Temporal Gyrus (posterior),Frontal Medial Cortex,0.5968
+Cingulate Gyrus (anterior),Central Opercular Cortex,0.5952
+Cingulate Gyrus (posterior),Temporal Occipital Fusiform Cortex,0.5949
+Middle Frontal Gyrus,Inferior Frontal Gyrus (pars triangularis),0.5933
+Precentral Gyrus,Planum Polare,0.5922
+Precentral Gyrus,Superior Temporal Gyrus (posterior),0.592
+Precentral Gyrus,Temporal Occipital Fusiform Cortex,0.5884
+Lateral Occipital Cortex (inferior),Parahippocampal Gyrus (anterior),0.588
+Cingulate Gyrus (anterior),Temporal Occipital Fusiform Cortex,0.5869
+Superior Temporal Gyrus (posterior),Superior Parietal Lobule,0.5867
+Temporal Pole,Middle Temporal Gyrus (temporooccipital),0.5867
+Cingulate Gyrus (anterior),Planum Polare,0.5862
+Inferior Frontal Gyrus (pars triangularis),Cingulate Gyrus (posterior),0.5844
+Frontal Pole,Temporal Occipital Fusiform Cortex,0.581
+Parahippocampal Gyrus (anterior),Lingual Gyrus,0.58
+Lateral Occipital Cortex (inferior),Temporal Occipital Fusiform Cortex,0.5798
+Frontal Pole,Middle Temporal Gyrus (temporooccipital),0.5795
+Inferior Frontal Gyrus (pars opercularis),Middle Temporal Gyrus (temporooccipital),0.579
+Superior Temporal Gyrus (posterior),Planum Polare,0.5788
+Subcallosal Cortex,Planum Polare,0.5783
+Paracingulate Gyrus,Temporal Fusiform Cortex (posterior),0.574
+Middle Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (posterior),0.5712
+Precuneous Cortex,Occipital Fusiform Gyrus,0.5711
+Insular Cortex,Supramarginal Gyrus (anterior),0.57
+Cingulate Gyrus (anterior),Temporal Fusiform Cortex (posterior),0.5659
+Middle Temporal Gyrus (posterior),Frontal Orbital Cortex,0.5634
+Inferior Frontal Gyrus (pars triangularis),Inferior Temporal Gyrus (temporooccipital),0.5621
+Middle Temporal Gyrus (temporooccipital),Parahippocampal Gyrus (anterior),0.5612
+Precentral Gyrus,Middle Temporal Gyrus (temporooccipital),0.5591
+Inferior Frontal Gyrus (pars opercularis),Supramarginal Gyrus (posterior),0.5571
+Insular Cortex,Cingulate Gyrus (posterior),0.5558
+Superior Temporal Gyrus (posterior),Lingual Gyrus,0.5507
+Supramarginal Gyrus (anterior),Temporal Occipital Fusiform Cortex,0.55
+Middle Temporal Gyrus (temporooccipital),Subcallosal Cortex,0.55
+Inferior Temporal Gyrus (temporooccipital),Central Opercular Cortex,0.5468
+Superior Frontal Gyrus,Temporal Fusiform Cortex (posterior),0.5462
+Insular Cortex,Temporal Pole,0.5406
+Inferior Frontal Gyrus (pars triangularis),Superior Temporal Gyrus (posterior),0.5403
+Inferior Frontal Gyrus (pars triangularis),Parietal Operculum Cortex,0.5398
+Middle Temporal Gyrus (posterior),Postcentral Gyrus,0.5387
+Inferior Temporal Gyrus (temporooccipital),Temporal Fusiform Cortex (posterior),0.5372
+Supramarginal Gyrus (anterior),Planum Polare,0.537
+Angular Gyrus,Central Opercular Cortex,0.5365
+Superior Frontal Gyrus,Inferior Frontal Gyrus (pars triangularis),0.5352
+Inferior Frontal Gyrus (pars opercularis),Temporal Fusiform Cortex (posterior),0.5335
+Lingual Gyrus,Occipital Fusiform Gyrus,0.5316
+Postcentral Gyrus,Temporal Occipital Fusiform Cortex,0.53
+Parahippocampal Gyrus (anterior),Parietal Operculum Cortex,0.5289
+Supramarginal Gyrus (posterior),Central Opercular Cortex,0.5287
+Middle Temporal Gyrus (posterior),Angular Gyrus,0.528
+Frontal Pole,Supramarginal Gyrus (posterior),0.527
+Insular Cortex,Planum Polare,0.5257
+Superior Parietal Lobule,Central Opercular Cortex,0.5249
+Inferior Frontal Gyrus (pars triangularis),Postcentral Gyrus,0.5239
+Subcallosal Cortex,Central Opercular Cortex,0.5221
+Frontal Pole,Temporal Pole,0.522
+Middle Temporal Gyrus (temporooccipital),Inferior Temporal Gyrus (posterior),0.5176
+Temporal Occipital Fusiform Cortex,Planum Polare,0.5159
+Inferior Frontal Gyrus (pars triangularis),Occipital Fusiform Gyrus,0.5131
+Insular Cortex,Postcentral Gyrus,0.5129
+Inferior Temporal Gyrus (posterior),Lateral Occipital Cortex (superior),0.5116
+Inferior Temporal Gyrus (posterior),Lateral Occipital Cortex (inferior),0.5099
+Inferior Frontal Gyrus (pars triangularis),Frontal Medial Cortex,0.5087
+Temporal Occipital Fusiform Cortex,Occipital Fusiform Gyrus,0.5079
+Frontal Medial Cortex,Planum Polare,0.5076
+Temporal Occipital Fusiform Cortex,Parietal Operculum Cortex,0.5073
+Cingulate Gyrus (posterior),Temporal Fusiform Cortex (posterior),0.506
+Superior Frontal Gyrus,Middle Temporal Gyrus (temporooccipital),0.5053
+Inferior Frontal Gyrus (pars triangularis),Precentral Gyrus,0.5038
+Inferior Frontal Gyrus (pars opercularis),Planum Polare,0.5037
+Inferior Temporal Gyrus (anterior),Parietal Operculum Cortex,0.5024
+Angular Gyrus,Temporal Fusiform Cortex (posterior),0.5017
+Angular Gyrus,Planum Polare,0.5006
